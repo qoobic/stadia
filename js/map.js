@@ -36,21 +36,32 @@ export function showGuessState(targetVenue) {
   map.setMaxZoom(18);
   map.setView([targetVenue.lat, targetVenue.lng], defaultZoom, { animate: false });
 
-  // Square boundary in pixel space: side = max(width, height).
-  // Portrait (h > w): square fits height exactly → horizontal scroll only at default zoom.
-  // Landscape (w > h): square fits width exactly → vertical scroll only at default zoom.
-  const { x: w, y: h } = map.getSize();
-  const half = Math.max(w, h) / 2;
-  const cx = w / 2, cy = h / 2;
-  const sw = map.containerPointToLatLng([cx - half, cy + half]);
-  const ne = map.containerPointToLatLng([cx + half, cy - half]);
-  map.setMaxBounds(L.latLngBounds(sw, ne));
-
-  map.dragging.enable();
+  // The guess view stays locked on the venue. Panning is off, and every zoom is
+  // anchored to the centre — otherwise zooming toward the cursor would let you
+  // pan by repeatedly zooming in and out.
+  lockPanning();
+  setZoomAnchor('center');
   map.scrollWheelZoom.enable();
   map.doubleClickZoom.enable();
   map.touchZoom.enable();
+}
+
+function lockPanning() {
+  map.dragging.disable();
+  map.keyboard.disable();
+}
+
+function freePanning() {
+  map.dragging.enable();
   map.keyboard.enable();
+}
+
+// Leaflet reads these options at zoom time, so they must be set before enabling
+// the handlers. 'center' keeps the view anchored; true zooms toward the pointer.
+function setZoomAnchor(mode) {
+  map.options.scrollWheelZoom = mode;
+  map.options.doubleClickZoom = mode;
+  map.options.touchZoom = mode;
 }
 
 function nearestCopyLng(targetLng, referenceLng) {
@@ -63,6 +74,8 @@ export function showRevealState(targetVenue, pickVenue) {
   map.setMaxBounds(null);
   map.setMinZoom(1);
   map.setMaxZoom(18);
+  setZoomAnchor(true);
+  freePanning();
 
   const refLng = targetVenue.lng;
   const pickLng = nearestCopyLng(pickVenue.lng, refLng);
@@ -142,11 +155,11 @@ export function showSummaryState(pairs) {
     map.fitBounds(L.latLngBounds(points), { padding: [60, 60], maxZoom, animate: false });
   }
 
-  map.dragging.enable();
+  setZoomAnchor(true);
+  freePanning();
   map.scrollWheelZoom.enable();
   map.doubleClickZoom.enable();
   map.touchZoom.enable();
-  map.keyboard.enable();
 }
 
 function addSummaryLabel(seen, venue, lat, lng) {

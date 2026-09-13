@@ -247,6 +247,30 @@ export function initDevPanel(dayIndex) {
   panel.append(label, prev, input, next, reset, clearBtn, testScoreInput, testCelebBtn);
 }
 
+// One emoji per venue class, plus a few of the sports those venues host.
+const CELEBRATION_EMOJI = ['⚽', '🏈', '🏉', '🎾', '🐎', '🏎️', '⛳', '🏀', '🏏'];
+// Emoji need a larger scalar than default confetti to stay legible, and fewer
+// particles to stay cheap — each one is a rendered glyph, not a coloured rect.
+const PARTICLE_SCALAR = 3.2;
+const PARTICLE_COUNT = 34;
+
+let cachedShapes = null;
+
+function celebrationShapes() {
+  if (cachedShapes) return cachedShapes;
+  // Older canvas-confetti builds have no shapeFromText; fall back to plain
+  // confetti rather than failing. (confetti itself must exist — the caller
+  // uses confetti.create regardless.)
+  if (typeof confetti.shapeFromText !== 'function') return undefined;
+  try {
+    cachedShapes = CELEBRATION_EMOJI.map(text => confetti.shapeFromText({ text, scalar: PARTICLE_SCALAR }));
+  } catch (_) {
+    cachedShapes = null;
+    return undefined;
+  }
+  return cachedShapes;
+}
+
 const CELEBRATION_THRESHOLD = 950;
 const CELEBRATION_PHRASES = [
   'YOU KNOW EVERY BLADE OF GRASS!',
@@ -289,9 +313,10 @@ export function showCelebration(score) {
 
   const myConfetti = confetti.create(canvas, { resize: true });
   overlay._confettiReset = () => myConfetti.reset();
+  const shapes = celebrationShapes();
   const fire = () => {
-    myConfetti({ angle: 60, spread: 55, origin: { x: 0 }, particleCount: 80 });
-    myConfetti({ angle: 120, spread: 55, origin: { x: 1 }, particleCount: 80 });
+    myConfetti({ angle: 60, spread: 60, origin: { x: 0 }, particleCount: PARTICLE_COUNT, shapes, scalar: PARTICLE_SCALAR });
+    myConfetti({ angle: 120, spread: 60, origin: { x: 1 }, particleCount: PARTICLE_COUNT, shapes, scalar: PARTICLE_SCALAR });
   };
   fire();
   overlay._fireworksInterval = setInterval(fire, 2500);

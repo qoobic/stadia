@@ -207,15 +207,22 @@ UI shows nothing.
 Esri World Imagery satellite tiles, as in Elevation.
 
 **Guess state.** The map opens at the venue's own `zoom` with a minimum zoom of
-`zoom - 3`. Panning is constrained to a square in pixel space whose side is the larger
-of the viewport's width and height, so at default zoom a portrait viewport scrolls
-horizontally and a landscape one vertically.
+`zoom - 3`, locked on the venue. Panning is disabled — both drag and keyboard — and
+every zoom is anchored to the centre (`scrollWheelZoom: 'center'` and the same for
+double-click and touch). The centre anchoring matters: without it, zooming toward the
+pointer would let a player pan by repeatedly zooming in and out, reintroducing exactly
+what disabling drag removes.
+
+This replaces Elevation's square pan boundary, which existed only to bound panning and
+is therefore redundant once panning is off.
 
 The three-level zoom-out allowance is retained deliberately. Zooming out from a stadium
 reveals its host city, which makes Stadia a geography game as well as a venue-recognition
-game — venue recognition alone would be too hard.
+game — venue recognition alone would be too hard. Zooming out is now the only way to see
+the surroundings, so it carries the whole geography half of the game.
 
-**Reveal state.** Green marker on the true venue with a name-and-location popup, yellow
+**Reveal state.** Panning and pointer-anchored zoom are restored, so the answer can be
+explored freely. Green marker on the true venue with a name-and-location popup, yellow
 marker on the guess, dashed line between them, bounds fitted to both. Longitude is
 normalised to the nearest world copy so the line never wraps the long way round.
 
@@ -280,6 +287,16 @@ Events: `game_started`, `round_completed`, `game_completed`, `share_copied`.
 `round_completed` carries day and round index, band, target and guessed venue id/name/
 city/country, `venue_class`, distance, score, multiplier, `is_exact_match`,
 `country_match`, and `country_bonus`.
+
+### Celebration
+
+At 950 or above, an overlay fires canvas-confetti with sport-shaped particles built via
+`confetti.shapeFromText` — one emoji per venue class plus a few of the sports those
+venues host (football, American football, rugby, tennis, horse, F1 car, golf,
+basketball, cricket). Emoji particles need a larger `scalar` than default confetti to
+stay legible and fewer particles to stay cheap, since each is a rendered glyph rather
+than a coloured rectangle. Shapes are built once and cached. A canvas-confetti build
+without `shapeFromText` falls back to plain confetti rather than failing.
 
 ## Error handling
 
