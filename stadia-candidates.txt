@@ -1,0 +1,498 @@
+# Stadia — launch-catalogue candidates (no GPS yet)
+#
+# One editable candidate per line: canonical venue name | city/area | country/territory | class
+# Delete a line to reject it. This is a curated seed list, not the final verified
+# catalogue: capacity, current use, aliases, and pitch/focal-point coordinates are
+# validated in the next pass.
+#
+# Classes: stadium, arena, circuit, racecourse, golf
+# Editorial constraint: China and India are deliberately capped to globally
+# recognisable or visually distinctive major-event venues. They are not ranked
+# by volume or capacity; additions need evidence that they make fair puzzles.
+# Arenas require a primary sporting use or a current major-sport tenant; the
+# catalogue excludes concert-led event halls. Circuits are F1-led, with only a
+# small number of exceptional non-F1 venues. Racecourses are a short marquee set.
+
+# Europe — stadiums and arenas
+Wembley Stadium | London | England | stadium
+Old Trafford | Manchester | England | stadium
+Tottenham Hotspur Stadium | London | England | stadium
+Emirates Stadium | London | England | stadium
+London Stadium | London | England | stadium
+Anfield | Liverpool | England | stadium
+St James' Park | Newcastle upon Tyne | England | stadium
+Etihad Stadium | Manchester | England | stadium
+Villa Park | Birmingham | England | stadium
+Hampden Park | Glasgow | Scotland | stadium
+Principality Stadium | Cardiff | Wales | stadium
+Aviva Stadium | Dublin | Ireland | stadium
+Croke Park | Dublin | Ireland | stadium
+Murrayfield Stadium | Edinburgh | Scotland | stadium
+Santiago Bernabéu Stadium | Madrid | Spain | stadium
+Spotify Camp Nou | Barcelona | Spain | stadium
+Metropolitano Stadium | Madrid | Spain | stadium
+San Mamés Stadium | Bilbao | Spain | stadium
+Estadio de La Cartuja | Seville | Spain | stadium
+Mestalla Stadium | Valencia | Spain | stadium
+Estádio da Luz | Lisbon | Portugal | stadium
+Estádio José Alvalade | Lisbon | Portugal | stadium
+Estádio do Dragão | Porto | Portugal | stadium
+Stade de France | Saint-Denis | France | stadium
+Parc des Princes | Paris | France | stadium
+Stade Vélodrome | Marseille | France | stadium
+Groupama Stadium | Décines-Charpieu | France | stadium
+Stade Pierre-Mauroy | Villeneuve-d'Ascq | France | stadium
+Johan Cruyff Arena | Amsterdam | Netherlands | stadium
+De Kuip | Rotterdam | Netherlands | stadium
+Philips Stadion | Eindhoven | Netherlands | stadium
+Olympiastadion | Berlin | Germany | stadium
+Allianz Arena | Munich | Germany | stadium
+Signal Iduna Park | Dortmund | Germany | stadium
+Veltins-Arena | Gelsenkirchen | Germany | stadium
+Red Bull Arena | Leipzig | Germany | stadium
+Volksparkstadion | Hamburg | Germany | stadium
+Deutsche Bank Park | Frankfurt | Germany | stadium
+Mercedes-Benz Arena | Stuttgart | Germany | stadium
+RheinEnergieStadion | Cologne | Germany | stadium
+Stadio Olimpico | Rome | Italy | stadium
+San Siro | Milan | Italy | stadium
+Allianz Stadium | Turin | Italy | stadium
+Stadio Diego Armando Maradona | Naples | Italy | stadium
+Stadio Artemio Franchi | Florence | Italy | stadium
+Stadio Renato Dall'Ara | Bologna | Italy | stadium
+Ernst-Happel-Stadion | Vienna | Austria | stadium
+St. Jakob-Park | Basel | Switzerland | stadium
+Stadion Letzigrund | Zurich | Switzerland | stadium
+Stade de Suisse | Bern | Switzerland | stadium
+King Baudouin Stadium | Brussels | Belgium | stadium
+Stade Maurice Dufrasne | Liège | Belgium | stadium
+Parken Stadium | Copenhagen | Denmark | stadium
+Friends Arena | Solna | Sweden | stadium
+Ullevi | Gothenburg | Sweden | stadium
+Ullevaal Stadion | Oslo | Norway | stadium
+Helsinki Olympic Stadium | Helsinki | Finland | stadium
+Laugardalsvöllur | Reykjavík | Iceland | stadium
+Puskás Aréna | Budapest | Hungary | stadium
+National Athletic Centre | Budapest | Hungary | stadium
+Stadion Narodowy | Warsaw | Poland | stadium
+Stadion Śląski | Chorzów | Poland | stadium
+Eden Arena | Prague | Czechia | stadium
+Tehelné pole | Bratislava | Slovakia | stadium
+Arena Națională | Bucharest | Romania | stadium
+Stadionul Steaua | Bucharest | Romania | stadium
+Stadion Rajko Mitić | Belgrade | Serbia | stadium
+Stadion Partizana | Belgrade | Serbia | stadium
+Stadion Maksimir | Zagreb | Croatia | stadium
+Stadion Poljud | Split | Croatia | stadium
+Stožice Stadium | Ljubljana | Slovenia | stadium
+Toše Proeski Arena | Skopje | North Macedonia | stadium
+Stadionul Zimbru | Chișinău | Moldova | stadium
+Vasil Levski National Stadium | Sofia | Bulgaria | stadium
+Georgi Asparuhov Stadium | Sofia | Bulgaria | stadium
+Karaiskakis Stadium | Piraeus | Greece | stadium
+Olympic Stadium of Athens | Marousi | Greece | stadium
+GSP Stadium | Strovolos | Cyprus | stadium
+Rams Global Stadium | Istanbul | Türkiye | stadium
+Şükrü Saracoğlu Stadium | Istanbul | Türkiye | stadium
+Atatürk Olympic Stadium | Istanbul | Türkiye | stadium
+Tüpraş Stadium | Istanbul | Türkiye | stadium
+Başakşehir Fatih Terim Stadium | Istanbul | Türkiye | stadium
+NSC Olimpiyskiy | Kyiv | Ukraine | stadium
+Arena Lviv | Lviv | Ukraine | stadium
+Republican Stadium | Yerevan | Armenia | stadium
+Tofiq Bahramov Stadium | Baku | Azerbaijan | stadium
+Boris Paichadze Dinamo Arena | Tbilisi | Georgia | stadium
+Minsk Arena | Minsk | Belarus | arena
+Luzhniki Stadium | Moscow | Russia | stadium
+Gazprom Arena | Saint Petersburg | Russia | stadium
+Ak Bars Arena | Kazan | Russia | stadium
+
+# Africa — stadiums
+FNB Stadium | Johannesburg | South Africa | stadium
+Cape Town Stadium | Cape Town | South Africa | stadium
+Moses Mabhida Stadium | Durban | South Africa | stadium
+Ellis Park Stadium | Johannesburg | South Africa | stadium
+Cairo International Stadium | Cairo | Egypt | stadium
+Borg El Arab Stadium | Alexandria | Egypt | stadium
+Stade Mohammed V | Casablanca | Morocco | stadium
+Stade du 5-Juillet-1962 | Algiers | Algeria | stadium
+Stade Olympique de Radès | Radès | Tunisia | stadium
+Stade Abdoulaye Wade | Diamniadio | Senegal | stadium
+Japoma Stadium | Douala | Cameroon | stadium
+Accra Sports Stadium | Accra | Ghana | stadium
+Moshood Abiola National Stadium | Abuja | Nigeria | stadium
+Stade Alassane Ouattara | Ebimpé | Côte d'Ivoire | stadium
+Kasarani Stadium | Nairobi | Kenya | stadium
+Benjamin Mkapa National Stadium | Dar es Salaam | Tanzania | stadium
+Estádio 11 de Novembro | Luanda | Angola | stadium
+National Sports Stadium | Harare | Zimbabwe | stadium
+
+# Event arenas
+O2 Arena | Prague | Czechia | arena
+Stark Arena | Belgrade | Serbia | arena
+Uber Arena | Berlin | Germany | arena
+Lanxess Arena | Cologne | Germany | arena
+SAP Garden | Munich | Germany | arena
+Mediolanum Forum | Assago | Italy | arena
+Unipol Arena | Casalecchio di Reno | Italy | arena
+Rod Laver Arena | Melbourne | Australia | arena
+Saitama Super Arena | Saitama | Japan | arena
+K-Arena Yokohama | Yokohama | Japan | arena
+Jangchung Arena | Seoul | South Korea | arena
+Lusail Sports Arena | Lusail | Qatar | arena
+Madison Square Garden | New York City | United States | arena
+Barclays Center | Brooklyn | United States | arena
+Crypto.com Arena | Los Angeles | United States | arena
+Intuit Dome | Inglewood | United States | arena
+Chase Center | San Francisco | United States | arena
+Climate Pledge Arena | Seattle | United States | arena
+United Center | Chicago | United States | arena
+Little Caesars Arena | Detroit | United States | arena
+Rocket Arena | Cleveland | United States | arena
+Scotiabank Arena | Toronto | Canada | arena
+Bell Centre | Montreal | Canada | arena
+Palacio de los Deportes | Mexico City | Mexico | arena
+Ginásio do Ibirapuera | São Paulo | Brazil | arena
+Arena Carioca 1 | Rio de Janeiro | Brazil | arena
+
+# Asia and Middle East — stadiums and arenas
+National Stadium | Tokyo | Japan | stadium
+Tokyo Dome | Tokyo | Japan | stadium
+Nissan Stadium | Yokohama | Japan | stadium
+Saitama Stadium 2002 | Saitama | Japan | stadium
+Kashima Soccer Stadium | Kashima | Japan | stadium
+Yanmar Stadium Nagai | Osaka | Japan | stadium
+Japan National Stadium | Tokyo | Japan | stadium
+Seoul World Cup Stadium | Seoul | South Korea | stadium
+Jamsil Olympic Stadium | Seoul | South Korea | stadium
+Busan Asiad Main Stadium | Busan | South Korea | stadium
+Incheon Asiad Main Stadium | Incheon | South Korea | stadium
+Beijing National Stadium | Beijing | China | stadium
+Workers' Stadium | Beijing | China | stadium
+Shanghai Stadium | Shanghai | China | stadium
+Hangzhou Olympic Sports Centre Stadium | Hangzhou | China | stadium
+Rizal Memorial Stadium | Manila | Philippines | stadium
+Philippine Arena | Santa Maria | Philippines | arena
+Gelora Bung Karno Stadium | Jakarta | Indonesia | stadium
+Jakarta International Stadium | Jakarta | Indonesia | stadium
+Gelora Sriwijaya Stadium | Palembang | Indonesia | stadium
+Bukit Jalil National Stadium | Kuala Lumpur | Malaysia | stadium
+National Stadium | Singapore | Singapore | stadium
+Rajamangala National Stadium | Bangkok | Thailand | stadium
+Supachalasai Stadium | Bangkok | Thailand | stadium
+My Dinh National Stadium | Hanoi | Vietnam | stadium
+Thuwunna Stadium | Yangon | Myanmar | stadium
+Morodok Techo National Stadium | Phnom Penh | Cambodia | stadium
+New Laos National Stadium | Vientiane | Laos | stadium
+Sultan Qaboos Sports Complex | Muscat | Oman | stadium
+Khalifa International Stadium | Doha | Qatar | stadium
+Lusail Stadium | Lusail | Qatar | stadium
+Al Bayt Stadium | Al Khor | Qatar | stadium
+Education City Stadium | Al Rayyan | Qatar | stadium
+Ahmad bin Ali Stadium | Al Rayyan | Qatar | stadium
+Al Janoub Stadium | Al Wakrah | Qatar | stadium
+King Fahd Sports City Stadium | Riyadh | Saudi Arabia | stadium
+King Abdullah Sports City | Jeddah | Saudi Arabia | stadium
+Prince Mohammed bin Fahd Stadium | Dammam | Saudi Arabia | stadium
+Al-Awwal Park | Riyadh | Saudi Arabia | stadium
+Zabeel Stadium | Dubai | United Arab Emirates | stadium
+Al Maktoum Stadium | Dubai | United Arab Emirates | stadium
+Hazza bin Zayed Stadium | Al Ain | United Arab Emirates | stadium
+Sheikh Zayed Sports City Stadium | Abu Dhabi | United Arab Emirates | stadium
+Azadi Stadium | Tehran | Iran | stadium
+Imam Reza Stadium | Mashhad | Iran | stadium
+Jaber Al-Ahmad International Stadium | Kuwait City | Kuwait | stadium
+National Stadium | Manama | Bahrain | stadium
+King Abdullah II Stadium | Amman | Jordan | stadium
+Faisal Al-Husseini International Stadium | Al-Ram | Palestine | stadium
+Camille Chamoun Sports City Stadium | Beirut | Lebanon | stadium
+Basra International Stadium | Basra | Iraq | stadium
+Franso Hariri Stadium | Erbil | Iraq | stadium
+Salt Lake Stadium | Kolkata | India | stadium
+Narendra Modi Stadium | Ahmedabad | India | stadium
+Eden Gardens | Kolkata | India | stadium
+Wankhede Stadium | Mumbai | India | stadium
+M. A. Chidambaram Stadium | Chennai | India | stadium
+M. Chinnaswamy Stadium | Bengaluru | India | stadium
+National Stadium | Dhaka | Bangladesh | stadium
+Sher-e-Bangla National Cricket Stadium | Mirpur | Bangladesh | stadium
+Gaddafi Stadium | Lahore | Pakistan | stadium
+National Stadium | Karachi | Pakistan | stadium
+Rawalpindi Cricket Stadium | Rawalpindi | Pakistan | stadium
+R. Premadasa Stadium | Colombo | Sri Lanka | stadium
+Pallekele International Cricket Stadium | Kandy | Sri Lanka | stadium
+Tribhuvan University Cricket Ground | Kirtipur | Nepal | stadium
+National Football Stadium | Malé | Maldives | stadium
+Central Republican Stadium | Dushanbe | Tajikistan | stadium
+Dolen Omurzakov Stadium | Bishkek | Kyrgyzstan | stadium
+Milliy Stadium | Tashkent | Uzbekistan | stadium
+Central Stadium | Almaty | Kazakhstan | stadium
+Ashgabat Olympic Stadium | Ashgabat | Turkmenistan | stadium
+
+# Americas — stadiums and arenas
+MetLife Stadium | East Rutherford | United States | stadium
+SoFi Stadium | Inglewood | United States | stadium
+AT&T Stadium | Arlington | United States | stadium
+Lumen Field | Seattle | United States | stadium
+Mercedes-Benz Stadium | Atlanta | United States | stadium
+Soldier Field | Chicago | United States | stadium
+Ford Field | Detroit | United States | stadium
+U.S. Bank Stadium | Minneapolis | United States | stadium
+Lincoln Financial Field | Philadelphia | United States | stadium
+Gillette Stadium | Foxborough | United States | stadium
+Hard Rock Stadium | Miami Gardens | United States | stadium
+Nissan Stadium | Nashville | United States | stadium
+NRG Stadium | Houston | United States | stadium
+Arrowhead Stadium | Kansas City | United States | stadium
+Empower Field at Mile High | Denver | United States | stadium
+Allegiant Stadium | Paradise | United States | stadium
+Levi's Stadium | Santa Clara | United States | stadium
+Bank of America Stadium | Charlotte | United States | stadium
+Highmark Stadium | Orchard Park | United States | stadium
+Paycor Stadium | Cincinnati | United States | stadium
+Huntington Bank Field | Cleveland | United States | stadium
+M&T Bank Stadium | Baltimore | United States | stadium
+Northwest Stadium | Landover | United States | stadium
+Raymond James Stadium | Tampa | United States | stadium
+Caesars Superdome | New Orleans | United States | stadium
+Lucas Oil Stadium | Indianapolis | United States | stadium
+Kauffman Stadium | Kansas City | United States | stadium
+Dodger Stadium | Los Angeles | United States | stadium
+Yankee Stadium | New York City | United States | stadium
+Wrigley Field | Chicago | United States | stadium
+Fenway Park | Boston | United States | stadium
+Oracle Park | San Francisco | United States | stadium
+Petco Park | San Diego | United States | stadium
+Coors Field | Denver | United States | stadium
+T-Mobile Park | Seattle | United States | stadium
+Busch Stadium | St. Louis | United States | stadium
+Citizens Bank Park | Philadelphia | United States | stadium
+Truist Park | Atlanta | United States | stadium
+Globe Life Field | Arlington | United States | stadium
+LoanDepot Park | Miami | United States | stadium
+Chase Field | Phoenix | United States | stadium
+Progressive Field | Cleveland | United States | stadium
+Great American Ball Park | Cincinnati | United States | stadium
+Target Field | Minneapolis | United States | stadium
+American Family Field | Milwaukee | United States | stadium
+Nationals Park | Washington | United States | stadium
+Audi Field | Washington | United States | stadium
+BC Place | Vancouver | Canada | stadium
+Commonwealth Stadium | Edmonton | Canada | stadium
+Olympic Stadium | Montreal | Canada | stadium
+BMO Field | Toronto | Canada | stadium
+IG Field | Winnipeg | Canada | stadium
+McMahon Stadium | Calgary | Canada | stadium
+Estadio Azteca | Mexico City | Mexico | stadium
+Estadio Olímpico Universitario | Mexico City | Mexico | stadium
+Estadio BBVA | Guadalupe | Mexico | stadium
+Estadio Akron | Zapopan | Mexico | stadium
+Estadio Jalisco | Guadalajara | Mexico | stadium
+Estadio Caliente | Tijuana | Mexico | stadium
+Estadio Nacional de Costa Rica | San José | Costa Rica | stadium
+Estadio Cuscatlán | San Salvador | El Salvador | stadium
+Estadio Olímpico Metropolitano | San Pedro Sula | Honduras | stadium
+Estadio Nacional Chelato Uclés | Tegucigalpa | Honduras | stadium
+Estadio Nacional Doroteo Guamuch Flores | Guatemala City | Guatemala | stadium
+Estadio Rommel Fernández | Panama City | Panama | stadium
+Independence Park | Kingston | Jamaica | stadium
+Hasely Crawford Stadium | Port of Spain | Trinidad and Tobago | stadium
+Kensington Oval | Bridgetown | Barbados | stadium
+Estadio Monumental | Buenos Aires | Argentina | stadium
+La Bombonera | Buenos Aires | Argentina | stadium
+Estadio Mario Alberto Kempes | Córdoba | Argentina | stadium
+Estadio Ciudad de La Plata | La Plata | Argentina | stadium
+Estadio Libertadores de América | Avellaneda | Argentina | stadium
+Estadio Presidente Perón | Avellaneda | Argentina | stadium
+Estadio Único Madre de Ciudades | Santiago del Estero | Argentina | stadium
+Maracanã | Rio de Janeiro | Brazil | stadium
+Estádio Mané Garrincha | Brasília | Brazil | stadium
+Arena Corinthians | São Paulo | Brazil | stadium
+Allianz Parque | São Paulo | Brazil | stadium
+Morumbi Stadium | São Paulo | Brazil | stadium
+Mineirão | Belo Horizonte | Brazil | stadium
+Arena do Grêmio | Porto Alegre | Brazil | stadium
+Beira-Rio | Porto Alegre | Brazil | stadium
+Arena da Baixada | Curitiba | Brazil | stadium
+Arena Fonte Nova | Salvador | Brazil | stadium
+Arena Pernambuco | São Lourenço da Mata | Brazil | stadium
+Castelão | Fortaleza | Brazil | stadium
+Arena das Dunas | Natal | Brazil | stadium
+Estádio Nilton Santos | Rio de Janeiro | Brazil | stadium
+Estádio da Ilha do Retiro | Recife | Brazil | stadium
+Estadio Nacional Julio Martínez Prádanos | Santiago | Chile | stadium
+Estadio Monumental David Arellano | Santiago | Chile | stadium
+Estadio Sausalito | Viña del Mar | Chile | stadium
+Estadio Elías Figueroa Brander | Valparaíso | Chile | stadium
+Estadio Centenario | Montevideo | Uruguay | stadium
+Estadio Campeón del Siglo | Montevideo | Uruguay | stadium
+Estadio Defensores del Chaco | Asunción | Paraguay | stadium
+Estadio General Pablo Rojas | Asunción | Paraguay | stadium
+Estadio Hernando Siles | La Paz | Bolivia | stadium
+Estadio Ramón Tahuichi Aguilera | Santa Cruz de la Sierra | Bolivia | stadium
+Estadio Nacional | Lima | Peru | stadium
+Estadio Monumental | Lima | Peru | stadium
+Estadio Atahualpa | Quito | Ecuador | stadium
+Estadio Rodrigo Paz Delgado | Quito | Ecuador | stadium
+Estadio Metropolitano Roberto Meléndez | Barranquilla | Colombia | stadium
+Estadio El Campín | Bogotá | Colombia | stadium
+Estadio Atanasio Girardot | Medellín | Colombia | stadium
+Estadio Polideportivo de Pueblo Nuevo | San Cristóbal | Venezuela | stadium
+Estadio Monumental de Maturín | Maturín | Venezuela | stadium
+
+# Oceania — stadiums and arenas
+Melbourne Cricket Ground | Melbourne | Australia | stadium
+Stadium Australia | Sydney | Australia | stadium
+Optus Stadium | Perth | Australia | stadium
+Adelaide Oval | Adelaide | Australia | stadium
+Brisbane Cricket Ground | Brisbane | Australia | stadium
+Marvel Stadium | Melbourne | Australia | stadium
+Sydney Cricket Ground | Sydney | Australia | stadium
+Suncorp Stadium | Brisbane | Australia | stadium
+GMHBA Stadium | Geelong | Australia | stadium
+Norwood Oval | Adelaide | Australia | stadium
+The Gabba | Brisbane | Australia | stadium
+Eden Park | Auckland | New Zealand | stadium
+Sky Stadium | Wellington | New Zealand | stadium
+Forsyth Barr Stadium | Dunedin | New Zealand | stadium
+Apollo Projects Stadium | Christchurch | New Zealand | stadium
+National Football Stadium | Honiara | Solomon Islands | stadium
+Loto-Tonga Soka Centre | Nuku'alofa | Tonga | stadium
+National Stadium | Port Moresby | Papua New Guinea | stadium
+Sir John Guise Stadium | Port Moresby | Papua New Guinea | stadium
+Lawson Tama Stadium | Honiara | Solomon Islands | stadium
+Korman Stadium | Port Vila | Vanuatu | stadium
+
+# Motorsport circuits
+Silverstone Circuit | Silverstone | England | circuit
+Circuit de Monaco | Monaco | Monaco | circuit
+Circuit de Spa-Francorchamps | Stavelot | Belgium | circuit
+Circuit Zandvoort | Zandvoort | Netherlands | circuit
+Autodromo Nazionale Monza | Monza | Italy | circuit
+Imola Circuit | Imola | Italy | circuit
+Circuit de Barcelona-Catalunya | Montmeló | Spain | circuit
+Red Bull Ring | Spielberg | Austria | circuit
+Hungaroring | Mogyoród | Hungary | circuit
+Baku City Circuit | Baku | Azerbaijan | circuit
+Istanbul Park | Istanbul | Türkiye | circuit
+Hockenheimring | Hockenheim | Germany | circuit
+Nürburgring | Nürburg | Germany | circuit
+Circuit Paul Ricard | Le Castellet | France | circuit
+Le Mans Circuit de la Sarthe | Le Mans | France | circuit
+Circuit de Nevers Magny-Cours | Magny-Cours | France | circuit
+Autódromo Internacional do Algarve | Portimão | Portugal | circuit
+Yas Marina Circuit | Abu Dhabi | United Arab Emirates | circuit
+Bahrain International Circuit | Sakhir | Bahrain | circuit
+Lusail International Circuit | Lusail | Qatar | circuit
+Jeddah Corniche Circuit | Jeddah | Saudi Arabia | circuit
+Sepang International Circuit | Sepang | Malaysia | circuit
+Marina Bay Street Circuit | Singapore | Singapore | circuit
+Suzuka International Racing Course | Suzuka | Japan | circuit
+Fuji Speedway | Oyama | Japan | circuit
+Shanghai International Circuit | Shanghai | China | circuit
+Buddh International Circuit | Greater Noida | India | circuit
+Korea International Circuit | Yeongam | South Korea | circuit
+Albert Park Circuit | Melbourne | Australia | circuit
+Mount Panorama Circuit | Bathurst | Australia | circuit
+Circuit of the Americas | Austin | United States | circuit
+Indianapolis Motor Speedway | Indianapolis | United States | circuit
+Autódromo Hermanos Rodríguez | Mexico City | Mexico | circuit
+Autódromo José Carlos Pace | São Paulo | Brazil | circuit
+Kyalami Grand Prix Circuit | Midrand | South Africa | circuit
+
+# Racecourses
+Ascot Racecourse | Ascot | England | racecourse
+Epsom Downs Racecourse | Epsom | England | racecourse
+Newmarket Racecourses | Newmarket | England | racecourse
+Aintree Racecourse | Liverpool | England | racecourse
+Longchamp Racecourse | Paris | France | racecourse
+Chantilly Racecourse | Chantilly | France | racecourse
+Meydan Racecourse | Dubai | United Arab Emirates | racecourse
+Sha Tin Racecourse | Hong Kong | Hong Kong | racecourse
+Happy Valley Racecourse | Hong Kong | Hong Kong | racecourse
+Tokyo Racecourse | Fuchū | Japan | racecourse
+Nakayama Racecourse | Funabashi | Japan | racecourse
+Hanshin Racecourse | Takarazuka | Japan | racecourse
+Flemington Racecourse | Melbourne | Australia | racecourse
+Randwick Racecourse | Sydney | Australia | racecourse
+Churchill Downs | Louisville | United States | racecourse
+Belmont Park | Elmont | United States | racecourse
+Saratoga Race Course | Saratoga Springs | United States | racecourse
+Keeneland Race Course | Lexington | United States | racecourse
+Santa Anita Park | Arcadia | United States | racecourse
+Woodbine Racetrack | Toronto | Canada | racecourse
+Hipódromo de Palermo | Buenos Aires | Argentina | racecourse
+Hipódromo de San Isidro | San Isidro | Argentina | racecourse
+Turffontein Racecourse | Johannesburg | South Africa | racecourse
+Kenilworth Racecourse | Cape Town | South Africa | racecourse
+
+# Golf courses
+The Old Course at St Andrews | St Andrews | Scotland | golf
+Carnoustie Golf Links | Carnoustie | Scotland | golf
+Muirfield | Gullane | Scotland | golf
+Royal Troon Golf Club | Troon | Scotland | golf
+Royal Dornoch Golf Club | Dornoch | Scotland | golf
+Royal Birkdale Golf Club | Southport | England | golf
+Royal Liverpool Golf Club | Hoylake | England | golf
+Royal Lytham & St Annes Golf Club | Lytham St Annes | England | golf
+Royal St George's Golf Club | Sandwich | England | golf
+Wentworth Club | Virginia Water | England | golf
+The Belfry | Wishaw | England | golf
+Adare Manor | Adare | Ireland | golf
+Portmarnock Golf Club | Portmarnock | Ireland | golf
+Royal County Down Golf Club | Newcastle | Northern Ireland | golf
+Royal Portrush Golf Club | Portrush | Northern Ireland | golf
+Le Golf National | Saint-Quentin-en-Yvelines | France | golf
+Valderrama Golf Club | Sotogrande | Spain | golf
+Real Club de Golf El Prat | Terrassa | Spain | golf
+Marco Simone Golf and Country Club | Guidonia Montecelio | Italy | golf
+Costa Navarino | Messinia | Greece | golf
+K Club | Straffan | Ireland | golf
+Bethpage Black Course | Farmingdale | United States | golf
+Augusta National Golf Club | Augusta | United States | golf
+Pebble Beach Golf Links | Pebble Beach | United States | golf
+Pinehurst No. 2 | Pinehurst | United States | golf
+Oakmont Country Club | Oakmont | United States | golf
+Shinnecock Hills Golf Club | Southampton | United States | golf
+Winged Foot Golf Club | Mamaroneck | United States | golf
+Merion Golf Club | Ardmore | United States | golf
+Olympic Club | San Francisco | United States | golf
+Torrey Pines Golf Course | San Diego | United States | golf
+Kiawah Island Golf Resort | Kiawah Island | United States | golf
+Whistling Straits | Kohler | United States | golf
+Hazeltine National Golf Club | Chaska | United States | golf
+Medinah Country Club | Medinah | United States | golf
+TPC Sawgrass | Ponte Vedra Beach | United States | golf
+Riviera Country Club | Pacific Palisades | United States | golf
+PGA National Resort | Palm Beach Gardens | United States | golf
+Royal Montreal Golf Club | Montreal | Canada | golf
+Cabot Cape Breton | Inverness | Canada | golf
+St. George's Golf and Country Club | Toronto | Canada | golf
+Club de Golf Chapultepec | Naucalpan | Mexico | golf
+Royal Melbourne Golf Club | Black Rock | Australia | golf
+Kingston Heath Golf Club | Cheltenham | Australia | golf
+Royal Queensland Golf Club | Brisbane | Australia | golf
+Royal Adelaide Golf Club | Seaton | Australia | golf
+The Australian Golf Club | Rosebery | Australia | golf
+The Lakes Golf Club | Sydney | Australia | golf
+Victoria Golf Club | Cheltenham | Australia | golf
+Royal Auckland and Grange Golf Club | Auckland | New Zealand | golf
+Sentosa Golf Club | Singapore | Singapore | golf
+Kasumigaseki Country Club | Kawagoe | Japan | golf
+Narashino Country Club | Inzai | Japan | golf
+Nine Bridges | Jeju | South Korea | golf
+Blackstone Golf Club | Icheon | South Korea | golf
+Sheshan International Golf Club | Shanghai | China | golf
+Mission Hills Golf Club | Dongguan | China | golf
+Royal Calcutta Golf Club | Kolkata | India | golf
+Emirates Golf Club | Dubai | United Arab Emirates | golf
+Jumeirah Golf Estates | Dubai | United Arab Emirates | golf
+Doha Golf Club | Doha | Qatar | golf
+Royal Johannesburg & Kensington Golf Club | Johannesburg | South Africa | golf
+Gary Player Country Club | Sun City | South Africa | golf
+Fancourt | George | South Africa | golf
+Leopard Creek Country Club | Malelane | South Africa | golf
+Arabella Golf Club | Kleinmond | South Africa | golf
+Royal Cape Golf Club | Cape Town | South Africa | golf
+Casa de Campo Teeth of the Dog | La Romana | Dominican Republic | golf
+Royal Golf Dar Es Salam | Rabat | Morocco | golf
