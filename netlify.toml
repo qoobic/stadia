@@ -1,0 +1,36 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Force revalidation so a deploy is picked up on the next load instead of
+# being served stale from browser cache. Netlify sends ETags, so these are
+# cheap 304s when nothing has changed.
+[[headers]]
+  for = "/"
+    [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/index.html"
+    [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/js/*"
+    [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/css/*"
+    [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/data/*"
+    [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

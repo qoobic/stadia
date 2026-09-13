@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stadia</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0TG7Q6L6GD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-0TG7Q6L6GD');
+  </script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <div id="map"></div>
+    <div id="venue-modal">
+      <div id="modal-header">
+        <!-- #modal-toggle button injected by ui.js -->
+        <div id="round-indicator"></div>
+      </div>
+      <div id="venue-panel"></div>
+      <footer id="footer">
+        <div id="picker"></div>
+        <button id="primary-btn" disabled>Submit guess</button>
+      </footer>
+    </div>
+    <div id="dev-panel"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="assets/confetti.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

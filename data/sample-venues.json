@@ -1,0 +1,278 @@
+{
+  "_temporary": true,
+  "_warning": "TEMPORARY SAMPLE DATA. Coordinates are approximate and hand-entered for development only. They are NOT verified catalogue coordinates and must not be treated as such. Replace this file with the verified export (which omits _temporary) before launch. See README.md.",
+  "launchDate": "2026-09-13",
+  "l1": [
+    {
+      "id": "wembley-stadium",
+      "venueId": "wembley-stadium-london-england-stadium",
+      "name": "Wembley Stadium",
+      "city": "London",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.556,
+      "lng": -0.2796,
+      "zoom": 16
+    },
+    {
+      "id": "spotify-camp-nou",
+      "venueId": "spotify-camp-nou-barcelona-spain-stadium",
+      "name": "Spotify Camp Nou",
+      "city": "Barcelona",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [
+        "Camp Nou",
+        "Nou Camp"
+      ],
+      "lat": 41.3809,
+      "lng": 2.1228,
+      "zoom": 16
+    },
+    {
+      "id": "maracana",
+      "venueId": "maracana-rio-de-janeiro-brazil-stadium",
+      "name": "Maracanã",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [
+        "Estádio do Maracanã",
+        "Estádio Jornalista Mário Filho"
+      ],
+      "lat": -22.9121,
+      "lng": -43.2302,
+      "zoom": 16
+    },
+    {
+      "id": "circuit-de-monaco",
+      "venueId": "circuit-de-monaco-monaco-monaco-circuit",
+      "name": "Circuit de Monaco",
+      "city": "Monaco",
+      "country": "Monaco",
+      "venueClass": "circuit",
+      "aliases": [
+        "Monte Carlo",
+        "Monaco Grand Prix Circuit"
+      ],
+      "lat": 43.7347,
+      "lng": 7.4206,
+      "zoom": 14
+    }
+  ],
+  "l2": [
+    {
+      "id": "old-trafford",
+      "venueId": "old-trafford-manchester-england-stadium",
+      "name": "Old Trafford",
+      "city": "Manchester",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [
+        "The Theatre of Dreams"
+      ],
+      "lat": 53.4631,
+      "lng": -2.2913,
+      "zoom": 16
+    },
+    {
+      "id": "santiago-bernabeu",
+      "venueId": "santiago-bernabeu-stadium-madrid-spain-stadium",
+      "name": "Santiago Bernabéu Stadium",
+      "city": "Madrid",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [
+        "Estadio Santiago Bernabéu",
+        "The Bernabéu"
+      ],
+      "lat": 40.4531,
+      "lng": -3.6883,
+      "zoom": 16
+    },
+    {
+      "id": "allianz-arena",
+      "venueId": "allianz-arena-munich-germany-stadium",
+      "name": "Allianz Arena",
+      "city": "Munich",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.2188,
+      "lng": 11.6247,
+      "zoom": 16
+    },
+    {
+      "id": "madison-square-garden",
+      "venueId": "madison-square-garden-new-york-city-united-states-arena",
+      "name": "Madison Square Garden",
+      "city": "New York City",
+      "country": "United States",
+      "venueClass": "arena",
+      "aliases": [
+        "MSG",
+        "The Garden"
+      ],
+      "lat": 40.7505,
+      "lng": -73.9934,
+      "zoom": 17
+    }
+  ],
+  "l3": [
+    {
+      "id": "anfield",
+      "venueId": "anfield-liverpool-england-stadium",
+      "name": "Anfield",
+      "city": "Liverpool",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.4308,
+      "lng": -2.9609,
+      "zoom": 16
+    },
+    {
+      "id": "melbourne-cricket-ground",
+      "venueId": "melbourne-cricket-ground-melbourne-australia-stadium",
+      "name": "Melbourne Cricket Ground",
+      "city": "Melbourne",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [
+        "MCG",
+        "The G"
+      ],
+      "lat": -37.82,
+      "lng": 144.9834,
+      "zoom": 16
+    },
+    {
+      "id": "spa-francorchamps",
+      "venueId": "circuit-de-spa-francorchamps-stavelot-belgium-circuit",
+      "name": "Circuit de Spa-Francorchamps",
+      "city": "Stavelot",
+      "country": "Belgium",
+      "venueClass": "circuit",
+      "aliases": [
+        "Spa"
+      ],
+      "lat": 50.4372,
+      "lng": 5.9714,
+      "zoom": 13
+    },
+    {
+      "id": "augusta-national",
+      "venueId": "augusta-national-golf-club-augusta-united-states-golf",
+      "name": "Augusta National Golf Club",
+      "city": "Augusta",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [
+        "Augusta National"
+      ],
+      "lat": 33.503,
+      "lng": -82.0199,
+      "zoom": 15
+    }
+  ],
+  "l4": [
+    {
+      "id": "estadio-azteca",
+      "venueId": "estadio-azteca-mexico-city-mexico-stadium",
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [
+        "Azteca Stadium"
+      ],
+      "lat": 19.3029,
+      "lng": -99.1505,
+      "zoom": 16
+    },
+    {
+      "id": "aintree-racecourse",
+      "venueId": "aintree-racecourse-liverpool-england-racecourse",
+      "name": "Aintree Racecourse",
+      "city": "Liverpool",
+      "country": "England",
+      "venueClass": "racecourse",
+      "aliases": [
+        "Aintree"
+      ],
+      "lat": 53.4769,
+      "lng": -2.9403,
+      "zoom": 14
+    },
+    {
+      "id": "st-james-park",
+      "venueId": "st-james-park-newcastle-upon-tyne-england-stadium",
+      "name": "St James' Park",
+      "city": "Newcastle upon Tyne",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 54.9756,
+      "lng": -1.6217,
+      "zoom": 16
+    },
+    {
+      "id": "suncorp-stadium",
+      "venueId": "suncorp-stadium-brisbane-australia-stadium",
+      "name": "Suncorp Stadium",
+      "city": "Brisbane",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [
+        "Lang Park",
+        "Brisbane Stadium"
+      ],
+      "lat": -27.4649,
+      "lng": 153.0095,
+      "zoom": 16
+    }
+  ],
+  "l5": [
+    {
+      "id": "estadio-hernando-siles",
+      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
+      "name": "Estadio Hernando Siles",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -16.5053,
+      "lng": -68.1247,
+      "zoom": 16
+    },
+    {
+      "id": "de-kuip",
+      "venueId": "de-kuip-rotterdam-netherlands-stadium",
+      "name": "De Kuip",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "venueClass": "stadium",
+      "aliases": [
+        "Stadion Feijenoord"
+      ],
+      "lat": 51.8939,
+      "lng": 4.523,
+      "zoom": 16
+    },
+    {
+      "id": "royal-county-down",
+      "venueId": "royal-county-down-golf-club-newcastle-northern-ireland-golf",
+      "name": "Royal County Down Golf Club",
+      "city": "Newcastle",
+      "country": "Northern Ireland",
+      "venueClass": "golf",
+      "aliases": [
+        "Royal County Down"
+      ],
+      "lat": 54.2197,
+      "lng": -5.8865,
+      "zoom": 15
+    }
+  ]
+}
