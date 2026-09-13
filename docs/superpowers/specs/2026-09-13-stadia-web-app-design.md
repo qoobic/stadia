@@ -36,7 +36,7 @@ index.html
 css/style.css
 js/{main,venues,state,score,share,map,picker,ui,analytics}.js
 assets/confetti.min.js
-data/sample-venues.json
+data/live-venues.json
 tests/js/{test.html,runner.js,*.test.js}
 netlify.toml
 README.md
@@ -65,7 +65,7 @@ touch the DOM directly; `main.js` is the only module that knows the shape of a r
 |---|---|
 | `js/cities.js` | `js/venues.js` |
 | `loadCitiesData`, `selectTodayCities`, `buildCityIndex`, `searchCities` | `loadVenuesData`, `selectTodayVenues`, `buildVenueIndex`, `searchVenues` |
-| `cities.json` | `data/sample-venues.json` |
+| `cities.json` | `data/live-venues.json` |
 | `elev_day_N`, `elev_dayOffset` | `stadia_day_N`, `stadia_dayOffset` |
 | `elev:picker-changed` | `stadia:picker-changed` |
 | `.elev-truth-label` | `.stadia-truth-label` |
@@ -81,7 +81,7 @@ Elevation's analytics property ID must not appear anywhere in this repository.
 
 ### Daily selection
 
-`data/sample-venues.json` holds five difficulty bands, `l1` through `l5`. Each day
+`data/live-venues.json` holds five difficulty bands, `l1` through `l5`. Each day
 selects one venue per band by `list[dayIndex % list.length]`, where
 `dayIndex = daysSince(launchDate)` in UTC and day 0 is the launch date itself. Selection
 is pure and deterministic: the same day index always yields the same five venues.
@@ -142,7 +142,7 @@ contains `auto_candidate` and `manual_required` records, which are unresolved by
 and must not reach the game — `tools/review.py:can_export` gates playable export on
 `status == 'verified'`.
 
-Therefore `data/sample-venues.json` carries **hand-entered approximate coordinates**
+Therefore `data/live-venues.json` carries **hand-entered approximate coordinates**
 for roughly 15 to 20 venues spread across the five bands, written for this app and
 marked temporary in the file itself. No coordinate is copied out of
 `data/coordinate-drafts/`, `data/venues.json`, or `data/pilot-venues.json`.
@@ -231,7 +231,7 @@ points, free pan and zoom.
 
 ## Game flow
 
-1. `main.js` initialises the map and modal, fetches `data/sample-venues.json`, builds the
+1. `main.js` initialises the map and modal, fetches `data/live-venues.json`, builds the
    search index, and wires the picker.
 2. Day index is computed from `launchDate` plus any dev-panel offset; today's five
    venues are selected.

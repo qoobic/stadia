@@ -1,6 +1,6 @@
 {
   "_temporary": true,
-  "_warning": "TEMPORARY SAMPLE DATA. Coordinates are approximate and hand-entered for development only. They are NOT verified catalogue coordinates and must not be treated as such. Replace this file with the verified export (which omits _temporary) before launch. See README.md.",
+  "_warning": "LIVE INITIAL DATA. Coordinates are approximate and hand-entered; they are not verified catalogue coordinates. Replace this file with the verified export (which omits _temporary) when it is ready. See README.md.",
   "launchDate": "2026-09-13",
   "l1": [
     {
@@ -63,21 +63,6 @@
   ],
   "l2": [
     {
-      "id": "madison-square-garden",
-      "venueId": "madison-square-garden-new-york-city-united-states-arena",
-      "name": "Madison Square Garden",
-      "city": "New York City",
-      "country": "United States",
-      "venueClass": "arena",
-      "aliases": [
-        "MSG",
-        "The Garden"
-      ],
-      "lat": 40.7505,
-      "lng": -73.9934,
-      "zoom": 17
-    },
-    {
       "id": "santiago-bernabeu",
       "venueId": "santiago-bernabeu-stadium-madrid-spain-stadium",
       "name": "Santiago Bernabéu Stadium",
@@ -91,6 +76,21 @@
       "lat": 40.4531,
       "lng": -3.6883,
       "zoom": 16
+    },
+    {
+      "id": "madison-square-garden",
+      "venueId": "madison-square-garden-new-york-city-united-states-arena",
+      "name": "Madison Square Garden",
+      "city": "New York City",
+      "country": "United States",
+      "venueClass": "arena",
+      "aliases": [
+        "MSG",
+        "The Garden"
+      ],
+      "lat": 40.7505,
+      "lng": -73.9934,
+      "zoom": 17
     },
     {
       "id": "allianz-arena",
@@ -178,20 +178,6 @@
   ],
   "l4": [
     {
-      "id": "estadio-azteca",
-      "venueId": "estadio-azteca-mexico-city-mexico-stadium",
-      "name": "Estadio Azteca",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "venueClass": "stadium",
-      "aliases": [
-        "Azteca Stadium"
-      ],
-      "lat": 19.3029,
-      "lng": -99.1505,
-      "zoom": 16
-    },
-    {
       "id": "aintree-racecourse",
       "venueId": "aintree-racecourse-liverpool-england-racecourse",
       "name": "Aintree Racecourse",
@@ -204,6 +190,20 @@
       "lat": 53.4769,
       "lng": -2.9403,
       "zoom": 14
+    },
+    {
+      "id": "estadio-azteca",
+      "venueId": "estadio-azteca-mexico-city-mexico-stadium",
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [
+        "Azteca Stadium"
+      ],
+      "lat": 19.3029,
+      "lng": -99.1505,
+      "zoom": 16
     },
     {
       "id": "st-james-park",
@@ -235,18 +235,6 @@
   ],
   "l5": [
     {
-      "id": "estadio-hernando-siles",
-      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
-      "name": "Estadio Hernando Siles",
-      "city": "La Paz",
-      "country": "Bolivia",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": -16.5053,
-      "lng": -68.1247,
-      "zoom": 16
-    },
-    {
       "id": "de-kuip",
       "venueId": "de-kuip-rotterdam-netherlands-stadium",
       "name": "De Kuip",
@@ -258,6 +246,18 @@
       ],
       "lat": 51.8939,
       "lng": 4.523,
+      "zoom": 16
+    },
+    {
+      "id": "estadio-hernando-siles",
+      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
+      "name": "Estadio Hernando Siles",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -16.5053,
+      "lng": -68.1247,
       "zoom": 16
     },
     {

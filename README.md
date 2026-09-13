@@ -26,10 +26,10 @@ Python test runner from the repository root.
 
 ## The venue data is currently a placeholder
 
-`data/sample-venues.json` is **temporary development data**. Its coordinates are
+`data/live-venues.json` is the **current live dataset**. Its coordinates are
 approximate and hand-entered; they have not been through the catalogue's verification
 pipeline and must not be treated as verified. The file marks itself with
-`"_temporary": true`, and `tests/js/sample-data.test.js` asserts that flag is present —
+`"_temporary": true`, and `tests/js/live-data.test.js` asserts that flag is present —
 so swapping in real data without clearing the flag fails the suite loudly.
 
 Two known consequences, both properties of the placeholder rather than the game:
@@ -64,7 +64,7 @@ as an ES module.
 
 ### Bands are difficulty, not venue class
 
-`data/sample-venues.json` holds five bands, `l1` (most recognisable) through `l5`
+`data/live-venues.json` holds five bands, `l1` (most recognisable) through `l5`
 (hardest). Each day draws one venue per band via `list[dayIndex % list.length]`, where
 day 0 is `launchDate`. `venueClass` (`stadium`, `arena`, `circuit`, `racecourse`,
 `golf`) is metadata: it informs the default zoom and the reveal display, and is reported
