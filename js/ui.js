@@ -314,9 +314,12 @@ export function showCelebration(score) {
   const myConfetti = confetti.create(canvas, { resize: true });
   overlay._confettiReset = () => myConfetti.reset();
   const shapes = celebrationShapes();
+  // flat: true disables the tilt/wobble tumble. Paper confetti reads well
+  // spinning edge-on; an emoji rendered edge-on is an unreadable sliver.
+  const opts = { spread: 60, particleCount: PARTICLE_COUNT, shapes, scalar: PARTICLE_SCALAR, flat: true };
   const fire = () => {
-    myConfetti({ angle: 60, spread: 60, origin: { x: 0 }, particleCount: PARTICLE_COUNT, shapes, scalar: PARTICLE_SCALAR });
-    myConfetti({ angle: 120, spread: 60, origin: { x: 1 }, particleCount: PARTICLE_COUNT, shapes, scalar: PARTICLE_SCALAR });
+    myConfetti({ ...opts, angle: 60, origin: { x: 0 } });
+    myConfetti({ ...opts, angle: 120, origin: { x: 1 } });
   };
   fire();
   overlay._fireworksInterval = setInterval(fire, 2500);

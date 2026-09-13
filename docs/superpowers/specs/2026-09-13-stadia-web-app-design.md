@@ -295,7 +295,9 @@ At 950 or above, an overlay fires canvas-confetti with sport-shaped particles bu
 venues host (football, American football, rugby, tennis, horse, F1 car, golf,
 basketball, cricket). Emoji particles need a larger `scalar` than default confetti to
 stay legible and fewer particles to stay cheap, since each is a rendered glyph rather
-than a coloured rectangle. Shapes are built once and cached. A canvas-confetti build
+than a coloured rectangle. They also set `flat: true`, which disables the tilt-and-wobble
+tumble: paper confetti reads well spinning edge-on, but an emoji rendered edge-on is an
+unreadable sliver. Shapes are built once and cached. A canvas-confetti build
 without `shapeFromText` falls back to plain confetti rather than failing.
 
 ## Error handling
