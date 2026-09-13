@@ -4,15 +4,18 @@
   "launchDate": "2026-09-13",
   "l1": [
     {
-      "id": "wembley-stadium",
-      "venueId": "wembley-stadium-london-england-stadium",
-      "name": "Wembley Stadium",
-      "city": "London",
-      "country": "England",
+      "id": "maracana",
+      "venueId": "maracana-rio-de-janeiro-brazil-stadium",
+      "name": "Maracanã",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
       "venueClass": "stadium",
-      "aliases": [],
-      "lat": 51.556,
-      "lng": -0.2796,
+      "aliases": [
+        "Estádio do Maracanã",
+        "Estádio Jornalista Mário Filho"
+      ],
+      "lat": -22.9121,
+      "lng": -43.2302,
       "zoom": 16
     },
     {
@@ -31,18 +34,15 @@
       "zoom": 16
     },
     {
-      "id": "maracana",
-      "venueId": "maracana-rio-de-janeiro-brazil-stadium",
-      "name": "Maracanã",
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
+      "id": "wembley-stadium",
+      "venueId": "wembley-stadium-london-england-stadium",
+      "name": "Wembley Stadium",
+      "city": "London",
+      "country": "England",
       "venueClass": "stadium",
-      "aliases": [
-        "Estádio do Maracanã",
-        "Estádio Jornalista Mário Filho"
-      ],
-      "lat": -22.9121,
-      "lng": -43.2302,
+      "aliases": [],
+      "lat": 51.556,
+      "lng": -0.2796,
       "zoom": 16
     },
     {
@@ -63,18 +63,19 @@
   ],
   "l2": [
     {
-      "id": "old-trafford",
-      "venueId": "old-trafford-manchester-england-stadium",
-      "name": "Old Trafford",
-      "city": "Manchester",
-      "country": "England",
-      "venueClass": "stadium",
+      "id": "madison-square-garden",
+      "venueId": "madison-square-garden-new-york-city-united-states-arena",
+      "name": "Madison Square Garden",
+      "city": "New York City",
+      "country": "United States",
+      "venueClass": "arena",
       "aliases": [
-        "The Theatre of Dreams"
+        "MSG",
+        "The Garden"
       ],
-      "lat": 53.4631,
-      "lng": -2.2913,
-      "zoom": 16
+      "lat": 40.7505,
+      "lng": -73.9934,
+      "zoom": 17
     },
     {
       "id": "santiago-bernabeu",
@@ -104,34 +105,21 @@
       "zoom": 16
     },
     {
-      "id": "madison-square-garden",
-      "venueId": "madison-square-garden-new-york-city-united-states-arena",
-      "name": "Madison Square Garden",
-      "city": "New York City",
-      "country": "United States",
-      "venueClass": "arena",
+      "id": "old-trafford",
+      "venueId": "old-trafford-manchester-england-stadium",
+      "name": "Old Trafford",
+      "city": "Manchester",
+      "country": "England",
+      "venueClass": "stadium",
       "aliases": [
-        "MSG",
-        "The Garden"
+        "The Theatre of Dreams"
       ],
-      "lat": 40.7505,
-      "lng": -73.9934,
-      "zoom": 17
+      "lat": 53.4631,
+      "lng": -2.2913,
+      "zoom": 16
     }
   ],
   "l3": [
-    {
-      "id": "anfield",
-      "venueId": "anfield-liverpool-england-stadium",
-      "name": "Anfield",
-      "city": "Liverpool",
-      "country": "England",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": 53.4308,
-      "lng": -2.9609,
-      "zoom": 16
-    },
     {
       "id": "melbourne-cricket-ground",
       "venueId": "melbourne-cricket-ground-melbourne-australia-stadium",
@@ -145,6 +133,18 @@
       ],
       "lat": -37.82,
       "lng": 144.9834,
+      "zoom": 16
+    },
+    {
+      "id": "anfield",
+      "venueId": "anfield-liverpool-england-stadium",
+      "name": "Anfield",
+      "city": "Liverpool",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.4308,
+      "lng": -2.9609,
       "zoom": 16
     },
     {
