@@ -1,0 +1,252 @@
+[
+  {
+    "venue_id": "estadio-nilton-santos-rio-de-janeiro-brazil-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Nilton%20Santos%20Rio%20de%20Janeiro",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Nilton%20Santos%20Rio%20de%20Janeiro",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-olimpico-metropolitano-san-pedro-sula-honduras-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Olimpico%20Metropolitano%20San%20Pedro%20Sula",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Olimpico%20Metropolitano%20San%20Pedro%20Sula",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-olimpico-universitario-mexico-city-mexico-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Olimpico%20Universitario%20Mexico%20City",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Olimpico%20Universitario%20Mexico%20City",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-polideportivo-de-pueblo-nuevo-san-cristobal-venezuela-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Polideportivo%20de%20Pueblo%20Nuevo%20San%20Cristobal",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Polideportivo%20de%20Pueblo%20Nuevo%20San%20Cristobal",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-presidente-peron-avellaneda-argentina-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Presidente%20Peron%20Avellaneda",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Presidente%20Peron%20Avellaneda",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-ramon-tahuichi-aguilera-santa-cruz-de-la-sierra-bolivia-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Ramon%20Tahuichi%20Aguilera%20Santa%20Cruz",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Ramon%20Tahuichi%20Aguilera%20Santa%20Cruz",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-rodrigo-paz-delgado-quito-ecuador-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Rodrigo%20Paz%20Delgado%20Quito",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Rodrigo%20Paz%20Delgado%20Quito",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-rommel-fernandez-panama-city-panama-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Rommel%20Fernandez%20Panama%20City",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Rommel%20Fernandez%20Panama%20City",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-sausalito-vina-del-mar-chile-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Sausalito%20Vina%20del%20Mar",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Sausalito%20Vina%20del%20Mar",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "estadio-unico-madre-de-ciudades-santiago-del-estero-argentina-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Unico%20Madre%20de%20Ciudades",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Unico%20Madre%20de%20Ciudades",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "etihad-stadium-manchester-england-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Etihad%20Stadium%20Manchester",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Etihad%20Stadium%20Manchester",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "faisal-al-husseini-international-stadium-al-ram-palestine-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Faisal%20Al-Husseini%20International%20Stadium%20Al-Ram",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Faisal%20Al-Husseini%20International%20Stadium%20Al-Ram",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "fenway-park-boston-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Fenway%20Park%20Boston",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Fenway%20Park%20Boston",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "fnb-stadium-johannesburg-south-africa-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=FNB%20Stadium%20Johannesburg",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=FNB%20Stadium%20Johannesburg",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "ford-field-detroit-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Ford%20Field%20Detroit",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Ford%20Field%20Detroit",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "forsyth-barr-stadium-dunedin-new-zealand-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Forsyth%20Barr%20Stadium%20Dunedin",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Forsyth%20Barr%20Stadium%20Dunedin",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "franso-hariri-stadium-erbil-iraq-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Franso%20Hariri%20Stadium%20Erbil",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Franso%20Hariri%20Stadium%20Erbil",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "friends-arena-solna-sweden-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Friends%20Arena%20Solna",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Friends%20Arena%20Solna",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "gaddafi-stadium-lahore-pakistan-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Gaddafi%20Stadium%20Lahore",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Gaddafi%20Stadium%20Lahore",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "gazprom-arena-saint-petersburg-russia-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Gazprom%20Arena%20Saint%20Petersburg",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Gazprom%20Arena%20Saint%20Petersburg",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "gelora-bung-karno-stadium-jakarta-indonesia-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Gelora%20Bung%20Karno%20Stadium%20Jakarta",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Gelora%20Bung%20Karno%20Stadium%20Jakarta",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "gelora-sriwijaya-stadium-palembang-indonesia-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Gelora%20Sriwijaya%20Stadium%20Palembang",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Gelora%20Sriwijaya%20Stadium%20Palembang",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "georgi-asparuhov-stadium-sofia-bulgaria-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Georgi%20Asparuhov%20Stadium%20Sofia",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Georgi%20Asparuhov%20Stadium%20Sofia",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "gillette-stadium-foxborough-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Gillette%20Stadium%20Foxborough",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Gillette%20Stadium%20Foxborough",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  },
+  {
+    "venue_id": "globe-life-field-arlington-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Globe%20Life%20Field%20Arlington",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Globe%20Life%20Field%20Arlington",
+    "result": "needs_adjudication",
+    "notes": "Independent OSM search did not establish a separately mapped playing-surface geometry; coordinate withheld rather than using a venue or building centroid."
+  }
+]

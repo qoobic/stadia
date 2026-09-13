@@ -1,0 +1,52 @@
+[
+  {
+    "venue_id": "royal-cape-golf-club-cape-town-south-africa-golf",
+    "independent_lat": -34.021409,
+    "independent_lon": 18.487944,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/229791608",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=-34.021409~18.487944&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Single 18-hole Royal Cape course; aerial imagery locates the closing green beside the clubhouse/finishing area."
+  },
+  {
+    "venue_id": "cabot-cape-breton-inverness-canada-golf",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://cabot.com/capebreton/golf/cabot-cliffs/",
+    "focal_evidence_url": "https://cabot.com/capebreton/frequently-asked-questions/",
+    "result": "needs_adjudication",
+    "notes": "Cabot Cape Breton is a resort with two 18-hole courses, Cabot Links and Cabot Cliffs. The venue name does not select one 18th green."
+  },
+  {
+    "venue_id": "royal-melbourne-golf-club-black-rock-australia-golf",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.royalmelbourne.com.au/courses/",
+    "focal_evidence_url": "https://www.royalmelbourne.com.au/courses/",
+    "result": "needs_adjudication",
+    "notes": "The club has West, East, and Composite courses, each with a different closing green; the venue name does not identify a named course."
+  },
+  {
+    "venue_id": "royal-liverpool-golf-club-hoylake-england-golf",
+    "independent_lat": 53.387413,
+    "independent_lon": -3.185277,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/203867693",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=53.387413~-3.185277&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Single 18-hole Royal Liverpool course; aerial review places the 18th green immediately west of the clubhouse."
+  },
+  {
+    "venue_id": "doha-golf-club-doha-qatar-golf",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.dohagolfclub.com/championship",
+    "focal_evidence_url": "https://www.dohagolfclub.com/doha_golf_club_course_rating_charts",
+    "result": "needs_adjudication",
+    "notes": "Doha Golf Club has a Championship Course and Academy Course; the venue name does not explicitly select the Championship Course's 18th green."
+  }
+]
