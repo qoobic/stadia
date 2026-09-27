@@ -4,25 +4,6 @@
   "launchDate": "2026-09-13",
   "l1": [
     {
-      "id": "maracana",
-      "venueId": "maracana-rio-de-janeiro-brazil-stadium",
-      "name": "Maracanã",
-      "city": "Rio de Janeiro",
-      "country": "Brazil",
-      "venueClass": "stadium",
-      "aliases": [
-        "Estádio do Maracanã",
-        "Estádio Jornalista Mário Filho"
-      ],
-      "lat": -22.9121690975326,
-      "lng": -43.23020607363134,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:43:56.568Z"
-      }
-    },
-    {
       "id": "spotify-camp-nou",
       "venueId": "spotify-camp-nou-barcelona-spain-stadium",
       "name": "Spotify Camp Nou",
@@ -184,6 +165,118 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:17:45.418Z"
       }
+    },
+    {
+      "id": "etihad-stadium-manchester-england-stadium",
+      "venueId": "etihad-stadium-manchester-england-stadium",
+      "name": "Etihad Stadium",
+      "city": "Manchester",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.483167,
+      "lng": -2.200404,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:28.062Z"
+      }
+    },
+    {
+      "id": "lumen-field-seattle-united-states-stadium",
+      "venueId": "lumen-field-seattle-united-states-stadium",
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 47.595159,
+      "lng": -122.331629,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:14.590Z"
+      }
+    },
+    {
+      "id": "lincoln-financial-field-philadelphia-united-states-stadium",
+      "venueId": "lincoln-financial-field-philadelphia-united-states-stadium",
+      "name": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.900802,
+      "lng": -75.167459,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:26.065Z"
+      }
+    },
+    {
+      "id": "raymond-james-stadium-tampa-united-states-stadium",
+      "venueId": "raymond-james-stadium-tampa-united-states-stadium",
+      "name": "Raymond James Stadium",
+      "city": "Tampa",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 27.975966,
+      "lng": -82.503355,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:21.160Z"
+      }
+    },
+    {
+      "id": "truist-park-atlanta-united-states-stadium",
+      "venueId": "truist-park-atlanta-united-states-stadium",
+      "name": "Truist Park",
+      "city": "Atlanta",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.890663,
+      "lng": -84.467583,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:56.793Z"
+      }
+    },
+    {
+      "id": "ig-field-winnipeg-canada-stadium",
+      "venueId": "ig-field-winnipeg-canada-stadium",
+      "name": "IG Field",
+      "city": "Winnipeg",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 49.807873,
+      "lng": -97.142968,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:26.537Z"
+      }
+    },
+    {
+      "id": "mcmahon-stadium-calgary-canada-stadium",
+      "venueId": "mcmahon-stadium-calgary-canada-stadium",
+      "name": "McMahon Stadium",
+      "city": "Calgary",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.070334,
+      "lng": -114.12143,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:30.800Z"
+      }
     }
   ],
   "l2": [
@@ -308,6 +401,169 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:18:32.359Z"
+      }
+    },
+    {
+      "id": "gillette-stadium-foxborough-united-states-stadium",
+      "venueId": "gillette-stadium-foxborough-united-states-stadium",
+      "name": "Gillette Stadium",
+      "city": "Foxborough",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.090927,
+      "lng": -71.264353,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:55.632Z"
+      }
+    },
+    {
+      "id": "metlife-stadium-east-rutherford-united-states-stadium",
+      "venueId": "metlife-stadium-east-rutherford-united-states-stadium",
+      "name": "MetLife Stadium",
+      "city": "East Rutherford",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 40.813528,
+      "lng": -74.074362,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:08.032Z"
+      }
+    },
+    {
+      "id": "soldier-field-chicago-united-states-stadium",
+      "venueId": "soldier-field-chicago-united-states-stadium",
+      "name": "Soldier Field",
+      "city": "Chicago",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.86227804590649,
+      "lng": -87.61672855008912,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:20.231Z"
+      }
+    },
+    {
+      "id": "nissan-stadium-nashville-united-states-stadium",
+      "venueId": "nissan-stadium-nashville-united-states-stadium",
+      "name": "Nissan Stadium",
+      "city": "Nashville",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 36.166467,
+      "lng": -86.771284,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:34.015Z"
+      }
+    },
+    {
+      "id": "paycor-stadium-cincinnati-united-states-stadium",
+      "venueId": "paycor-stadium-cincinnati-united-states-stadium",
+      "name": "Paycor Stadium",
+      "city": "Cincinnati",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.095425,
+      "lng": -84.516082,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:50.418Z"
+      }
+    },
+    {
+      "id": "huntington-bank-field-cleveland-united-states-stadium",
+      "venueId": "huntington-bank-field-cleveland-united-states-stadium",
+      "name": "Huntington Bank Field",
+      "city": "Cleveland",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.506028,
+      "lng": -81.699577,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:56.331Z"
+      }
+    },
+    {
+      "id": "m-t-bank-stadium-baltimore-united-states-stadium",
+      "venueId": "m-t-bank-stadium-baltimore-united-states-stadium",
+      "name": "M&T Bank Stadium",
+      "city": "Baltimore",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.277971,
+      "lng": -76.622703,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:00.402Z"
+      }
+    },
+    {
+      "id": "yankee-stadium-new-york-city-united-states-stadium",
+      "venueId": "yankee-stadium-new-york-city-united-states-stadium",
+      "name": "Yankee Stadium",
+      "city": "New York City",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 40.829642,
+      "lng": -73.926335,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:35.122Z"
+      }
+    },
+    {
+      "id": "oracle-park-san-francisco-united-states-stadium",
+      "venueId": "oracle-park-san-francisco-united-states-stadium",
+      "name": "Oracle Park",
+      "city": "San Francisco",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.778454,
+      "lng": -122.389302,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:39.651Z"
+      }
+    },
+    {
+      "id": "maracana",
+      "venueId": "maracana-rio-de-janeiro-brazil-stadium",
+      "name": "Maracanã",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [
+        "Estádio do Maracanã",
+        "Estádio Jornalista Mário Filho"
+      ],
+      "lat": -22.912146,
+      "lng": -43.230187,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:34:00.299Z"
       }
     }
   ],
@@ -639,6 +895,214 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:25:32.731Z"
+      }
+    },
+    {
+      "id": "estadio-nacional-doroteo-guamuch-flores-guatemala-city-guatemala-stadium",
+      "venueId": "estadio-nacional-doroteo-guamuch-flores-guatemala-city-guatemala-stadium",
+      "name": "Estadio Nacional Doroteo Guamuch Flores",
+      "city": "Guatemala City",
+      "country": "Guatemala",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 14.625727272965284,
+      "lng": -90.51020978580429,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:01.397Z"
+      }
+    },
+    {
+      "id": "fnb-stadium-johannesburg-south-africa-stadium",
+      "venueId": "fnb-stadium-johannesburg-south-africa-stadium",
+      "name": "FNB Stadium",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -26.234788060052306,
+      "lng": 27.98260688001223,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:36.787Z"
+      }
+    },
+    {
+      "id": "forsyth-barr-stadium-dunedin-new-zealand-stadium",
+      "venueId": "forsyth-barr-stadium-dunedin-new-zealand-stadium",
+      "name": "Forsyth Barr Stadium",
+      "city": "Dunedin",
+      "country": "New Zealand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -45.869397,
+      "lng": 170.52452,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:46.745Z"
+      }
+    },
+    {
+      "id": "friends-arena-solna-sweden-stadium",
+      "venueId": "friends-arena-solna-sweden-stadium",
+      "name": "Friends Arena",
+      "city": "Solna",
+      "country": "Sweden",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 59.37278231413858,
+      "lng": 18.00064807373238,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:10.886Z"
+      }
+    },
+    {
+      "id": "levi-s-stadium-santa-clara-united-states-stadium",
+      "venueId": "levi-s-stadium-santa-clara-united-states-stadium",
+      "name": "Levi's Stadium",
+      "city": "Santa Clara",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.403179,
+      "lng": -121.969804,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:31:45.527Z"
+      }
+    },
+    {
+      "id": "northwest-stadium-landover-united-states-stadium",
+      "venueId": "northwest-stadium-landover-united-states-stadium",
+      "name": "Northwest Stadium",
+      "city": "Landover",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.90767,
+      "lng": -76.864496,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:06.193Z"
+      }
+    },
+    {
+      "id": "kauffman-stadium-kansas-city-united-states-stadium",
+      "venueId": "kauffman-stadium-kansas-city-united-states-stadium",
+      "name": "Kauffman Stadium",
+      "city": "Kansas City",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.051655,
+      "lng": -94.480256,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:25.985Z"
+      }
+    },
+    {
+      "id": "petco-park-san-diego-united-states-stadium",
+      "venueId": "petco-park-san-diego-united-states-stadium",
+      "name": "Petco Park",
+      "city": "San Diego",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 32.707521,
+      "lng": -117.157094,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:32:46.496Z"
+      }
+    },
+    {
+      "id": "progressive-field-cleveland-united-states-stadium",
+      "venueId": "progressive-field-cleveland-united-states-stadium",
+      "name": "Progressive Field",
+      "city": "Cleveland",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.496016,
+      "lng": -81.685288,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:03.159Z"
+      }
+    },
+    {
+      "id": "great-american-ball-park-cincinnati-united-states-stadium",
+      "venueId": "great-american-ball-park-cincinnati-united-states-stadium",
+      "name": "Great American Ball Park",
+      "city": "Cincinnati",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.097136,
+      "lng": -84.506495,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:11.880Z"
+      }
+    },
+    {
+      "id": "nationals-park-washington-united-states-stadium",
+      "venueId": "nationals-park-washington-united-states-stadium",
+      "name": "Nationals Park",
+      "city": "Washington",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.872999,
+      "lng": -77.007329,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:18.621Z"
+      }
+    },
+    {
+      "id": "independence-park-kingston-jamaica-stadium",
+      "venueId": "independence-park-kingston-jamaica-stadium",
+      "name": "Independence Park",
+      "city": "Kingston",
+      "country": "Jamaica",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 18.001426,
+      "lng": -76.772582,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:40.758Z"
+      }
+    },
+    {
+      "id": "kensington-oval-bridgetown-barbados-stadium",
+      "venueId": "kensington-oval-bridgetown-barbados-stadium",
+      "name": "Kensington Oval",
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 13.105021,
+      "lng": -59.622525,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:52.037Z"
       }
     }
   ],
@@ -1110,6 +1574,214 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:24:31.224Z"
+      }
+    },
+    {
+      "id": "estadio-mane-garrincha-brasilia-brazil-stadium",
+      "venueId": "estadio-mane-garrincha-brasilia-brazil-stadium",
+      "name": "Estádio Mané Garrincha",
+      "city": "Brasília",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -15.783565879905106,
+      "lng": -47.89941429701601,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:44.769Z"
+      }
+    },
+    {
+      "id": "estadio-mario-alberto-kempes-cordoba-argentina-stadium",
+      "venueId": "estadio-mario-alberto-kempes-cordoba-argentina-stadium",
+      "name": "Estadio Mario Alberto Kempes",
+      "city": "Córdoba",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -31.368943,
+      "lng": -64.246145,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:51.352Z"
+      }
+    },
+    {
+      "id": "estadio-monumental-buenos-aires-argentina-stadium",
+      "venueId": "estadio-monumental-buenos-aires-argentina-stadium",
+      "name": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.545303,
+      "lng": -58.449733,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:26:02.656Z"
+      }
+    },
+    {
+      "id": "estadio-olimpico-universitario-mexico-city-mexico-stadium",
+      "venueId": "estadio-olimpico-universitario-mexico-city-mexico-stadium",
+      "name": "Estadio Olímpico Universitario",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 19.331941,
+      "lng": -99.192123,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:32.667Z"
+      }
+    },
+    {
+      "id": "estadio-rodrigo-paz-delgado-quito-ecuador-stadium",
+      "venueId": "estadio-rodrigo-paz-delgado-quito-ecuador-stadium",
+      "name": "Estadio Rodrigo Paz Delgado",
+      "city": "Quito",
+      "country": "Ecuador",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -0.10769063191652924,
+      "lng": -78.48907471743813,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:57.916Z"
+      }
+    },
+    {
+      "id": "estadio-rommel-fernandez-panama-city-panama-stadium",
+      "venueId": "estadio-rommel-fernandez-panama-city-panama-stadium",
+      "name": "Estadio Rommel Fernández",
+      "city": "Panama City",
+      "country": "Panama",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 9.035869,
+      "lng": -79.469476,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:14.270Z"
+      }
+    },
+    {
+      "id": "estadio-unico-madre-de-ciudades-santiago-del-estero-argentina-stadium",
+      "venueId": "estadio-unico-madre-de-ciudades-santiago-del-estero-argentina-stadium",
+      "name": "Estadio Único Madre de Ciudades",
+      "city": "Santiago del Estero",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -27.766078,
+      "lng": -64.270037,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:22.687Z"
+      }
+    },
+    {
+      "id": "gazprom-arena-saint-petersburg-russia-stadium",
+      "venueId": "gazprom-arena-saint-petersburg-russia-stadium",
+      "name": "Gazprom Arena",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 59.972774987370286,
+      "lng": 30.220974796936392,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:20.552Z"
+      }
+    },
+    {
+      "id": "gelora-sriwijaya-stadium-palembang-indonesia-stadium",
+      "venueId": "gelora-sriwijaya-stadium-palembang-indonesia-stadium",
+      "name": "Gelora Sriwijaya Stadium",
+      "city": "Palembang",
+      "country": "Indonesia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -3.021446,
+      "lng": 104.789093,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:41.941Z"
+      }
+    },
+    {
+      "id": "georgi-asparuhov-stadium-sofia-bulgaria-stadium",
+      "venueId": "georgi-asparuhov-stadium-sofia-bulgaria-stadium",
+      "name": "Georgi Asparuhov Stadium",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.705337,
+      "lng": 23.36324,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:47.061Z"
+      }
+    },
+    {
+      "id": "hasely-crawford-stadium-port-of-spain-trinidad-and-tobago-stadium",
+      "venueId": "hasely-crawford-stadium-port-of-spain-trinidad-and-tobago-stadium",
+      "name": "Hasely Crawford Stadium",
+      "city": "Port of Spain",
+      "country": "Trinidad and Tobago",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 10.661479,
+      "lng": -61.533047,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:47.495Z"
+      }
+    },
+    {
+      "id": "la-bombonera-buenos-aires-argentina-stadium",
+      "venueId": "la-bombonera-buenos-aires-argentina-stadium",
+      "name": "La Bombonera",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.635625,
+      "lng": -58.364665,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:33:55.616Z"
+      }
+    },
+    {
+      "id": "morumbi-stadium-sao-paulo-brazil-stadium",
+      "venueId": "morumbi-stadium-sao-paulo-brazil-stadium",
+      "name": "Morumbi Stadium",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -23.600118,
+      "lng": -46.720103,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:34:05.941Z"
       }
     }
   ],
@@ -1628,6 +2300,278 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:25:25.069Z"
+      }
+    },
+    {
+      "id": "estadio-metropolitano-roberto-melendez-barranquilla-colombia-stadium",
+      "venueId": "estadio-metropolitano-roberto-melendez-barranquilla-colombia-stadium",
+      "name": "Estadio Metropolitano Roberto Meléndez",
+      "city": "Barranquilla",
+      "country": "Colombia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 10.926922,
+      "lng": -74.800511,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:56.064Z"
+      }
+    },
+    {
+      "id": "estadio-monumental-david-arellano-santiago-chile-stadium",
+      "venueId": "estadio-monumental-david-arellano-santiago-chile-stadium",
+      "name": "Estadio Monumental David Arellano",
+      "city": "Santiago",
+      "country": "Chile",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.506594,
+      "lng": -70.606007,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:26:08.148Z"
+      }
+    },
+    {
+      "id": "estadio-monumental-de-maturin-maturin-venezuela-stadium",
+      "venueId": "estadio-monumental-de-maturin-maturin-venezuela-stadium",
+      "name": "Estadio Monumental de Maturín",
+      "city": "Maturín",
+      "country": "Venezuela",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 9.7099,
+      "lng": -63.267743,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:26:17.122Z"
+      }
+    },
+    {
+      "id": "estadio-monumental-lima-peru-stadium",
+      "venueId": "estadio-monumental-lima-peru-stadium",
+      "name": "Estadio Monumental",
+      "city": "Lima",
+      "country": "Peru",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -12.055674,
+      "lng": -76.936024,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:26:23.564Z"
+      }
+    },
+    {
+      "id": "estadio-nacional-chelato-ucles-tegucigalpa-honduras-stadium",
+      "venueId": "estadio-nacional-chelato-ucles-tegucigalpa-honduras-stadium",
+      "name": "Estadio Nacional Chelato Uclés",
+      "city": "Tegucigalpa",
+      "country": "Honduras",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 14.098461,
+      "lng": -87.203939,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:27:49.601Z"
+      }
+    },
+    {
+      "id": "estadio-nacional-de-costa-rica-san-jose-costa-rica-stadium",
+      "venueId": "estadio-nacional-de-costa-rica-san-jose-costa-rica-stadium",
+      "name": "Estadio Nacional de Costa Rica",
+      "city": "San José",
+      "country": "Costa Rica",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 9.936753,
+      "lng": -84.107696,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:27:53.830Z"
+      }
+    },
+    {
+      "id": "estadio-nacional-julio-martinez-pradanos-santiago-chile-stadium",
+      "venueId": "estadio-nacional-julio-martinez-pradanos-santiago-chile-stadium",
+      "name": "Estadio Nacional Julio Martínez Prádanos",
+      "city": "Santiago",
+      "country": "Chile",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.464495,
+      "lng": -70.610622,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:05.759Z"
+      }
+    },
+    {
+      "id": "estadio-nacional-lima-peru-stadium",
+      "venueId": "estadio-nacional-lima-peru-stadium",
+      "name": "Estadio Nacional",
+      "city": "Lima",
+      "country": "Peru",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -12.067288,
+      "lng": -77.03373,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:12.326Z"
+      }
+    },
+    {
+      "id": "estadio-nilton-santos-rio-de-janeiro-brazil-stadium",
+      "venueId": "estadio-nilton-santos-rio-de-janeiro-brazil-stadium",
+      "name": "Estádio Nilton Santos",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -22.89328505188626,
+      "lng": -43.292326001894764,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:22.251Z"
+      }
+    },
+    {
+      "id": "estadio-olimpico-metropolitano-san-pedro-sula-honduras-stadium",
+      "venueId": "estadio-olimpico-metropolitano-san-pedro-sula-honduras-stadium",
+      "name": "Estadio Olímpico Metropolitano",
+      "city": "San Pedro Sula",
+      "country": "Honduras",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 15.470129435461388,
+      "lng": -88.00679953532281,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:28.880Z"
+      }
+    },
+    {
+      "id": "estadio-polideportivo-de-pueblo-nuevo-san-cristobal-venezuela-stadium",
+      "venueId": "estadio-polideportivo-de-pueblo-nuevo-san-cristobal-venezuela-stadium",
+      "name": "Estadio Polideportivo de Pueblo Nuevo",
+      "city": "San Cristóbal",
+      "country": "Venezuela",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 7.787129,
+      "lng": -72.197912,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:37.822Z"
+      }
+    },
+    {
+      "id": "estadio-presidente-peron-avellaneda-argentina-stadium",
+      "venueId": "estadio-presidente-peron-avellaneda-argentina-stadium",
+      "name": "Estadio Presidente Perón",
+      "city": "Avellaneda",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.66897,
+      "lng": -58.369214,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:44.413Z"
+      }
+    },
+    {
+      "id": "estadio-ramon-tahuichi-aguilera-santa-cruz-de-la-sierra-bolivia-stadium",
+      "venueId": "estadio-ramon-tahuichi-aguilera-santa-cruz-de-la-sierra-bolivia-stadium",
+      "name": "Estadio Ramón Tahuichi Aguilera",
+      "city": "Santa Cruz de la Sierra",
+      "country": "Bolivia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -17.796048,
+      "lng": -63.183831,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:28:48.196Z"
+      }
+    },
+    {
+      "id": "estadio-sausalito-vina-del-mar-chile-stadium",
+      "venueId": "estadio-sausalito-vina-del-mar-chile-stadium",
+      "name": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "country": "Chile",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.014436,
+      "lng": -71.535022,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:17.670Z"
+      }
+    },
+    {
+      "id": "franso-hariri-stadium-erbil-iraq-stadium",
+      "venueId": "franso-hariri-stadium-erbil-iraq-stadium",
+      "name": "Franso Hariri Stadium",
+      "city": "Erbil",
+      "country": "Iraq",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 36.172514,
+      "lng": 44.011709,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:29:50.711Z"
+      }
+    },
+    {
+      "id": "gelora-bung-karno-stadium-jakarta-indonesia-stadium",
+      "venueId": "gelora-bung-karno-stadium-jakarta-indonesia-stadium",
+      "name": "Gelora Bung Karno Stadium",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -6.218660222056444,
+      "lng": 106.80255619069958,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:30:27.077Z"
+      }
+    },
+    {
+      "id": "mineirao-belo-horizonte-brazil-stadium",
+      "venueId": "mineirao-belo-horizonte-brazil-stadium",
+      "name": "Mineirão",
+      "city": "Belo Horizonte",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -19.865965746015853,
+      "lng": -43.97105364105346,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:34:19.574Z"
       }
     }
   ]
