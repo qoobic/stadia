@@ -136,6 +136,54 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:07:21.853Z"
       }
+    },
+    {
+      "id": "eden-park-auckland-new-zealand-stadium",
+      "venueId": "eden-park-auckland-new-zealand-stadium",
+      "name": "Eden Park",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -36.874979,
+      "lng": 174.74478,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:14.544Z"
+      }
+    },
+    {
+      "id": "emirates-stadium-london-england-stadium",
+      "venueId": "emirates-stadium-london-england-stadium",
+      "name": "Emirates Stadium",
+      "city": "London",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.555044,
+      "lng": -0.108388,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:41.393Z"
+      }
+    },
+    {
+      "id": "empower-field-at-mile-high-denver-united-states-stadium",
+      "venueId": "empower-field-at-mile-high-denver-united-states-stadium",
+      "name": "Empower Field at Mile High",
+      "city": "Denver",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.743942,
+      "lng": -105.020107,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:45.418Z"
+      }
     }
   ],
   "l2": [
@@ -244,6 +292,22 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:01:58.715Z"
+      }
+    },
+    {
+      "id": "estadio-caliente-tijuana-mexico-stadium",
+      "venueId": "estadio-caliente-tijuana-mexico-stadium",
+      "name": "Estadio Caliente",
+      "city": "Tijuana",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 32.50604763281174,
+      "lng": -116.99305950359492,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:32.359Z"
       }
     }
   ],
@@ -446,6 +510,72 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:09:58.720Z"
       }
+    },
+    {
+      "id": "croke-park-dublin-ireland-stadium",
+      "venueId": "croke-park-dublin-ireland-stadium",
+      "name": "Croke Park",
+      "city": "Dublin",
+      "country": "Ireland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.360752,
+      "lng": -6.251128,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:39.132Z"
+      }
+    },
+    {
+      "id": "deutsche-bank-park-frankfurt-germany-stadium",
+      "venueId": "deutsche-bank-park-frankfurt-germany-stadium",
+      "name": "Deutsche Bank Park",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.06841843076356,
+      "lng": 8.645282657137777,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:50.011Z"
+      }
+    },
+    {
+      "id": "ellis-park-stadium-johannesburg-south-africa-stadium",
+      "venueId": "ellis-park-stadium-johannesburg-south-africa-stadium",
+      "name": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -26.197494,
+      "lng": 28.060782,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:33.997Z"
+      }
+    },
+    {
+      "id": "estadio-azteca",
+      "venueId": "estadio-azteca-mexico-city-mexico-stadium",
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [
+        "Azteca Stadium"
+      ],
+      "lat": 19.302928,
+      "lng": -99.150487,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:17.185Z"
+      }
     }
   ],
   "l4": [
@@ -465,24 +595,6 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:56:30.587Z"
-      }
-    },
-    {
-      "id": "estadio-azteca",
-      "venueId": "estadio-azteca-mexico-city-mexico-stadium",
-      "name": "Estadio Azteca",
-      "city": "Mexico City",
-      "country": "Mexico",
-      "venueClass": "stadium",
-      "aliases": [
-        "Azteca Stadium"
-      ],
-      "lat": 19.303047963459942,
-      "lng": -99.1504257735284,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:56:55.520Z"
       }
     },
     {
@@ -711,6 +823,182 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:10:06.408Z"
       }
+    },
+    {
+      "id": "citizens-bank-park-philadelphia-united-states-stadium",
+      "venueId": "citizens-bank-park-philadelphia-united-states-stadium",
+      "name": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.90613779065717,
+      "lng": -75.16650976116424,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:23.245Z"
+      }
+    },
+    {
+      "id": "commonwealth-stadium-edmonton-canada-stadium",
+      "venueId": "commonwealth-stadium-edmonton-canada-stadium",
+      "name": "Commonwealth Stadium",
+      "city": "Edmonton",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.559637,
+      "lng": -113.476194,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:28.775Z"
+      }
+    },
+    {
+      "id": "coors-field-denver-united-states-stadium",
+      "venueId": "coors-field-denver-united-states-stadium",
+      "name": "Coors Field",
+      "city": "Denver",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.756217,
+      "lng": -104.994111,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:35.032Z"
+      }
+    },
+    {
+      "id": "eden-arena-prague-czechia-stadium",
+      "venueId": "eden-arena-prague-czechia-stadium",
+      "name": "Eden Arena",
+      "city": "Prague",
+      "country": "Czechia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.0674234080441,
+      "lng": 14.471496631879461,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:01.619Z"
+      }
+    },
+    {
+      "id": "eden-gardens-kolkata-india-stadium",
+      "venueId": "eden-gardens-kolkata-india-stadium",
+      "name": "Eden Gardens",
+      "city": "Kolkata",
+      "country": "India",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 22.564601,
+      "lng": 88.34329,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:06.669Z"
+      }
+    },
+    {
+      "id": "estadio-akron-zapopan-mexico-stadium",
+      "venueId": "estadio-akron-zapopan-mexico-stadium",
+      "name": "Estadio Akron",
+      "city": "Zapopan",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 20.681757233624655,
+      "lng": -103.46264808524484,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:56.743Z"
+      }
+    },
+    {
+      "id": "estadio-atahualpa-quito-ecuador-stadium",
+      "venueId": "estadio-atahualpa-quito-ecuador-stadium",
+      "name": "Estadio Atahualpa",
+      "city": "Quito",
+      "country": "Ecuador",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -0.177577,
+      "lng": -78.476573,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:01.347Z"
+      }
+    },
+    {
+      "id": "estadio-atanasio-girardot-medellin-colombia-stadium",
+      "venueId": "estadio-atanasio-girardot-medellin-colombia-stadium",
+      "name": "Estadio Atanasio Girardot",
+      "city": "Medellín",
+      "country": "Colombia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 6.256772,
+      "lng": -75.590169,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:05.864Z"
+      }
+    },
+    {
+      "id": "estadio-bbva-guadalupe-mexico-stadium",
+      "venueId": "estadio-bbva-guadalupe-mexico-stadium",
+      "name": "Estadio BBVA",
+      "city": "Guadalupe",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.669135,
+      "lng": -100.24445,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:26.692Z"
+      }
+    },
+    {
+      "id": "estadio-campeon-del-siglo-montevideo-uruguay-stadium",
+      "venueId": "estadio-campeon-del-siglo-montevideo-uruguay-stadium",
+      "name": "Estadio Campeón del Siglo",
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.796894,
+      "lng": -56.067152,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:39.080Z"
+      }
+    },
+    {
+      "id": "estadio-centenario-montevideo-uruguay-stadium",
+      "venueId": "estadio-centenario-montevideo-uruguay-stadium",
+      "name": "Estadio Centenario",
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.894512,
+      "lng": -56.15282,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:18:43.721Z"
+      }
     }
   ],
   "l5": [
@@ -730,24 +1018,6 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:31:11.557Z"
-      }
-    },
-    {
-      "id": "de-kuip",
-      "venueId": "de-kuip-rotterdam-netherlands-stadium",
-      "name": "De Kuip",
-      "city": "Rotterdam",
-      "country": "Netherlands",
-      "venueClass": "stadium",
-      "aliases": [
-        "Stadion Feijenoord"
-      ],
-      "lat": 51.893852855350225,
-      "lng": 4.523183449628544,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:56:36.287Z"
       }
     },
     {
@@ -1100,6 +1370,72 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:10:17.470Z"
+      }
+    },
+    {
+      "id": "de-kuip",
+      "venueId": "de-kuip-rotterdam-netherlands-stadium",
+      "name": "De Kuip",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "venueClass": "stadium",
+      "aliases": [
+        "Stadion Feijenoord"
+      ],
+      "lat": 51.893857,
+      "lng": 4.52319,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:41.982Z"
+      }
+    },
+    {
+      "id": "dolen-omurzakov-stadium-bishkek-kyrgyzstan-stadium",
+      "venueId": "dolen-omurzakov-stadium-bishkek-kyrgyzstan-stadium",
+      "name": "Dolen Omurzakov Stadium",
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.880144,
+      "lng": 74.59796,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:16:54.919Z"
+      }
+    },
+    {
+      "id": "education-city-stadium-al-rayyan-qatar-stadium",
+      "venueId": "education-city-stadium-al-rayyan-qatar-stadium",
+      "name": "Education City Stadium",
+      "city": "Al Rayyan",
+      "country": "Qatar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.310843408365006,
+      "lng": 51.424574582585436,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:22.998Z"
+      }
+    },
+    {
+      "id": "estadio-11-de-novembro-luanda-angola-stadium",
+      "venueId": "estadio-11-de-novembro-luanda-angola-stadium",
+      "name": "Estádio 11 de Novembro",
+      "city": "Luanda",
+      "country": "Angola",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -8.969913,
+      "lng": 13.283526,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:17:50.318Z"
       }
     }
   ]
