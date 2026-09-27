@@ -17,8 +17,11 @@ from tools.bulk_resolve import (
     derive_focal_candidates,
     overpass_to_geojson,
     resolve_record,
+    resolve_city,
+    resolve_osm_object,
     run_pipeline,
     score_wikidata_candidate,
+    select_nominatim_object,
     select_wikidata_candidate,
 )
 
@@ -355,6 +358,77 @@ class WikidataResolutionTests(unittest.TestCase):
 
 
 class OsmResolutionTests(unittest.TestCase):
+    def test_nominatim_object_outside_city_radius_is_rejected(self):
+        city = {"source_lat": 51.5074, "source_lon": -0.1278}
+        far_response = [{
+            "osm_type": "way", "osm_id": 12,
+            "class": "leisure", "type": "stadium",
+            "lat": "52.5074", "lon": "-0.1278",
+        }]
+
+        self.assertIsNone(select_nominatim_object(VENUE, city, far_response))
+
+    def test_nominatim_object_is_identity_evidence_not_final_coordinate(self):
+        city = {"source_lat": 51.5074, "source_lon": -0.1278}
+        valid_response = [{
+            "osm_type": "way", "osm_id": 12,
+            "class": "leisure", "type": "stadium",
+            "lat": "51.5560", "lon": "-0.2796",
+        }]
+
+        result = select_nominatim_object(VENUE, city, valid_response)
+
+        self.assertEqual(result["osm_id"], "way/12")
+        self.assertAlmostEqual(result["source_lat"], 51.5560)
+        self.assertAlmostEqual(result["source_lon"], -0.2796)
+        self.assertLessEqual(result["distance_to_city_m"], 40_000)
+        self.assertNotIn("candidate_lat", result)
+        self.assertNotIn("candidate_lon", result)
+        self.assertNotIn("final_lat", result)
+        self.assertNotIn("final_lon", result)
+
+    def test_nominatim_object_requires_a_compatible_venue_class(self):
+        city = {"source_lat": 51.5074, "source_lon": -0.1278}
+        wrong_class = [{
+            "osm_type": "way", "osm_id": 12,
+            "class": "amenity", "type": "restaurant",
+            "lat": "51.5560", "lon": "-0.2796",
+        }]
+
+        self.assertIsNone(select_nominatim_object(VENUE, city, wrong_class))
+
+    def test_city_and_object_lookups_cache_request_provenance(self):
+        responses = _SequenceOpener([
+            [{
+                "class": "place", "type": "city", "display_name": "London, England",
+                "lat": "51.5074", "lon": "-0.1278",
+            }],
+            [{
+                "osm_type": "way", "osm_id": 12,
+                "class": "leisure", "type": "stadium",
+                "lat": "51.5560", "lon": "-0.2796",
+            }],
+        ])
+        time = _FakeTime()
+        client = JsonHttpClient(
+            request_interval=0, opener=responses, sleep=time.sleep,
+            monotonic=time.monotonic, wall_time=time.time,
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            cache = Path(directory)
+
+            city = resolve_city("London", "England", cache_dir=cache, http_client=client)
+            result = resolve_osm_object(VENUE, city, cache_dir=cache, http_client=client)
+
+            self.assertEqual(responses.calls, 2)
+            self.assertEqual(city["request"]["method"], "GET")
+            self.assertIn("nominatim.openstreetmap.org", city["request"]["url"])
+            self.assertEqual(len(city["cache_sha256"]), 64)
+            self.assertEqual(result["osm_id"], "way/12")
+            self.assertEqual(result["request"]["method"], "GET")
+            self.assertEqual(len(result["cache_sha256"]), 64)
+            self.assertTrue((cache / "nominatim").exists())
+
     def test_overpass_query_is_anchored_by_qid_and_class_rules(self):
         stadium = build_overpass_query("Q123", "stadium")
         circuit = build_overpass_query("Q123", "circuit")

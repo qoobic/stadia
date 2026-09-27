@@ -13,17 +13,17 @@ open http://127.0.0.1:8000/
 
 Append `?dev` for the dev panel (day navigation, clear state, celebration test).
 
-## Manually review stadium coordinates
+## Manually review venue coordinates
 
 Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
-Choose a queue from the selector. It lists remaining OSM stadium candidates
-and all current live venues. Each option shows how many records have a starting
-point, plus the total queue size. Current queue sizes are:
+Choose a queue from the selector. It lists rough golf course starts and all
+current live venues. Each option shows how many records have a starting point,
+plus the total queue size. Current queue sizes are:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
-| Stadium OSM candidates | 11 | 71 |
-| Live venues | 261 | 261 |
+| Golf course rough starts | 50 | 67 |
+| Live venues | 272 | 272 |
 
 The audit page opens each available point on satellite imagery with its venue
 name, city, and country. Drag the marker, choose difficulty 1–5, and submit it
@@ -34,6 +34,8 @@ coordinate changes appear as pending submissions when you revisit the queue.
 OSM candidate coordinates are provisional venue-feature points; check and move
 each marker to the playing surface. OpenStreetMap data is © OpenStreetMap
 contributors under the ODbL; each candidate includes its source feature link.
+Golf course rough starts use Wikidata's course location, not the 18th green;
+move the marker to the 18th green before submitting.
 
 ## Tests
 

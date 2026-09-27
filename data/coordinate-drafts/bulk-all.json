@@ -1,0 +1,2162 @@
+[
+  {
+    "venue_id": "wembley-stadium-london-england-stadium",
+    "canonical_name": "Wembley Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 17,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/wembley-stadium-london-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:02.189720Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Wembley+Stadium+London+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Wembley Stadium London England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "old-trafford-manchester-england-stadium",
+    "canonical_name": "Old Trafford",
+    "city": "Manchester",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 18,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/old-trafford-manchester-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:03.169155Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Old+Trafford+Manchester+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Old Trafford Manchester England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "tottenham-hotspur-stadium-london-england-stadium",
+    "canonical_name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 19,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/tottenham-hotspur-stadium-london-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:04.241622Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Tottenham+Hotspur+Stadium+London+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Tottenham Hotspur Stadium London England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "emirates-stadium-london-england-stadium",
+    "canonical_name": "Emirates Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 20,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/emirates-stadium-london-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:05.301135Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Emirates+Stadium+London+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Emirates Stadium London England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "london-stadium-london-england-stadium",
+    "canonical_name": "London Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 21,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/london-stadium-london-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:06.405242Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=London+Stadium+London+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "London Stadium London England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "anfield-liverpool-england-stadium",
+    "canonical_name": "Anfield",
+    "city": "Liverpool",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 22,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/anfield-liverpool-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:07.458759Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Anfield+Liverpool+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Anfield Liverpool England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "st-james-park-newcastle-upon-tyne-england-stadium",
+    "canonical_name": "St James' Park",
+    "city": "Newcastle upon Tyne",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 23,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/st-james-park-newcastle-upon-tyne-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:08.493496Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=St+James%27+Park+Newcastle+upon+Tyne+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "St James' Park Newcastle upon Tyne England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "etihad-stadium-manchester-england-stadium",
+    "canonical_name": "Etihad Stadium",
+    "city": "Manchester",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 24,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/etihad-stadium-manchester-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:09.528317Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Etihad+Stadium+Manchester+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Etihad Stadium Manchester England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "villa-park-birmingham-england-stadium",
+    "canonical_name": "Villa Park",
+    "city": "Birmingham",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 25,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/villa-park-birmingham-england-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:10.655286Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Villa+Park+Birmingham+England&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Villa Park Birmingham England"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "hampden-park-glasgow-scotland-stadium",
+    "canonical_name": "Hampden Park",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "venue_class": "stadium",
+    "source_line": 26,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/hampden-park-glasgow-scotland-stadium.json",
+        "retrieved_at": "2026-09-13T18:36:11.853952Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Hampden+Park+Glasgow+Scotland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Hampden Park Glasgow Scotland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "principality-stadium-cardiff-wales-stadium",
+    "canonical_name": "Principality Stadium",
+    "city": "Cardiff",
+    "country": "Wales",
+    "venue_class": "stadium",
+    "source_line": 27,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/principality-stadium-cardiff-wales-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:00.995763Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Principality+Stadium+Cardiff+Wales&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Principality Stadium Cardiff Wales"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "aviva-stadium-dublin-ireland-stadium",
+    "canonical_name": "Aviva Stadium",
+    "city": "Dublin",
+    "country": "Ireland",
+    "venue_class": "stadium",
+    "source_line": 28,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/aviva-stadium-dublin-ireland-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:01.939658Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Aviva+Stadium+Dublin+Ireland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Aviva Stadium Dublin Ireland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "croke-park-dublin-ireland-stadium",
+    "canonical_name": "Croke Park",
+    "city": "Dublin",
+    "country": "Ireland",
+    "venue_class": "stadium",
+    "source_line": 29,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/croke-park-dublin-ireland-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:03.033995Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Croke+Park+Dublin+Ireland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Croke Park Dublin Ireland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "murrayfield-stadium-edinburgh-scotland-stadium",
+    "canonical_name": "Murrayfield Stadium",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "venue_class": "stadium",
+    "source_line": 30,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/murrayfield-stadium-edinburgh-scotland-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:04.110578Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Murrayfield+Stadium+Edinburgh+Scotland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Murrayfield Stadium Edinburgh Scotland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "santiago-bernabeu-stadium-madrid-spain-stadium",
+    "canonical_name": "Santiago Bernabéu Stadium",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 31,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/santiago-bernabeu-stadium-madrid-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:05.101986Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Santiago+Bernab%C3%A9u+Stadium+Madrid+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Santiago Bernabéu Stadium Madrid Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "spotify-camp-nou-barcelona-spain-stadium",
+    "canonical_name": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 32,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/spotify-camp-nou-barcelona-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:06.228132Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Spotify+Camp+Nou+Barcelona+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Spotify Camp Nou Barcelona Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "metropolitano-stadium-madrid-spain-stadium",
+    "canonical_name": "Metropolitano Stadium",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 33,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/metropolitano-stadium-madrid-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:07.269341Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Metropolitano+Stadium+Madrid+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Metropolitano Stadium Madrid Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "san-mames-stadium-bilbao-spain-stadium",
+    "canonical_name": "San Mamés Stadium",
+    "city": "Bilbao",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 34,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/san-mames-stadium-bilbao-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:08.355885Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=San+Mam%C3%A9s+Stadium+Bilbao+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "San Mamés Stadium Bilbao Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "estadio-de-la-cartuja-seville-spain-stadium",
+    "canonical_name": "Estadio de La Cartuja",
+    "city": "Seville",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 35,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/estadio-de-la-cartuja-seville-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:09.972708Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Estadio+de+La+Cartuja+Seville+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Estadio de La Cartuja Seville Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "mestalla-stadium-valencia-spain-stadium",
+    "canonical_name": "Mestalla Stadium",
+    "city": "Valencia",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 36,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/mestalla-stadium-valencia-spain-stadium.json",
+        "retrieved_at": "2026-09-13T18:37:10.464154Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Mestalla+Stadium+Valencia+Spain&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Mestalla Stadium Valencia Spain"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "estadio-da-luz-lisbon-portugal-stadium",
+    "canonical_name": "Estádio da Luz",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "venue_class": "stadium",
+    "source_line": 37,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/estadio-da-luz-lisbon-portugal-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:00.759112Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Est%C3%A1dio+da+Luz+Lisbon+Portugal&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Estádio da Luz Lisbon Portugal"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "estadio-jose-alvalade-lisbon-portugal-stadium",
+    "canonical_name": "Estádio José Alvalade",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "venue_class": "stadium",
+    "source_line": 38,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/estadio-jose-alvalade-lisbon-portugal-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:01.792681Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Est%C3%A1dio+Jos%C3%A9+Alvalade+Lisbon+Portugal&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Estádio José Alvalade Lisbon Portugal"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "estadio-do-dragao-porto-portugal-stadium",
+    "canonical_name": "Estádio do Dragão",
+    "city": "Porto",
+    "country": "Portugal",
+    "venue_class": "stadium",
+    "source_line": 39,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/estadio-do-dragao-porto-portugal-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:02.807711Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Est%C3%A1dio+do+Drag%C3%A3o+Porto+Portugal&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Estádio do Dragão Porto Portugal"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stade-de-france-saint-denis-france-stadium",
+    "canonical_name": "Stade de France",
+    "city": "Saint-Denis",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 40,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stade-de-france-saint-denis-france-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:03.881798Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stade+de+France+Saint-Denis+France&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stade de France Saint-Denis France"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "parc-des-princes-paris-france-stadium",
+    "canonical_name": "Parc des Princes",
+    "city": "Paris",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 41,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/parc-des-princes-paris-france-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:04.924886Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Parc+des+Princes+Paris+France&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Parc des Princes Paris France"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stade-velodrome-marseille-france-stadium",
+    "canonical_name": "Stade Vélodrome",
+    "city": "Marseille",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 42,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stade-velodrome-marseille-france-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:06.024686Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stade+V%C3%A9lodrome+Marseille+France&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stade Vélodrome Marseille France"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "groupama-stadium-decines-charpieu-france-stadium",
+    "canonical_name": "Groupama Stadium",
+    "city": "Décines-Charpieu",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 43,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/groupama-stadium-decines-charpieu-france-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:07.079065Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Groupama+Stadium+D%C3%A9cines-Charpieu+France&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Groupama Stadium Décines-Charpieu France"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stade-pierre-mauroy-villeneuve-d-ascq-france-stadium",
+    "canonical_name": "Stade Pierre-Mauroy",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 44,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stade-pierre-mauroy-villeneuve-d-ascq-france-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:08.163776Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stade+Pierre-Mauroy+Villeneuve-d%27Ascq+France&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stade Pierre-Mauroy Villeneuve-d'Ascq France"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "johan-cruyff-arena-amsterdam-netherlands-stadium",
+    "canonical_name": "Johan Cruyff Arena",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 45,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/johan-cruyff-arena-amsterdam-netherlands-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:09.254466Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Johan+Cruyff+Arena+Amsterdam+Netherlands&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Johan Cruyff Arena Amsterdam Netherlands"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "de-kuip-rotterdam-netherlands-stadium",
+    "canonical_name": "De Kuip",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 46,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/de-kuip-rotterdam-netherlands-stadium.json",
+        "retrieved_at": "2026-09-13T18:38:10.308556Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=De+Kuip+Rotterdam+Netherlands&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "De Kuip Rotterdam Netherlands"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "philips-stadion-eindhoven-netherlands-stadium",
+    "canonical_name": "Philips Stadion",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 47,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/philips-stadion-eindhoven-netherlands-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:00.647888Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Philips+Stadion+Eindhoven+Netherlands&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Philips Stadion Eindhoven Netherlands"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "olympiastadion-berlin-germany-stadium",
+    "canonical_name": "Olympiastadion",
+    "city": "Berlin",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 48,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/olympiastadion-berlin-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:01.766597Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Olympiastadion+Berlin+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Olympiastadion Berlin Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "allianz-arena-munich-germany-stadium",
+    "canonical_name": "Allianz Arena",
+    "city": "Munich",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 49,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/allianz-arena-munich-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:02.828962Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Allianz+Arena+Munich+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Allianz Arena Munich Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "signal-iduna-park-dortmund-germany-stadium",
+    "canonical_name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 50,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/signal-iduna-park-dortmund-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:03.838568Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Signal+Iduna+Park+Dortmund+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Signal Iduna Park Dortmund Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "veltins-arena-gelsenkirchen-germany-stadium",
+    "canonical_name": "Veltins-Arena",
+    "city": "Gelsenkirchen",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 51,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/veltins-arena-gelsenkirchen-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:04.913134Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Veltins-Arena+Gelsenkirchen+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Veltins-Arena Gelsenkirchen Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "red-bull-arena-leipzig-germany-stadium",
+    "canonical_name": "Red Bull Arena",
+    "city": "Leipzig",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 52,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/red-bull-arena-leipzig-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:05.961283Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Red+Bull+Arena+Leipzig+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Red Bull Arena Leipzig Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "volksparkstadion-hamburg-germany-stadium",
+    "canonical_name": "Volksparkstadion",
+    "city": "Hamburg",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 53,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/volksparkstadion-hamburg-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:07.018679Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Volksparkstadion+Hamburg+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Volksparkstadion Hamburg Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "deutsche-bank-park-frankfurt-germany-stadium",
+    "canonical_name": "Deutsche Bank Park",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 54,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/deutsche-bank-park-frankfurt-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:08.077011Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Deutsche+Bank+Park+Frankfurt+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Deutsche Bank Park Frankfurt Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "mercedes-benz-arena-stuttgart-germany-stadium",
+    "canonical_name": "Mercedes-Benz Arena",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 55,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/mercedes-benz-arena-stuttgart-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:09.158581Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Mercedes-Benz+Arena+Stuttgart+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Mercedes-Benz Arena Stuttgart Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "rheinenergiestadion-cologne-germany-stadium",
+    "canonical_name": "RheinEnergieStadion",
+    "city": "Cologne",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 56,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/rheinenergiestadion-cologne-germany-stadium.json",
+        "retrieved_at": "2026-09-13T18:39:10.198483Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=RheinEnergieStadion+Cologne+Germany&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "RheinEnergieStadion Cologne Germany"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadio-olimpico-rome-italy-stadium",
+    "canonical_name": "Stadio Olimpico",
+    "city": "Rome",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 57,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadio-olimpico-rome-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:00.544456Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadio+Olimpico+Rome+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadio Olimpico Rome Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "san-siro-milan-italy-stadium",
+    "canonical_name": "San Siro",
+    "city": "Milan",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 58,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/san-siro-milan-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:01.620317Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=San+Siro+Milan+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "San Siro Milan Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "allianz-stadium-turin-italy-stadium",
+    "canonical_name": "Allianz Stadium",
+    "city": "Turin",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 59,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/allianz-stadium-turin-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:02.640154Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Allianz+Stadium+Turin+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Allianz Stadium Turin Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadio-diego-armando-maradona-naples-italy-stadium",
+    "canonical_name": "Stadio Diego Armando Maradona",
+    "city": "Naples",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 60,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadio-diego-armando-maradona-naples-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:03.674858Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadio+Diego+Armando+Maradona+Naples+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadio Diego Armando Maradona Naples Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadio-artemio-franchi-florence-italy-stadium",
+    "canonical_name": "Stadio Artemio Franchi",
+    "city": "Florence",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 61,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadio-artemio-franchi-florence-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:04.843978Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadio+Artemio+Franchi+Florence+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadio Artemio Franchi Florence Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadio-renato-dall-ara-bologna-italy-stadium",
+    "canonical_name": "Stadio Renato Dall'Ara",
+    "city": "Bologna",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 62,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadio-renato-dall-ara-bologna-italy-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:06.028804Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadio+Renato+Dall%27Ara+Bologna+Italy&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadio Renato Dall'Ara Bologna Italy"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "ernst-happel-stadion-vienna-austria-stadium",
+    "canonical_name": "Ernst-Happel-Stadion",
+    "city": "Vienna",
+    "country": "Austria",
+    "venue_class": "stadium",
+    "source_line": 63,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/ernst-happel-stadion-vienna-austria-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:06.905586Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ernst-Happel-Stadion+Vienna+Austria&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Ernst-Happel-Stadion Vienna Austria"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "st-jakob-park-basel-switzerland-stadium",
+    "canonical_name": "St. Jakob-Park",
+    "city": "Basel",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 64,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/st-jakob-park-basel-switzerland-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:07.932667Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=St.+Jakob-Park+Basel+Switzerland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "St. Jakob-Park Basel Switzerland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-letzigrund-zurich-switzerland-stadium",
+    "canonical_name": "Stadion Letzigrund",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 65,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-letzigrund-zurich-switzerland-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:08.981324Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Letzigrund+Zurich+Switzerland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Letzigrund Zurich Switzerland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stade-de-suisse-bern-switzerland-stadium",
+    "canonical_name": "Stade de Suisse",
+    "city": "Bern",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 66,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stade-de-suisse-bern-switzerland-stadium.json",
+        "retrieved_at": "2026-09-13T18:40:10.312753Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stade+de+Suisse+Bern+Switzerland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stade de Suisse Bern Switzerland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "king-baudouin-stadium-brussels-belgium-stadium",
+    "canonical_name": "King Baudouin Stadium",
+    "city": "Brussels",
+    "country": "Belgium",
+    "venue_class": "stadium",
+    "source_line": 67,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/king-baudouin-stadium-brussels-belgium-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:01.444857Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=King+Baudouin+Stadium+Brussels+Belgium&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "King Baudouin Stadium Brussels Belgium"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stade-maurice-dufrasne-liege-belgium-stadium",
+    "canonical_name": "Stade Maurice Dufrasne",
+    "city": "Liège",
+    "country": "Belgium",
+    "venue_class": "stadium",
+    "source_line": 68,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stade-maurice-dufrasne-liege-belgium-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:02.531109Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stade+Maurice+Dufrasne+Li%C3%A8ge+Belgium&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stade Maurice Dufrasne Liège Belgium"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "parken-stadium-copenhagen-denmark-stadium",
+    "canonical_name": "Parken Stadium",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "venue_class": "stadium",
+    "source_line": 69,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/parken-stadium-copenhagen-denmark-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:04.406239Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Parken+Stadium+Copenhagen+Denmark&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Parken Stadium Copenhagen Denmark"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "friends-arena-solna-sweden-stadium",
+    "canonical_name": "Friends Arena",
+    "city": "Solna",
+    "country": "Sweden",
+    "venue_class": "stadium",
+    "source_line": 70,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/friends-arena-solna-sweden-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:04.662161Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Friends+Arena+Solna+Sweden&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Friends Arena Solna Sweden"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "ullevi-gothenburg-sweden-stadium",
+    "canonical_name": "Ullevi",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "venue_class": "stadium",
+    "source_line": 71,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/ullevi-gothenburg-sweden-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:05.858660Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ullevi+Gothenburg+Sweden&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Ullevi Gothenburg Sweden"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "ullevaal-stadion-oslo-norway-stadium",
+    "canonical_name": "Ullevaal Stadion",
+    "city": "Oslo",
+    "country": "Norway",
+    "venue_class": "stadium",
+    "source_line": 72,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/ullevaal-stadion-oslo-norway-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:06.850453Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ullevaal+Stadion+Oslo+Norway&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Ullevaal Stadion Oslo Norway"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "helsinki-olympic-stadium-helsinki-finland-stadium",
+    "canonical_name": "Helsinki Olympic Stadium",
+    "city": "Helsinki",
+    "country": "Finland",
+    "venue_class": "stadium",
+    "source_line": 73,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/helsinki-olympic-stadium-helsinki-finland-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:07.868248Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Helsinki+Olympic+Stadium+Helsinki+Finland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Helsinki Olympic Stadium Helsinki Finland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "laugardalsvollur-reykjavik-iceland-stadium",
+    "canonical_name": "Laugardalsvöllur",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "venue_class": "stadium",
+    "source_line": 74,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/laugardalsvollur-reykjavik-iceland-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:08.982757Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Laugardalsv%C3%B6llur+Reykjav%C3%ADk+Iceland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Laugardalsvöllur Reykjavík Iceland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "puskas-arena-budapest-hungary-stadium",
+    "canonical_name": "Puskás Aréna",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue_class": "stadium",
+    "source_line": 75,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/puskas-arena-budapest-hungary-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:10.058313Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Pusk%C3%A1s+Ar%C3%A9na+Budapest+Hungary&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Puskás Aréna Budapest Hungary"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "national-athletic-centre-budapest-hungary-stadium",
+    "canonical_name": "National Athletic Centre",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue_class": "stadium",
+    "source_line": 76,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/national-athletic-centre-budapest-hungary-stadium.json",
+        "retrieved_at": "2026-09-13T18:41:11.076560Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=National+Athletic+Centre+Budapest+Hungary&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "National Athletic Centre Budapest Hungary"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-narodowy-warsaw-poland-stadium",
+    "canonical_name": "Stadion Narodowy",
+    "city": "Warsaw",
+    "country": "Poland",
+    "venue_class": "stadium",
+    "source_line": 77,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-narodowy-warsaw-poland-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:00.412600Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Narodowy+Warsaw+Poland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Narodowy Warsaw Poland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-slaski-chorzow-poland-stadium",
+    "canonical_name": "Stadion Śląski",
+    "city": "Chorzów",
+    "country": "Poland",
+    "venue_class": "stadium",
+    "source_line": 78,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-slaski-chorzow-poland-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:01.451573Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+%C5%9Al%C4%85ski+Chorz%C3%B3w+Poland&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Śląski Chorzów Poland"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "eden-arena-prague-czechia-stadium",
+    "canonical_name": "Eden Arena",
+    "city": "Prague",
+    "country": "Czechia",
+    "venue_class": "stadium",
+    "source_line": 79,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/eden-arena-prague-czechia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:02.493737Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Eden+Arena+Prague+Czechia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Eden Arena Prague Czechia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "tehelne-pole-bratislava-slovakia-stadium",
+    "canonical_name": "Tehelné pole",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "venue_class": "stadium",
+    "source_line": 80,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/tehelne-pole-bratislava-slovakia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:03.546701Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Teheln%C3%A9+pole+Bratislava+Slovakia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Tehelné pole Bratislava Slovakia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "arena-nationala-bucharest-romania-stadium",
+    "canonical_name": "Arena Națională",
+    "city": "Bucharest",
+    "country": "Romania",
+    "venue_class": "stadium",
+    "source_line": 81,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/arena-nationala-bucharest-romania-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:04.636298Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Arena+Na%C8%9Bional%C4%83+Bucharest+Romania&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Arena Națională Bucharest Romania"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadionul-steaua-bucharest-romania-stadium",
+    "canonical_name": "Stadionul Steaua",
+    "city": "Bucharest",
+    "country": "Romania",
+    "venue_class": "stadium",
+    "source_line": 82,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadionul-steaua-bucharest-romania-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:05.758600Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadionul+Steaua+Bucharest+Romania&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadionul Steaua Bucharest Romania"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-rajko-mitic-belgrade-serbia-stadium",
+    "canonical_name": "Stadion Rajko Mitić",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "venue_class": "stadium",
+    "source_line": 83,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-rajko-mitic-belgrade-serbia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:06.855124Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Rajko+Miti%C4%87+Belgrade+Serbia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Rajko Mitić Belgrade Serbia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-partizana-belgrade-serbia-stadium",
+    "canonical_name": "Stadion Partizana",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "venue_class": "stadium",
+    "source_line": 84,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-partizana-belgrade-serbia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:07.946067Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Partizana+Belgrade+Serbia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Partizana Belgrade Serbia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-maksimir-zagreb-croatia-stadium",
+    "canonical_name": "Stadion Maksimir",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "venue_class": "stadium",
+    "source_line": 85,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-maksimir-zagreb-croatia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:08.894909Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Maksimir+Zagreb+Croatia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Maksimir Zagreb Croatia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadion-poljud-split-croatia-stadium",
+    "canonical_name": "Stadion Poljud",
+    "city": "Split",
+    "country": "Croatia",
+    "venue_class": "stadium",
+    "source_line": 86,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadion-poljud-split-croatia-stadium.json",
+        "retrieved_at": "2026-09-13T18:42:09.959970Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadion+Poljud+Split+Croatia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadion Poljud Split Croatia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stozice-stadium-ljubljana-slovenia-stadium",
+    "canonical_name": "Stožice Stadium",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "venue_class": "stadium",
+    "source_line": 87,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stozice-stadium-ljubljana-slovenia-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:02.458289Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Sto%C5%BEice+Stadium+Ljubljana+Slovenia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stožice Stadium Ljubljana Slovenia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "tose-proeski-arena-skopje-north-macedonia-stadium",
+    "canonical_name": "Toše Proeski Arena",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "venue_class": "stadium",
+    "source_line": 88,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/tose-proeski-arena-skopje-north-macedonia-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:02.742014Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=To%C5%A1e+Proeski+Arena+Skopje+North+Macedonia&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Toše Proeski Arena Skopje North Macedonia"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "stadionul-zimbru-chisinau-moldova-stadium",
+    "canonical_name": "Stadionul Zimbru",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "venue_class": "stadium",
+    "source_line": 89,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/stadionul-zimbru-chisinau-moldova-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:03.828337Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stadionul+Zimbru+Chi%C8%99in%C4%83u+Moldova&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Stadionul Zimbru Chișinău Moldova"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "vasil-levski-national-stadium-sofia-bulgaria-stadium",
+    "canonical_name": "Vasil Levski National Stadium",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "venue_class": "stadium",
+    "source_line": 90,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/vasil-levski-national-stadium-sofia-bulgaria-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:04.781007Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Vasil+Levski+National+Stadium+Sofia+Bulgaria&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Vasil Levski National Stadium Sofia Bulgaria"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "georgi-asparuhov-stadium-sofia-bulgaria-stadium",
+    "canonical_name": "Georgi Asparuhov Stadium",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "venue_class": "stadium",
+    "source_line": 91,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/georgi-asparuhov-stadium-sofia-bulgaria-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:05.912133Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Georgi+Asparuhov+Stadium+Sofia+Bulgaria&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Georgi Asparuhov Stadium Sofia Bulgaria"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "karaiskakis-stadium-piraeus-greece-stadium",
+    "canonical_name": "Karaiskakis Stadium",
+    "city": "Piraeus",
+    "country": "Greece",
+    "venue_class": "stadium",
+    "source_line": 92,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/karaiskakis-stadium-piraeus-greece-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:06.914509Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Karaiskakis+Stadium+Piraeus+Greece&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Karaiskakis Stadium Piraeus Greece"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "olympic-stadium-of-athens-marousi-greece-stadium",
+    "canonical_name": "Olympic Stadium of Athens",
+    "city": "Marousi",
+    "country": "Greece",
+    "venue_class": "stadium",
+    "source_line": 93,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/olympic-stadium-of-athens-marousi-greece-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:07.993806Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Olympic+Stadium+of+Athens+Marousi+Greece&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Olympic Stadium of Athens Marousi Greece"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "gsp-stadium-strovolos-cyprus-stadium",
+    "canonical_name": "GSP Stadium",
+    "city": "Strovolos",
+    "country": "Cyprus",
+    "venue_class": "stadium",
+    "source_line": 94,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/gsp-stadium-strovolos-cyprus-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:09.027228Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=GSP+Stadium+Strovolos+Cyprus&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "GSP Stadium Strovolos Cyprus"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "rams-global-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Rams Global Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 95,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/rams-global-stadium-istanbul-turkiye-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:10.146402Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Rams+Global+Stadium+Istanbul+T%C3%BCrkiye&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Rams Global Stadium Istanbul Türkiye"
+          },
+          "success": 1
+        }
+      }
+    }
+  },
+  {
+    "venue_id": "sukru-saracoglu-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Şükrü Saracoğlu Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 96,
+    "status": "manual_required",
+    "resolution_reason": "wikidata_identity_unresolved",
+    "source_snapshots": {
+      "wikidata": {
+        "source": "Wikidata",
+        "cache_key": "wikidata/sukru-saracoglu-stadium-istanbul-turkiye-stadium.json",
+        "retrieved_at": "2026-09-13T18:43:11.218277Z",
+        "request": {
+          "method": "GET",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&search=%C5%9E%C3%BCkr%C3%BC+Saraco%C4%9Flu+Stadium+Istanbul+T%C3%BCrkiye&language=en&uselang=en&type=item&limit=10&format=json"
+        },
+        "raw_source_metadata": {
+          "searchinfo": {
+            "search": "Şükrü Saracoğlu Stadium Istanbul Türkiye"
+          },
+          "success": 1
+        }
+      }
+    }
+  }
+]

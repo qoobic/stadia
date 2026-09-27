@@ -1077,6 +1077,118 @@
         "decision": "apply",
         "audited_at": "2026-09-27T12:25:50.746Z"
       }
+    },
+    {
+      "id": "stadium-australia-sydney-australia-stadium",
+      "venueId": "stadium-australia-sydney-australia-stadium",
+      "name": "Stadium Australia",
+      "city": "Sydney",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.8471082,
+      "lng": 151.0633848,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:23:55.770Z"
+      }
+    },
+    {
+      "id": "sydney-cricket-ground-sydney-australia-stadium",
+      "venueId": "sydney-cricket-ground-sydney-australia-stadium",
+      "name": "Sydney Cricket Ground",
+      "city": "Sydney",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.891661229739135,
+      "lng": 151.2248191406562,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:34.745Z"
+      }
+    },
+    {
+      "id": "the-gabba-brisbane-australia-stadium",
+      "venueId": "the-gabba-brisbane-australia-stadium",
+      "name": "The Gabba",
+      "city": "Brisbane",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -27.48584969785491,
+      "lng": 153.03809705128202,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:45.394Z"
+      }
+    },
+    {
+      "id": "the-old-course-at-st-andrews-st-andrews-scotland-golf",
+      "venueId": "the-old-course-at-st-andrews-st-andrews-scotland-golf",
+      "name": "The Old Course at St Andrews",
+      "city": "St Andrews",
+      "country": "Scotland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 56.351484,
+      "lng": -2.816147,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:07:29.696Z"
+      }
+    },
+    {
+      "id": "wentworth-club-virginia-water-england-golf",
+      "venueId": "wentworth-club-virginia-water-england-golf",
+      "name": "Wentworth Club",
+      "city": "Virginia Water",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 51.3967,
+      "lng": -0.595833,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:09:20.212Z"
+      }
+    },
+    {
+      "id": "the-belfry-wishaw-england-golf",
+      "venueId": "the-belfry-wishaw-england-golf",
+      "name": "The Belfry",
+      "city": "Wishaw",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 52.554724707894394,
+      "lng": -1.7343807012321482,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:09:35.361Z"
+      }
+    },
+    {
+      "id": "pebble-beach-golf-links-pebble-beach-united-states-golf",
+      "venueId": "pebble-beach-golf-links-pebble-beach-united-states-golf",
+      "name": "Pebble Beach Golf Links",
+      "city": "Pebble Beach",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 36.564625,
+      "lng": -121.937408,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:11:03.589Z"
+      }
     }
   ],
   "l3": [
@@ -1935,6 +2047,310 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T12:26:04.243Z"
+      }
+    },
+    {
+      "id": "loandepot-park-miami-united-states-stadium",
+      "venueId": "loandepot-park-miami-united-states-stadium",
+      "name": "LoanDepot Park",
+      "city": "Miami",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.7780733,
+      "lng": -80.219554,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:23:38.608Z"
+      }
+    },
+    {
+      "id": "olympic-stadium-montreal-canada-stadium",
+      "venueId": "olympic-stadium-montreal-canada-stadium",
+      "name": "Olympic Stadium",
+      "city": "Montreal",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 45.5577984,
+      "lng": -73.5516458,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:23:46.537Z"
+      }
+    },
+    {
+      "id": "optus-stadium-perth-australia-stadium",
+      "venueId": "optus-stadium-perth-australia-stadium",
+      "name": "Optus Stadium",
+      "city": "Perth",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -31.9511358910659,
+      "lng": 115.88905155073336,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:07.066Z"
+      }
+    },
+    {
+      "id": "marvel-stadium-melbourne-australia-stadium",
+      "venueId": "marvel-stadium-melbourne-australia-stadium",
+      "name": "Marvel Stadium",
+      "city": "Melbourne",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -37.81640358261411,
+      "lng": 144.94764271390267,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:29.982Z"
+      }
+    },
+    {
+      "id": "gmhba-stadium-geelong-australia-stadium",
+      "venueId": "gmhba-stadium-geelong-australia-stadium",
+      "name": "GMHBA Stadium",
+      "city": "Geelong",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -38.15812469618847,
+      "lng": 144.3546116774861,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:40.665Z"
+      }
+    },
+    {
+      "id": "carnoustie-golf-links-carnoustie-scotland-golf",
+      "venueId": "carnoustie-golf-links-carnoustie-scotland-golf",
+      "name": "Carnoustie Golf Links",
+      "city": "Carnoustie",
+      "country": "Scotland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 56.493889,
+      "lng": -2.723611,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:07:38.347Z"
+      }
+    },
+    {
+      "id": "muirfield-gullane-scotland-golf",
+      "venueId": "muirfield-gullane-scotland-golf",
+      "name": "Muirfield",
+      "city": "Gullane",
+      "country": "Scotland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 56.042,
+      "lng": -2.821,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:07:44.545Z"
+      }
+    },
+    {
+      "id": "royal-troon-golf-club-troon-scotland-golf",
+      "venueId": "royal-troon-golf-club-troon-scotland-golf",
+      "name": "Royal Troon Golf Club",
+      "city": "Troon",
+      "country": "Scotland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 55.53225546549954,
+      "lng": -4.650960944717067,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:08:09.529Z"
+      }
+    },
+    {
+      "id": "royal-birkdale-golf-club-southport-england-golf",
+      "venueId": "royal-birkdale-golf-club-southport-england-golf",
+      "name": "Royal Birkdale Golf Club",
+      "city": "Southport",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 53.622,
+      "lng": -3.033,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:08:22.675Z"
+      }
+    },
+    {
+      "id": "royal-liverpool-golf-club-hoylake-england-golf",
+      "venueId": "royal-liverpool-golf-club-hoylake-england-golf",
+      "name": "Royal Liverpool Golf Club",
+      "city": "Hoylake",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 53.38508178933645,
+      "lng": -3.190412620227641,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:08:36.962Z"
+      }
+    },
+    {
+      "id": "royal-lytham-st-annes-golf-club-lytham-st-annes-england-golf",
+      "venueId": "royal-lytham-st-annes-golf-club-lytham-st-annes-england-golf",
+      "name": "Royal Lytham & St Annes Golf Club",
+      "city": "Lytham St Annes",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 53.74903462033832,
+      "lng": -3.0175825962701883,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:08:48.366Z"
+      }
+    },
+    {
+      "id": "royal-st-george-s-golf-club-sandwich-england-golf",
+      "venueId": "royal-st-george-s-golf-club-sandwich-england-golf",
+      "name": "Royal St George's Golf Club",
+      "city": "Sandwich",
+      "country": "England",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 51.27551502187824,
+      "lng": 1.3716392119607115,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:09:04.745Z"
+      }
+    },
+    {
+      "id": "royal-portrush-golf-club-portrush-northern-ireland-golf",
+      "venueId": "royal-portrush-golf-club-portrush-northern-ireland-golf",
+      "name": "Royal Portrush Golf Club",
+      "city": "Portrush",
+      "country": "Northern Ireland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 55.204284741345866,
+      "lng": -6.630292206758839,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:09:53.335Z"
+      }
+    },
+    {
+      "id": "valderrama-golf-club-sotogrande-spain-golf",
+      "venueId": "valderrama-golf-club-sotogrande-spain-golf",
+      "name": "Valderrama Golf Club",
+      "city": "Sotogrande",
+      "country": "Spain",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 36.285833,
+      "lng": -5.333889,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:11.182Z"
+      }
+    },
+    {
+      "id": "k-club-straffan-ireland-golf",
+      "venueId": "k-club-straffan-ireland-golf",
+      "name": "K Club",
+      "city": "Straffan",
+      "country": "Ireland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 53.302966834760866,
+      "lng": -6.6273318987686585,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:42.660Z"
+      }
+    },
+    {
+      "id": "bethpage-black-course-farmingdale-united-states-golf",
+      "venueId": "bethpage-black-course-farmingdale-united-states-golf",
+      "name": "Bethpage Black Course",
+      "city": "Farmingdale",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 40.744283250284006,
+      "lng": -73.45819546114748,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:53.235Z"
+      }
+    },
+    {
+      "id": "oakmont-country-club-oakmont-united-states-golf",
+      "venueId": "oakmont-country-club-oakmont-united-states-golf",
+      "name": "Oakmont Country Club",
+      "city": "Oakmont",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 40.5288728040595,
+      "lng": -79.82481432293481,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:11:18.230Z"
+      }
+    },
+    {
+      "id": "medinah-country-club-medinah-united-states-golf",
+      "venueId": "medinah-country-club-medinah-united-states-golf",
+      "name": "Medinah Country Club",
+      "city": "Medinah",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 41.966,
+      "lng": -88.048,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:59.829Z"
+      }
+    },
+    {
+      "id": "tpc-sawgrass-ponte-vedra-beach-united-states-golf",
+      "venueId": "tpc-sawgrass-ponte-vedra-beach-united-states-golf",
+      "name": "TPC Sawgrass",
+      "city": "Ponte Vedra Beach",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 30.194619936320134,
+      "lng": -81.39083795440497,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:13:13.471Z"
       }
     }
   ],
@@ -3127,6 +3543,358 @@
         "decision": "apply",
         "audited_at": "2026-09-27T12:24:39.640Z"
       }
+    },
+    {
+      "id": "royal-dornoch-golf-club-dornoch-scotland-golf",
+      "venueId": "royal-dornoch-golf-club-dornoch-scotland-golf",
+      "name": "Royal Dornoch Golf Club",
+      "city": "Dornoch",
+      "country": "Scotland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 57.8791,
+      "lng": -4.0233,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:08:16.700Z"
+      }
+    },
+    {
+      "id": "portmarnock-golf-club-portmarnock-ireland-golf",
+      "venueId": "portmarnock-golf-club-portmarnock-ireland-golf",
+      "name": "Portmarnock Golf Club",
+      "city": "Portmarnock",
+      "country": "Ireland",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 53.41099,
+      "lng": -6.12101,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:09:44.882Z"
+      }
+    },
+    {
+      "id": "le-golf-national-saint-quentin-en-yvelines-france-golf",
+      "venueId": "le-golf-national-saint-quentin-en-yvelines-france-golf",
+      "name": "Le Golf National",
+      "city": "Saint-Quentin-en-Yvelines",
+      "country": "France",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 48.752098370814,
+      "lng": 2.0787342247297196,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:04.760Z"
+      }
+    },
+    {
+      "id": "real-club-de-golf-el-prat-terrassa-spain-golf",
+      "venueId": "real-club-de-golf-el-prat-terrassa-spain-golf",
+      "name": "Real Club de Golf El Prat",
+      "city": "Terrassa",
+      "country": "Spain",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 41.57,
+      "lng": 2.05361,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:18.227Z"
+      }
+    },
+    {
+      "id": "marco-simone-golf-and-country-club-guidonia-montecelio-italy-golf",
+      "venueId": "marco-simone-golf-and-country-club-guidonia-montecelio-italy-golf",
+      "name": "Marco Simone Golf and Country Club",
+      "city": "Guidonia Montecelio",
+      "country": "Italy",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 41.962103,
+      "lng": 12.635897,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:10:32.514Z"
+      }
+    },
+    {
+      "id": "shinnecock-hills-golf-club-southampton-united-states-golf",
+      "venueId": "shinnecock-hills-golf-club-southampton-united-states-golf",
+      "name": "Shinnecock Hills Golf Club",
+      "city": "Southampton",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 40.896,
+      "lng": -72.44,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:11:28.926Z"
+      }
+    },
+    {
+      "id": "winged-foot-golf-club-mamaroneck-united-states-golf",
+      "venueId": "winged-foot-golf-club-mamaroneck-united-states-golf",
+      "name": "Winged Foot Golf Club",
+      "city": "Mamaroneck",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 40.9625,
+      "lng": -73.7536,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:11:45.080Z"
+      }
+    },
+    {
+      "id": "merion-golf-club-ardmore-united-states-golf",
+      "venueId": "merion-golf-club-ardmore-united-states-golf",
+      "name": "Merion Golf Club",
+      "city": "Ardmore",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 40.001,
+      "lng": -75.312,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:02.834Z"
+      }
+    },
+    {
+      "id": "olympic-club-san-francisco-united-states-golf",
+      "venueId": "olympic-club-san-francisco-united-states-golf",
+      "name": "Olympic Club",
+      "city": "San Francisco",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 37.709,
+      "lng": -122.495,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:15.913Z"
+      }
+    },
+    {
+      "id": "torrey-pines-golf-course-san-diego-united-states-golf",
+      "venueId": "torrey-pines-golf-course-san-diego-united-states-golf",
+      "name": "Torrey Pines Golf Course",
+      "city": "San Diego",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 32.9045,
+      "lng": -117.245,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:25.229Z"
+      }
+    },
+    {
+      "id": "whistling-straits-kohler-united-states-golf",
+      "venueId": "whistling-straits-kohler-united-states-golf",
+      "name": "Whistling Straits",
+      "city": "Kohler",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 43.851,
+      "lng": -87.735,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:31.075Z"
+      }
+    },
+    {
+      "id": "hazeltine-national-golf-club-chaska-united-states-golf",
+      "venueId": "hazeltine-national-golf-club-chaska-united-states-golf",
+      "name": "Hazeltine National Golf Club",
+      "city": "Chaska",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 44.8325,
+      "lng": -93.5858,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:12:38.229Z"
+      }
+    },
+    {
+      "id": "riviera-country-club-pacific-palisades-united-states-golf",
+      "venueId": "riviera-country-club-pacific-palisades-united-states-golf",
+      "name": "Riviera Country Club",
+      "city": "Pacific Palisades",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 34.04836485269939,
+      "lng": -118.50149619272163,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:13:31.815Z"
+      }
+    },
+    {
+      "id": "royal-montreal-golf-club-montreal-canada-golf",
+      "venueId": "royal-montreal-golf-club-montreal-canada-golf",
+      "name": "Royal Montreal Golf Club",
+      "city": "Montreal",
+      "country": "Canada",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 45.49277,
+      "lng": -73.902572,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:13:45.091Z"
+      }
+    },
+    {
+      "id": "st-george-s-golf-and-country-club-toronto-canada-golf",
+      "venueId": "st-george-s-golf-and-country-club-toronto-canada-golf",
+      "name": "St. George's Golf and Country Club",
+      "city": "Toronto",
+      "country": "Canada",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 43.675,
+      "lng": -79.531,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:13:57.578Z"
+      }
+    },
+    {
+      "id": "emirates-golf-club-dubai-united-arab-emirates-golf",
+      "venueId": "emirates-golf-club-dubai-united-arab-emirates-golf",
+      "name": "Emirates Golf Club",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 25.08528,
+      "lng": 55.15984,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:15:29.455Z"
+      }
+    },
+    {
+      "id": "doha-golf-club-doha-qatar-golf",
+      "venueId": "doha-golf-club-doha-qatar-golf",
+      "name": "Doha Golf Club",
+      "city": "Doha",
+      "country": "Qatar",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 25.384083,
+      "lng": 51.507297,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:15:36.393Z"
+      }
+    },
+    {
+      "id": "royal-johannesburg-kensington-golf-club-johannesburg-south-africa-golf",
+      "venueId": "royal-johannesburg-kensington-golf-club-johannesburg-south-africa-golf",
+      "name": "Royal Johannesburg & Kensington Golf Club",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -26.152778,
+      "lng": 28.106944,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:15:43.589Z"
+      }
+    },
+    {
+      "id": "gary-player-country-club-sun-city-south-africa-golf",
+      "venueId": "gary-player-country-club-sun-city-south-africa-golf",
+      "name": "Gary Player Country Club",
+      "city": "Sun City",
+      "country": "South Africa",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -25.339275,
+      "lng": 27.106319,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:16:00.518Z"
+      }
+    },
+    {
+      "id": "fancourt-george-south-africa-golf",
+      "venueId": "fancourt-george-south-africa-golf",
+      "name": "Fancourt",
+      "city": "George",
+      "country": "South Africa",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -33.95311,
+      "lng": 22.40716,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:17:23.206Z"
+      }
+    },
+    {
+      "id": "royal-cape-golf-club-cape-town-south-africa-golf",
+      "venueId": "royal-cape-golf-club-cape-town-south-africa-golf",
+      "name": "Royal Cape Golf Club",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -34.01728,
+      "lng": 18.48852,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:17:33.861Z"
+      }
+    },
+    {
+      "id": "royal-golf-dar-es-salam-rabat-morocco-golf",
+      "venueId": "royal-golf-dar-es-salam-rabat-morocco-golf",
+      "name": "Royal Golf Dar Es Salam",
+      "city": "Rabat",
+      "country": "Morocco",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 33.919128,
+      "lng": -6.834063,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:17:41.394Z"
+      }
     }
   ],
   "l5": [
@@ -4220,6 +4988,214 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T12:24:50.385Z"
+      }
+    },
+    {
+      "id": "sir-john-guise-stadium-port-moresby-papua-new-guinea-stadium",
+      "venueId": "sir-john-guise-stadium-port-moresby-papua-new-guinea-stadium",
+      "name": "Sir John Guise Stadium",
+      "city": "Port Moresby",
+      "country": "Papua New Guinea",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -9.4409136,
+      "lng": 147.1853919,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:24:50.494Z"
+      }
+    },
+    {
+      "id": "lawson-tama-stadium-honiara-solomon-islands-stadium",
+      "venueId": "lawson-tama-stadium-honiara-solomon-islands-stadium",
+      "name": "Lawson Tama Stadium",
+      "city": "Honiara",
+      "country": "Solomon Islands",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -9.436753594197977,
+      "lng": 159.9714839770672,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:25:01.765Z"
+      }
+    },
+    {
+      "id": "korman-stadium-port-vila-vanuatu-stadium",
+      "venueId": "korman-stadium-port-vila-vanuatu-stadium",
+      "name": "Korman Stadium",
+      "city": "Port Vila",
+      "country": "Vanuatu",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -17.73403054033096,
+      "lng": 168.33748446729706,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T14:25:10.336Z"
+      }
+    },
+    {
+      "id": "club-de-golf-chapultepec-naucalpan-mexico-golf",
+      "venueId": "club-de-golf-chapultepec-naucalpan-mexico-golf",
+      "name": "Club de Golf Chapultepec",
+      "city": "Naucalpan",
+      "country": "Mexico",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 19.43116387042289,
+      "lng": -99.24370758401221,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:11.070Z"
+      }
+    },
+    {
+      "id": "royal-melbourne-golf-club-black-rock-australia-golf",
+      "venueId": "royal-melbourne-golf-club-black-rock-australia-golf",
+      "name": "Royal Melbourne Golf Club",
+      "city": "Black Rock",
+      "country": "Australia",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -37.9695,
+      "lng": 145.031,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:18.957Z"
+      }
+    },
+    {
+      "id": "victoria-golf-club-cheltenham-australia-golf",
+      "venueId": "victoria-golf-club-cheltenham-australia-golf",
+      "name": "Victoria Golf Club",
+      "city": "Cheltenham",
+      "country": "Australia",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -37.9667,
+      "lng": 145.0448,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:27.560Z"
+      }
+    },
+    {
+      "id": "royal-auckland-and-grange-golf-club-auckland-new-zealand-golf",
+      "venueId": "royal-auckland-and-grange-golf-club-auckland-new-zealand-golf",
+      "name": "Royal Auckland and Grange Golf Club",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -36.96,
+      "lng": 174.843333,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:36.574Z"
+      }
+    },
+    {
+      "id": "sentosa-golf-club-singapore-singapore-golf",
+      "venueId": "sentosa-golf-club-singapore-singapore-golf",
+      "name": "Sentosa Golf Club",
+      "city": "Singapore",
+      "country": "Singapore",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 1.2439,
+      "lng": 103.8294,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:41.819Z"
+      }
+    },
+    {
+      "id": "kasumigaseki-country-club-kawagoe-japan-golf",
+      "venueId": "kasumigaseki-country-club-kawagoe-japan-golf",
+      "name": "Kasumigaseki Country Club",
+      "city": "Kawagoe",
+      "country": "Japan",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 35.901389,
+      "lng": 139.404444,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:51.669Z"
+      }
+    },
+    {
+      "id": "sheshan-international-golf-club-shanghai-china-golf",
+      "venueId": "sheshan-international-golf-club-shanghai-china-golf",
+      "name": "Sheshan International Golf Club",
+      "city": "Shanghai",
+      "country": "China",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 31.110105,
+      "lng": 121.216407,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:14:56.031Z"
+      }
+    },
+    {
+      "id": "mission-hills-golf-club-dongguan-china-golf",
+      "venueId": "mission-hills-golf-club-dongguan-china-golf",
+      "name": "Mission Hills Golf Club",
+      "city": "Dongguan",
+      "country": "China",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 22.789656481641327,
+      "lng": 114.0006193069655,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:15:13.811Z"
+      }
+    },
+    {
+      "id": "royal-calcutta-golf-club-kolkata-india-golf",
+      "venueId": "royal-calcutta-golf-club-kolkata-india-golf",
+      "name": "Royal Calcutta Golf Club",
+      "city": "Kolkata",
+      "country": "India",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 22.493,
+      "lng": 88.355,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:15:20.423Z"
+      }
+    },
+    {
+      "id": "leopard-creek-country-club-malelane-south-africa-golf",
+      "venueId": "leopard-creek-country-club-malelane-south-africa-golf",
+      "name": "Leopard Creek Country Club",
+      "city": "Malelane",
+      "country": "South Africa",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -25.441667,
+      "lng": 31.534444,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:17:37.810Z"
       }
     }
   ]

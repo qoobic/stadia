@@ -1,9 +1,9 @@
 [
   {
-    "id": "stadiums-osm",
-    "label": "Stadium OSM candidates",
+    "id": "golf-wikidata-starts",
+    "label": "Golf course rough starts",
     "type": "candidates",
-    "url": "../data/coordinate-drafts/remaining/stadiums-osm.json"
+    "url": "../data/coordinate-drafts/remaining/golf-wikidata-starts.json"
   },
   {
     "id": "live-venues",

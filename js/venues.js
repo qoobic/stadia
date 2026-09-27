@@ -54,7 +54,7 @@ export function normalizeForSearch(s) {
 }
 
 export function venueLabel(venue) {
-  return `${venue.name}, ${venue.city}`;
+  return `${venue.name}, ${venue.city}, ${venue.country}`;
 }
 
 export function buildVenueIndex(venuesData) {

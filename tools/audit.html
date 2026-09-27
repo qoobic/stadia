@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Stadium coordinate finder</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #111318;
+    color: #e8eaf0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  header {
+    padding: 10px 16px;
+    border-bottom: 1px solid #2a2e38;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  header h1 { font-size: 15px; margin: 0; font-weight: 600; }
+  #status { font-size: 13px; color: #9aa2b1; }
+  main {
+    flex: 1;
+    display: flex;
+    min-height: 0;
+  }
+  #map { flex: 1; background: #000; }
+  #panel {
+    width: 340px;
+    padding: 16px;
+    overflow-y: auto;
+    border-left: 1px solid #2a2e38;
+    box-sizing: border-box;
+  }
+  #panel h2 { font-size: 16px; margin: 0 0 4px; }
+  #panel dl { margin: 12px 0; font-size: 13px; }
+  #panel dt { color: #9aa2b1; margin-top: 6px; }
+  #panel dd { margin: 0; word-break: break-word; }
+  .row { display: flex; gap: 8px; margin: 8px 0; }
+  button {
+    font: inherit;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #3a3f4c;
+    background: #1c1f27;
+    color: #e8eaf0;
+    cursor: pointer;
+  }
+  button:hover { background: #262a34; }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+  button.accept { border-color: #2f8f4e; }
+  button.primary { background: #2b3a52; border-color: #3d5a86; }
+  select { font: inherit; padding: 8px; border-radius: 6px; }
+  #moveNotice {
+    font-size: 12px;
+    color: #e0b84a;
+    min-height: 16px;
+  }
+  #queueList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    max-height: 220px;
+    overflow-y: auto;
+    border: 1px solid #2a2e38;
+    border-radius: 6px;
+  }
+  #queueList li {
+    padding: 6px 8px;
+    border-bottom: 1px solid #2a2e38;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  #queueList li:last-child { border-bottom: none; }
+  #queueList li.current { background: #22344a; }
+  #queueList li[data-decision="accept"] .badge { color: #2f8f4e; }
+  #queueList li[data-decision="move"] .badge { color: #e0b84a; }
+  #queueList li[data-decision="unknown"] .badge { color: #9aa2b1; }
+  #queueList li[data-decision="apply"] .badge { color: #2f8f4e; }
+  .badge { font-weight: 600; }
+  #empty {
+    padding: 40px;
+    text-align: center;
+    color: #9aa2b1;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Stadium coordinate finder</h1>
+  <label for="queueSelect">Queue</label>
+  <select id="queueSelect" disabled><option>Loading queues…</option></select>
+  <span id="status">No queue loaded.</span>
+</header>
+<main>
+  <div id="map"></div>
+  <div id="panel">
+    <div id="empty">Choose a queue to begin.</div>
+    <div id="detail" hidden>
+      <h2 id="venueName"></h2>
+      <dl>
+        <dt>Venue ID</dt><dd id="venueId"></dd>
+        <dt>Location</dt><dd id="venueLocation"></dd>
+        <dt>Already live</dt><dd id="liveStatus"></dd>
+        <dt>Class</dt><dd id="venueClass"></dd>
+        <dt>Current point</dt><dd id="candidatePoint"></dd>
+        <dt>Difficulty (1 easiest – 5 hardest)</dt><dd><select id="difficultySelect" required>
+          <option value="">Choose difficulty…</option>
+          <option value="1">1 — Easiest</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5 — Hardest</option>
+        </select></dd>
+        <dt>Uncertainty</dt><dd id="uncertainty"></dd>
+        <dt>Derivation</dt><dd id="derivation"></dd>
+        <dt>Provenance</dt><dd id="provenance"></dd>
+      </dl>
+      <div id="moveNotice"></div>
+      <div class="row">
+        <button id="acceptButton" class="accept" disabled>Submit point to live data</button>
+        <button id="unknownButton">Don't know</button>
+        <button id="resetButton">Reset position</button>
+      </div>
+      <div class="row">
+        <button id="prevButton">&larr; Prev</button>
+        <button id="nextButton">Next &rarr;</button>
+      </div>
+      <p style="font-size:12px;color:#9aa2b1;">
+        Drag the marker or click the imagery to move it, choose a difficulty,
+        then submit to write it straight into the live data. Don't know skips it.
+      </p>
+      <h3 style="font-size:13px;margin-bottom:4px;">Queue</h3>
+      <ul id="queueList"></ul>
+    </div>
+  </div>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+(function () {
+  "use strict";
+
+  const TILE_URL = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}";
+  const TILE_ATTRIBUTION = "Imagery © Esri";
+  const FOCAL_ZOOM = 19;
+  const COORDINATE_EPSILON = 1e-9;
+  const DECISIONS_KEY_PREFIX = "stadiaCoordinateAuditDecisionsV1:";
+  const ACTIVE_QUEUE_KEY = "stadiaCoordinateAuditActiveQueueV1";
+
+  let queueDefinitions = [];
+  let queue = [];
+  let decisions = new Map();
+  let activeQueue = null;
+  let venueMetadata = new Map();
+  let liveData = null;
+  let liveVenueById = new Map();
+  let currentIndex = -1;
+  let map = null;
+  let marker = null;
+  let movedLat = null;
+  let movedLon = null;
+
+  const el = (id) => document.getElementById(id);
+  const statusEl = el("status");
+  const emptyEl = el("empty");
+  const detailEl = el("detail");
+  const queueListEl = el("queueList");
+  const moveNoticeEl = el("moveNotice");
+
+  el("queueSelect").addEventListener("change", () => {
+    const selected = queueDefinitions.find(item => item.id === el("queueSelect").value);
+    if (selected) loadQueue(selected);
+  });
+  el("acceptButton").addEventListener("click", applyCurrentToLive);
+  el("unknownButton").addEventListener("click", markUnknown);
+  el("resetButton").addEventListener("click", resetPosition);
+  el("prevButton").addEventListener("click", () => showItem(currentIndex - 1));
+  el("nextButton").addEventListener("click", () => showItem(currentIndex + 1));
+  el("difficultySelect").addEventListener("change", updateSubmitButton);
+
+  initialize();
+
+  async function initialize() {
+    try {
+      await loadVenueMetadata();
+      await refreshLiveData();
+      const response = await fetch("coordinate-queues.json", { cache: "no-store" });
+      if (!response.ok) throw new Error("could not load coordinate-queues.json (HTTP " + response.status + ")");
+      const manifest = await response.json();
+      queueDefinitions = await Promise.all(manifest.map(loadQueueDefinition));
+      const liveQueue = queueDefinitions.find(item => item.type === "live");
+      if (liveQueue) {
+        liveQueue.items = normalizeLiveVenues(liveData);
+        liveQueue.totalCount = liveQueue.items.length;
+      }
+      const select = el("queueSelect");
+      select.innerHTML = "";
+      queueDefinitions.forEach(definition => select.appendChild(queueOption(definition)));
+      select.disabled = false;
+      let previous = null;
+      try { previous = localStorage.getItem(ACTIVE_QUEUE_KEY); } catch (_) {}
+      const initial = queueDefinitions.find(item => item.id === previous) || queueDefinitions[0];
+      select.value = initial.id;
+      loadQueue(initial);
+    } catch (error) {
+      statusEl.textContent = "Could not load queues: " + error.message;
+    }
+  }
+
+  function queueOption(definition) {
+    const option = document.createElement("option");
+    option.value = definition.id;
+    option.textContent = definition.label + " — " + definition.items.length +
+      " with points / " + definition.totalCount + " total";
+    return option;
+  }
+
+  async function refreshLiveData() {
+    const response = await fetch("/api/live", { cache: "no-store" });
+    if (!response.ok) throw new Error("local write server is unavailable (HTTP " + response.status + ")");
+    liveData = await response.json();
+    liveVenueById = new Map();
+    for (const band of ["l1", "l2", "l3", "l4", "l5"]) {
+      for (const record of liveData[band] || []) {
+        const entry = { band, record };
+        if (record.venueId) liveVenueById.set(record.venueId, entry);
+        if (record.id) liveVenueById.set(record.id, entry);
+      }
+    }
+    const liveQueue = queueDefinitions.find(item => item.type === "live");
+    if (liveQueue) {
+      liveQueue.items = normalizeLiveVenues(liveData);
+      liveQueue.totalCount = liveQueue.items.length;
+      const option = el("queueSelect").querySelector(`option[value="${liveQueue.id}"]`);
+      if (option) option.textContent = queueOption(liveQueue).textContent;
+    }
+  }
+
+  async function loadQueueDefinition(definition) {
+    const response = await fetch(definition.url, { cache: "no-store" });
+    if (!response.ok) throw new Error("could not load " + definition.url + " (HTTP " + response.status + ")");
+    const data = await response.json();
+    const totalCount = definition.type === "live"
+      ? ["l1", "l2", "l3", "l4", "l5"].reduce((count, band) => count + (data[band] || []).length, 0)
+      : data.length;
+    const items = definition.type === "live"
+      ? normalizeLiveVenues(data)
+      : normalizeCandidateRecords(data);
+    return { ...definition, totalCount, items };
+  }
+
+  async function loadVenueMetadata() {
+    if (venueMetadata.size) return;
+    const response = await fetch("../data/venues.json");
+    if (!response.ok) throw new Error("could not load data/venues.json (HTTP " + response.status + ")");
+    const records = await response.json();
+    venueMetadata = new Map(records.map(record => [record.venue_id, record]));
+  }
+
+  function loadSavedDecisions(queueId) {
+    try {
+      const saved = JSON.parse(localStorage.getItem(DECISIONS_KEY_PREFIX + queueId) || "[]");
+      return new Map(saved.filter(item => item && typeof item.venue_id === "string")
+        .map(item => [item.venue_id, item]));
+    } catch (_) {
+      return new Map();
+    }
+  }
+
+  function normalizeCandidateRecords(records) {
+    return records.filter(hasCandidatePoint).map(record => {
+      const metadata = venueMetadata.get(record.venue_id) || {};
+      return { ...record, city: record.city || metadata.city, country: record.country || metadata.country };
+    });
+  }
+
+  function normalizeLiveVenues(data) {
+    return ["l1", "l2", "l3", "l4", "l5"].flatMap(band => (data[band] || [])
+      .filter(record => isFiniteNumber(record.lat) && isFiniteNumber(record.lng))
+      .map(record => ({
+        venue_id: record.venueId || record.id,
+        canonical_name: record.name,
+        city: record.city,
+        country: record.country,
+        venue_class: record.venueClass,
+        candidate_lat: record.lat,
+        candidate_lon: record.lng,
+        live_id: record.id
+      })));
+  }
+
+  function loadQueue(definition) {
+    activeQueue = definition;
+    queue = definition.items;
+    decisions = loadSavedDecisions(definition.id);
+    currentIndex = queue.length ? (nextUndecided(-1) ?? 0) : -1;
+    try { localStorage.setItem(ACTIVE_QUEUE_KEY, definition.id); } catch (_) {}
+    emptyEl.hidden = queue.length > 0;
+    detailEl.hidden = queue.length === 0;
+    updateSubmitButton();
+    if (queue.length) {
+      ensureMap();
+      showItem(currentIndex);
+    }
+  }
+
+  function nextUndecided(afterIndex) {
+    for (let step = 1; step <= queue.length; step++) {
+      const index = (afterIndex + step) % queue.length;
+      const decision = decisions.get(queue[index].venue_id)?.decision;
+      if (!decision || !["apply", "unknown"].includes(decision)) return index;
+    }
+    return null;
+  }
+
+  function hasCandidatePoint(record) {
+    return (
+      record &&
+      typeof record === "object" &&
+      typeof record.venue_id === "string" &&
+      isFiniteNumber(record.candidate_lat) &&
+      isFiniteNumber(record.candidate_lon)
+    );
+  }
+
+  function isFiniteNumber(value) {
+    return typeof value === "number" && Number.isFinite(value);
+  }
+
+  function ensureMap() {
+    if (map) return;
+    map = L.map("map", { zoomControl: true });
+    L.tileLayer(TILE_URL, { attribution: TILE_ATTRIBUTION, maxZoom: 21 }).addTo(map);
+    marker = L.marker([0, 0], { draggable: true }).addTo(map);
+    marker.on("dragend", () => {
+      const position = marker.getLatLng();
+      setMovedPosition(position.lat, position.lng);
+    });
+    map.on("click", (event) => {
+      marker.setLatLng(event.latlng);
+      setMovedPosition(event.latlng.lat, event.latlng.lng);
+    });
+  }
+
+  function showItem(index) {
+    if (index < 0 || index >= queue.length) return;
+    currentIndex = index;
+    const record = queue[currentIndex];
+    const metadata = venueMetadata.get(record.venue_id) || record;
+    const liveEntry = liveVenueById.get(record.venue_id);
+
+    el("venueName").textContent = record.canonical_name || record.venue_id;
+    el("venueId").textContent = record.venue_id;
+    el("venueLocation").textContent = [metadata.city, metadata.country].filter(Boolean).join(", ") || "—";
+    el("liveStatus").textContent = liveEntry ? "Yes — " + liveEntry.band.toUpperCase() : "No";
+    el("venueClass").textContent = record.venue_class || "—";
+    const savedDecision = decisions.get(record.venue_id);
+    const savedPoint = ["move", "apply"].includes(savedDecision?.decision) &&
+      isFiniteNumber(savedDecision.lat) && isFiniteNumber(savedDecision.lon);
+    const currentLat = savedPoint ? savedDecision.lat : record.candidate_lat;
+    const currentLon = savedPoint ? savedDecision.lon : record.candidate_lon;
+    el("candidatePoint").textContent =
+      currentLat.toFixed(6) + ", " + currentLon.toFixed(6);
+    el("uncertainty").textContent =
+      record.uncertainty_m != null ? record.uncertainty_m + " m" : "—";
+    el("derivation").textContent = record.derivation_method || "—";
+    el("provenance").textContent =
+      [record.qid, record.osm_site_id, record.osm_focal_id].filter(Boolean).join(" / ") || "—";
+    el("difficultySelect").value = liveEntry
+      ? liveEntry.band.slice(1)
+      : (savedDecision?.difficulty || "");
+
+    movedLat = savedPoint && (currentLat !== record.candidate_lat || currentLon !== record.candidate_lon)
+      ? currentLat : null;
+    movedLon = movedLat === null ? null : currentLon;
+    moveNoticeEl.textContent = "";
+    marker.setLatLng([currentLat, currentLon]);
+    map.setView([currentLat, currentLon], FOCAL_ZOOM);
+
+    el("prevButton").disabled = currentIndex === 0;
+    el("nextButton").disabled = currentIndex === queue.length - 1;
+
+    renderQueueList();
+    updateSubmitButton();
+  }
+
+  function setMovedPosition(lat, lon) {
+    const record = queue[currentIndex];
+    const unchanged =
+      Math.abs(lat - record.candidate_lat) < COORDINATE_EPSILON &&
+      Math.abs(lon - record.candidate_lon) < COORDINATE_EPSILON;
+    if (unchanged) {
+      movedLat = null;
+      movedLon = null;
+      moveNoticeEl.textContent = "";
+    } else {
+      movedLat = lat;
+      movedLon = lon;
+      moveNoticeEl.textContent =
+        "Point moved to " + lat.toFixed(6) + ", " + lon.toFixed(6) +
+        ". Submit will write this position to live data.";
+    }
+  }
+
+  function resetPosition() {
+    const record = queue[currentIndex];
+    marker.setLatLng([record.candidate_lat, record.candidate_lon]);
+    movedLat = null;
+    movedLon = null;
+    moveNoticeEl.textContent = "";
+  }
+
+  function markUnknown() {
+    const record = queue[currentIndex];
+    decisions.set(record.venue_id, {
+      venue_id: record.venue_id,
+      decision: "unknown",
+      audited_at: new Date().toISOString()
+    });
+    saveDecisions();
+    renderQueueList();
+    const next = nextUndecided(currentIndex);
+    if (next !== null) showItem(next);
+    else moveNoticeEl.textContent = "Queue complete. Submitted points are already in live data.";
+  }
+
+  async function applyCurrentToLive() {
+    const record = queue[currentIndex];
+    const difficulty = Number(el("difficultySelect").value);
+    if (!record || !Number.isInteger(difficulty) || difficulty < 1 || difficulty > 5) return;
+    const button = el("acceptButton");
+    button.disabled = true;
+    statusEl.textContent = "Saving " + record.canonical_name + " to live data…";
+    try {
+      const response = await fetch("/api/apply", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          queue_id: activeQueue.id,
+          venue_id: record.venue_id,
+          lat: movedLat ?? record.candidate_lat,
+          lon: movedLon ?? record.candidate_lon,
+          difficulty,
+          audited_at: new Date().toISOString()
+        })
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "HTTP " + response.status);
+      decisions.set(record.venue_id, {
+        venue_id: record.venue_id,
+        decision: "apply",
+        lat: movedLat ?? record.candidate_lat,
+        lon: movedLon ?? record.candidate_lon,
+        difficulty,
+        audited_at: new Date().toISOString()
+      });
+      saveDecisions();
+      await refreshLiveData();
+      if (activeQueue.type === "live") {
+        queue = activeQueue.items;
+        currentIndex = queue.findIndex(item => item.venue_id === record.venue_id);
+      }
+      renderQueueList();
+      const successMessage = result.action === "added"
+        ? result.name + " added to live data in L" + difficulty + "."
+        : result.name + " updated in live data in L" + difficulty + ".";
+      const next = nextUndecided(currentIndex);
+      if (next !== null) showItem(next);
+      else moveNoticeEl.textContent = "Queue complete. Changes have been applied to live data.";
+      statusEl.textContent = successMessage;
+    } catch (error) {
+      statusEl.textContent = "Could not submit venue: " + error.message;
+      updateSubmitButton();
+    }
+  }
+
+  function saveDecisions() {
+    try {
+      localStorage.setItem(DECISIONS_KEY_PREFIX + activeQueue.id, JSON.stringify(Array.from(decisions.values())));
+    } catch (_) {
+      statusEl.textContent = "Browser storage is unavailable. Applied changes are still in live data.";
+    }
+  }
+
+  function renderQueueList() {
+    queueListEl.innerHTML = "";
+    queue.forEach((record, index) => {
+      const item = document.createElement("li");
+      const decision = decisions.get(record.venue_id);
+      if (decision) item.dataset.decision = decision.decision;
+      if (index === currentIndex) item.classList.add("current");
+      const label = document.createElement("span");
+      const metadata = venueMetadata.get(record.venue_id) || record;
+      label.textContent = [record.canonical_name || record.venue_id, metadata.city, metadata.country]
+        .filter(Boolean).join(", ");
+      const badge = document.createElement("span");
+      badge.className = "badge";
+      badge.textContent = decision && ["move", "accept"].includes(decision.decision)
+        ? "pending submit"
+        : (decision ? decision.decision : "");
+      item.appendChild(label);
+      item.appendChild(badge);
+      item.addEventListener("click", () => showItem(index));
+      queueListEl.appendChild(item);
+    });
+  }
+
+  function updateSubmitButton() {
+    const button = el("acceptButton");
+    const record = queue[currentIndex];
+    const liveEntry = record ? liveVenueById.get(record.venue_id) : null;
+    const difficulty = Number(el("difficultySelect").value);
+    button.disabled = !record || !Number.isInteger(difficulty) || difficulty < 1 || difficulty > 5;
+    button.textContent = liveEntry ? "Submit update to live data" : "Submit point to live data";
+    const decidedInQueue = queue.filter(record => decisions.has(record.venue_id)).length;
+    if (record) statusEl.textContent = activeQueue.label + ": " + queue.length + " points, " +
+      decidedInQueue + " reviewed in this browser.";
+  }
+})();
+</script>
+</body>
+</html>

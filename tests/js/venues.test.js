@@ -204,6 +204,6 @@ test('an empty aliases array does not break the index (the export ships these)',
 
 suite('venues.venueLabel');
 
-test('labels a venue as "name, city"', () => {
-  assertEq(venueLabel({ name: 'Anfield', city: 'Liverpool', country: 'England' }), 'Anfield, Liverpool');
+test('labels a venue as "name, city, country"', () => {
+  assertEq(venueLabel({ name: 'Anfield', city: 'Liverpool', country: 'England' }), 'Anfield, Liverpool, England');
 });

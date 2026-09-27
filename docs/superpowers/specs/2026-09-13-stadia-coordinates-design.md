@@ -28,6 +28,14 @@ The automated pipeline may produce `auto_candidate` and `manual_required` record
 
 Reviewer A resolves identity and derives a point. Reviewer B independently repeats the selection from a different evidence chain. Their points must agree within 15 m for stadiums/arenas, 20 m for golf, and 25 m for circuits/racecourses. Disagreements are adjudicated, never averaged. A record with missing geometry or uncertain identity remains unresolved.
 
+## Accelerated resolution workflow
+
+The launch dataset prioritises a visually correct focal point over survey-grade precision. The class-specific focal definitions remain unchanged, while acceptable uncertainty is 40 m for stadiums and arenas, 60 m for golf, and 75 m for circuits and racecourses.
+
+The automated workflow has two evidence chains. A batched Wikidata query finds a class- and country-compatible venue identity near a cached city coordinate. A Nominatim lookup identifies an OSM object only; its response point is never a game coordinate. OSM geometry then derives the class focal point. A stadium or arena may use a clearly identified venue outline centroid as a documented visual fallback; golf, circuits, and racecourses may not.
+
+Rows with agreeing Wikidata, OSM-object, and derived geometry evidence become `needs_imagery`; they are not exported directly. A lightweight imagery audit checks every row, accepting, rejecting, or repositioning the candidate. The audit is the independent review. Only an accepted audit plus valid provenance permits `verified` export.
+
 ## Data products
 
 `data/venues.json` is the parsed source catalogue. `data/coordinate-review.json` adds identifiers, raw source coordinates, final focal coordinates, provenance, validation flags, review outcomes, confidence, and status. `data/pilot-venues.json` is a deliberately diverse 25-row review queue.

@@ -18,8 +18,10 @@ from pathlib import Path
 
 WIKIDATA_ENDPOINT = "https://www.wikidata.org/w/api.php"
 OVERPASS_ENDPOINT = "https://overpass-api.de/api/interpreter"
+NOMINATIM_ENDPOINT = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "stadia-coordinate-resolver/1.0"
 WIKIDATA_SEARCH_CACHE_VERSION = "v2-name-only"
+NOMINATIM_CACHE_VERSION = "v1-city-object-discovery"
 QID_PATTERN = re.compile(r"Q[1-9][0-9]*\Z")
 
 COUNTRY_ALIASES = {
@@ -54,6 +56,13 @@ FOCAL_DEFINITIONS = {
     "racecourse": "winning post on the racing surface",
     "golf": "18th green centre",
 }
+NOMINATIM_CLASSES = {
+    "stadium": {("leisure", "stadium"), ("building", "stadium")},
+    "arena": {("leisure", "stadium"), ("building", "stadium")},
+    "circuit": {("highway", "raceway")},
+    "racecourse": {("leisure", "racecourse"), ("amenity", "racecourse")},
+    "golf": {("leisure", "golf course")},
+}
 
 
 class JsonHttpClient:
@@ -87,14 +96,14 @@ class JsonHttpClient:
         self.wall_time = wall_time
         self.last_request_started_at = None
 
-    def fetch(self, request: urllib.request.Request) -> dict:
+    def fetch(self, request: urllib.request.Request) -> object:
         for retry_number in range(self.max_retries + 1):
             self._pace_request()
             try:
                 with self.opener(request, timeout=self.timeout) as response:
                     value = json.load(response)
-                if not isinstance(value, dict):
-                    raise ValueError(f"expected an object from {request.full_url}")
+                if not isinstance(value, (dict, list)):
+                    raise ValueError(f"expected JSON data from {request.full_url}")
                 return value
             except urllib.error.HTTPError as error:
                 if not self._is_retryable(error) or retry_number >= self.max_retries:
@@ -178,6 +187,168 @@ def build_wikidata_request(
     return urllib.request.Request(
         f"{endpoint}?{parameters}", headers={"User-Agent": USER_AGENT}
     )
+
+
+def _nominatim_request(query: str, endpoint: str) -> urllib.request.Request:
+    parameters = urllib.parse.urlencode({
+        "q": query,
+        "format": "jsonv2",
+        "addressdetails": 1,
+        "limit": 10,
+    })
+    return urllib.request.Request(
+        f"{endpoint}?{parameters}", headers={"User-Agent": USER_AGENT}
+    )
+
+
+def _nominatim_point(row: dict) -> tuple[float, float] | None:
+    try:
+        lat = float(row.get("lat"))
+        lon = float(row.get("lon"))
+    except (TypeError, ValueError):
+        return None
+    return (lat, lon) if _valid_lon_lat(lon, lat) else None
+
+
+def _nominatim_city_matches(name: str, country: str, row: dict) -> bool:
+    if _normalise(row.get("class")) != "place" or _normalise(
+        row.get("type")
+    ) not in {"city", "town", "village", "municipality"}:
+        return False
+    names = [row.get("name"), row.get("display_name")]
+    if not any(_contains_phrase(_normalise(value), name) for value in names):
+        return False
+    country_names = COUNTRY_ALIASES.get(_normalise(country), (_normalise(country),))
+    address = row.get("address") if isinstance(row.get("address"), dict) else {}
+    locations = [address.get("country"), row.get("display_name")]
+    return any(
+        _contains_phrase(_normalise(location), country_name)
+        for location in locations for country_name in country_names
+    )
+
+
+def _nominatim_cache_path(
+    cache_dir: Path, kind: str, request: urllib.request.Request
+) -> tuple[Path, str]:
+    request_hash = hashlib.sha256(request.full_url.encode("utf-8")).hexdigest()
+    return (
+        cache_dir / "nominatim" / f"{kind}-{NOMINATIM_CACHE_VERSION}-{request_hash}.json",
+        request_hash,
+    )
+
+
+def _nominatim_provenance(
+    cache_path: Path, cache_dir: Path, request: urllib.request.Request,
+    request_hash: str,
+) -> dict:
+    return {
+        "source": "Nominatim",
+        "cache_key": cache_path.relative_to(cache_dir).as_posix(),
+        "cache_sha256": hashlib.sha256(cache_path.read_bytes()).hexdigest(),
+        "request": {
+            "method": request.get_method(),
+            "url": request.full_url,
+            "query_sha256": request_hash,
+        },
+    }
+
+
+def resolve_city(
+    name: str, country: str, *, cache_dir: str | Path, http_client: JsonHttpClient,
+    offline: bool = False, refresh: bool = False,
+    nominatim_endpoint: str = NOMINATIM_ENDPOINT,
+) -> dict | None:
+    query = ", ".join(part.strip() for part in (name, country) if part.strip())
+    if not query:
+        raise ValueError("city name and country are required")
+    request = _nominatim_request(query, nominatim_endpoint)
+    cache_dir = Path(cache_dir)
+    cache_path, request_hash = _nominatim_cache_path(cache_dir, "city", request)
+    response = _load_or_fetch(cache_path, request, offline, refresh, http_client)
+    if not isinstance(response, list):
+        return None
+    candidates = [
+        row for row in response
+        if isinstance(row, dict)
+        and _nominatim_city_matches(name, country, row)
+        and _nominatim_point(row) is not None
+    ]
+    if len(candidates) != 1:
+        return None
+    lat, lon = _nominatim_point(candidates[0])
+    return {
+        "name": name,
+        "country": country,
+        "source_lat": lat,
+        "source_lon": lon,
+        **_nominatim_provenance(cache_path, cache_dir, request, request_hash),
+    }
+
+
+def _distance_m(first_lat: float, first_lon: float, second_lat: float, second_lon: float) -> float:
+    radius = 6_371_008.8
+    lat_delta = math.radians(second_lat - first_lat)
+    lon_delta = math.radians(second_lon - first_lon)
+    a = (
+        math.sin(lat_delta / 2) ** 2
+        + math.cos(math.radians(first_lat)) * math.cos(math.radians(second_lat))
+        * math.sin(lon_delta / 2) ** 2
+    )
+    return 2 * radius * math.asin(math.sqrt(a))
+
+
+def _nominatim_class_compatible(venue: dict, row: dict) -> bool:
+    compatible = NOMINATIM_CLASSES.get(venue.get("venue_class"), set())
+    category = (_normalise(row.get("class")), _normalise(row.get("type")))
+    return category in compatible
+
+
+def select_nominatim_object(
+    venue: dict, city: dict, response: list[dict]
+) -> dict | None:
+    city_point = _nominatim_point({"lat": city.get("source_lat"), "lon": city.get("source_lon")})
+    if city_point is None or not isinstance(response, list):
+        return None
+    candidates = []
+    for row in response:
+        if not isinstance(row, dict) or not _nominatim_class_compatible(venue, row):
+            continue
+        point = _nominatim_point(row)
+        osm_type = row.get("osm_type")
+        osm_id = row.get("osm_id")
+        if point is None or osm_type not in {"node", "way", "relation"} or not str(osm_id).isdigit():
+            continue
+        distance = _distance_m(city_point[0], city_point[1], point[0], point[1])
+        if distance > 40_000:
+            continue
+        candidates.append({
+            "osm_id": f"{osm_type}/{osm_id}",
+            "source_lat": point[0],
+            "source_lon": point[1],
+            "distance_to_city_m": round(distance, 2),
+        })
+    return candidates[0] if len(candidates) == 1 else None
+
+
+def resolve_osm_object(
+    venue: dict, city: dict, *, cache_dir: str | Path, http_client: JsonHttpClient,
+    offline: bool = False, refresh: bool = False,
+    nominatim_endpoint: str = NOMINATIM_ENDPOINT,
+) -> dict | None:
+    query = ", ".join(str(value).strip() for value in (
+        venue.get("canonical_name", ""), venue.get("city", ""), venue.get("country", ""),
+    ) if str(value).strip())
+    if not query:
+        raise ValueError("venue name, city, and country are required")
+    request = _nominatim_request(query, nominatim_endpoint)
+    cache_dir = Path(cache_dir)
+    cache_path, request_hash = _nominatim_cache_path(cache_dir, "object", request)
+    response = _load_or_fetch(cache_path, request, offline, refresh, http_client)
+    result = select_nominatim_object(venue, city, response) if isinstance(response, list) else None
+    if result is None:
+        return None
+    result.update(_nominatim_provenance(cache_path, cache_dir, request, request_hash))
+    return result
 
 
 def score_wikidata_candidate(venue: dict, candidate: dict) -> int | None:
@@ -776,10 +947,10 @@ def _load_or_fetch(
     offline: bool,
     refresh: bool,
     http_client: JsonHttpClient,
-) -> dict | None:
+) -> object | None:
     if cache_path.exists() and not refresh:
         value = _read_json(cache_path)
-        return value if isinstance(value, dict) else None
+        return value if isinstance(value, (dict, list)) else None
     if offline:
         return None
     value = http_client.fetch(request)

@@ -1,0 +1,402 @@
+[
+  {
+    "venue_id": "great-american-ball-park-cincinnati-united-states-stadium",
+    "independent_lat": 39.097183,
+    "independent_lon": -84.506463,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24587940",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/31009218",
+    "result": "pass",
+    "notes": "Independently resolved \"Great American Ball Park\" (way/24587940) by name search from data/venues.json, then took the mapped playing surface way/31009218 (leisure=pitch, baseball, 9583 m2) lying 19 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 5.9 m."
+  },
+  {
+    "venue_id": "hard-rock-stadium-miami-gardens-united-states-stadium",
+    "independent_lat": 25.957937,
+    "independent_lon": -80.238862,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/171419981",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/171419978",
+    "result": "pass",
+    "notes": "Independently resolved \"Miami Stadium\" (way/171419981) by name search from data/venues.json, then took the mapped playing surface way/171419978 (leisure=pitch, soccer, 5881 m2) lying 2 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 1.7 m."
+  },
+  {
+    "venue_id": "hasely-crawford-stadium-port-of-spain-trinidad-and-tobago-stadium",
+    "independent_lat": 10.661479,
+    "independent_lon": -61.533048,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/100764338",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/562998099",
+    "result": "pass",
+    "notes": "Independently resolved \"Hasely Crawford Stadium\" (way/100764338) by name search from data/venues.json, then took the mapped playing surface way/562998099 (leisure=pitch, soccer, 7294 m2) lying 6 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.0 m."
+  },
+  {
+    "venue_id": "highmark-stadium-orchard-park-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/1339149058",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1339149058",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Highmark Stadium\" (way/1339149058) by name search from data/venues.json and queried its extent for leisure=pitch geometry. way/1339149058 carries name=Highmark Stadium, sport=american_football, start_date=2026 and wikidata=Q16251517, but no playing surface is mapped inside it. The nearest mapped american-football pitch, way/648483761, lies 271 m away in the predecessor stadium and must not be substituted. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "huntington-bank-field-cleveland-united-states-stadium",
+    "independent_lat": 41.506027,
+    "independent_lon": -81.699575,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/41020147",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/172658198",
+    "result": "pass",
+    "notes": "Independently resolved \"Huntington Bank Field\" (way/41020147) by name search from data/venues.json, then took the mapped playing surface way/172658198 (leisure=pitch, american_football, 5899 m2) lying 4 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.2 m."
+  },
+  {
+    "venue_id": "ig-field-winnipeg-canada-stadium",
+    "independent_lat": 49.807867,
+    "independent_lon": -97.142957,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/310551169",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/238121888",
+    "result": "pass",
+    "notes": "Independently resolved \"Princess Auto Stadium\" (way/310551169) by name search from data/venues.json, then took the mapped playing surface way/238121888 (leisure=pitch, canadian_football;soccer, 8553 m2) lying 11 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 1.0 m. The OSM stadium is currently named \"Princess Auto Stadium\"."
+  },
+  {
+    "venue_id": "independence-park-kingston-jamaica-stadium",
+    "independent_lat": 18.001426,
+    "independent_lon": -76.772583,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/25748731",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/262239648",
+    "result": "pass",
+    "notes": "Independently resolved \"National Stadium\" (way/25748731) by name search from data/venues.json, then took the mapped playing surface way/262239648 (leisure=pitch, soccer, 6893 m2) lying 5 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.1 m. Independence Park is the sports complex; the catalogue venue is its National Stadium (way/25748731), whose pitch was used."
+  },
+  {
+    "venue_id": "kauffman-stadium-kansas-city-united-states-stadium",
+    "independent_lat": 39.051639,
+    "independent_lon": -94.480296,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/1351194912",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/128221738",
+    "result": "pass",
+    "notes": "Independently resolved \"Kauffman Stadium\" (way/1351194912) by name search from data/venues.json, then took the mapped playing surface way/128221738 (leisure=pitch, baseball, 11186 m2) lying 27 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 3.9 m."
+  },
+  {
+    "venue_id": "kensington-oval-bridgetown-barbados-stadium",
+    "independent_lat": 13.105021,
+    "independent_lon": -59.622525,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/576678586",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/37939010",
+    "result": "pass",
+    "notes": "Independently resolved \"Kensington Oval\" (way/576678586) by name search from data/venues.json, then took the mapped playing surface way/37939010 (leisure=pitch, cricket, 14777 m2) lying 34 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.0 m."
+  },
+  {
+    "venue_id": "la-bombonera-buenos-aires-argentina-stadium",
+    "independent_lat": -34.635625,
+    "independent_lon": -58.364665,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/248598885",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/105653198",
+    "result": "pass",
+    "notes": "Independently resolved \"La Bombonera\" (way/248598885) by name search from data/venues.json, then took the mapped playing surface way/105653198 (leisure=pitch, soccer, 7032 m2) lying 12 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.0 m."
+  },
+  {
+    "venue_id": "levi-s-stadium-santa-clara-united-states-stadium",
+    "independent_lat": 37.403179,
+    "independent_lon": -121.969805,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/296503400",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/357300430",
+    "result": "pass",
+    "notes": "Independently resolved \"San Francisco Bay Area Stadium\" (way/296503400) by name search from data/venues.json, then took the mapped playing surface way/357300430 (leisure=pitch, american_football, 5939 m2) lying 30 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.0 m."
+  },
+  {
+    "venue_id": "lincoln-financial-field-philadelphia-united-states-stadium",
+    "independent_lat": 39.900799,
+    "independent_lon": -75.167457,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/32891768",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/708050530",
+    "result": "pass",
+    "notes": "Independently resolved \"Philadelphia Stadium\" (way/32891768) by name search from data/venues.json, then took the mapped playing surface way/708050530 (leisure=pitch, american_football, 10068 m2) lying 4 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.4 m."
+  },
+  {
+    "venue_id": "loandepot-park-miami-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/8736190",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/8736190",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"LoanDepot Park\" (relation/8736190) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside relation/8736190; the nearest untagged pitch lies 240 m away. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "lucas-oil-stadium-indianapolis-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/989245934",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/989245934",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Lucas Oil Stadium\" (way/989245934) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/989245934; a second stadium way (way/27258709) is mapped at the same site and also contains none. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "lumen-field-seattle-united-states-stadium",
+    "independent_lat": 47.595173,
+    "independent_lon": -122.331667,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/5838734",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/163840038",
+    "result": "pass",
+    "notes": "Independently resolved \"Seattle Stadium\" (relation/5838734) by name search from data/venues.json, then took the mapped playing surface way/163840038 (leisure=pitch, american_football, 5949 m2) lying 20 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 3.3 m. Two co-located overlays are mapped (american_football way/163840038 and soccer way/174251770); their centres agree to 1.1 m and the american-football overlay was taken."
+  },
+  {
+    "venue_id": "m-t-bank-stadium-baltimore-united-states-stadium",
+    "independent_lat": 39.277969,
+    "independent_lon": -76.622699,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/1171329996",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/172620322",
+    "result": "pass",
+    "notes": "Independently resolved \"M&T Bank Stadium\" (way/1171329996) by name search from data/venues.json, then took the mapped playing surface way/172620322 (leisure=pitch, american_football, 5951 m2) lying 13 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.4 m."
+  },
+  {
+    "venue_id": "maracana-rio-de-janeiro-brazil-stadium",
+    "independent_lat": -22.912146,
+    "independent_lon": -43.230188,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/4587734",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1361281074",
+    "result": "pass",
+    "notes": "Independently resolved \"Estádio Jornalista Mário Filho\" (relation/4587734) by name search from data/venues.json, then took the mapped playing surface way/1361281074 (leisure=pitch, soccer, 7127 m2) lying 1 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.1 m. Resolved via the official name Estadio Jornalista Mario Filho."
+  },
+  {
+    "venue_id": "mcmahon-stadium-calgary-canada-stadium",
+    "independent_lat": 51.070329,
+    "independent_lon": -114.121422,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/427304042",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/149621271",
+    "result": "pass",
+    "notes": "Independently resolved \"McMahon Stadium\" (way/427304042) by name search from data/venues.json, then took the mapped playing surface way/149621271 (leisure=pitch, canadian_football, 8450 m2) lying 13 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.8 m."
+  },
+  {
+    "venue_id": "mercedes-benz-stadium-atlanta-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/536744534",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/536744534",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Atlanta Stadium\" (way/536744534) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/536744534. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "metlife-stadium-east-rutherford-united-states-stadium",
+    "independent_lat": 40.813529,
+    "independent_lon": -74.074365,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24221553",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/180559973",
+    "result": "pass",
+    "notes": "Independently resolved \"New York New Jersey Stadium\" (way/24221553) by name search from data/venues.json, then took the mapped playing surface way/180559973 (leisure=pitch, soccer, 5316 m2) lying 1 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.3 m. The OSM stadium is currently named \"New York New Jersey Stadium\" (2026 tournament branding)."
+  },
+  {
+    "venue_id": "mineirao-belo-horizonte-brazil-stadium",
+    "independent_lat": -19.86592,
+    "independent_lon": -43.971067,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/178504792",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/8601181",
+    "result": "pass",
+    "notes": "Independently resolved \"Estádio Governador Magalhães Pinto\" (way/178504792) by name search from data/venues.json, then took the mapped playing surface way/8601181 (leisure=pitch, soccer, 8336 m2) lying 3 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.1 m."
+  },
+  {
+    "venue_id": "morumbi-stadium-sao-paulo-brazil-stadium",
+    "independent_lat": -23.600117,
+    "independent_lon": -46.720101,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/715674760",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/457901486",
+    "result": "pass",
+    "notes": "Independently resolved \"MorumBIS\" (way/715674760) by name search from data/venues.json, then took the mapped playing surface way/457901486 (leisure=pitch, soccer, 7138 m2) lying 3 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.2 m. The OSM stadium is currently named \"MorumBIS\"."
+  },
+  {
+    "venue_id": "nationals-park-washington-united-states-stadium",
+    "independent_lat": 38.873032,
+    "independent_lon": -77.007398,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/67260011",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/2205879",
+    "result": "pass",
+    "notes": "Independently resolved \"Nationals Park\" (way/67260011) by name search from data/venues.json, then took the mapped playing surface relation/2205879 (leisure=pitch, baseball, 12578 m2) lying 32 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 7.0 m."
+  },
+  {
+    "venue_id": "nissan-stadium-nashville-united-states-stadium",
+    "independent_lat": 36.166467,
+    "independent_lon": -86.771285,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/58759639",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/172668023",
+    "result": "pass",
+    "notes": "Independently resolved \"Nissan Stadium\" (way/58759639) by name search from data/venues.json, then took the mapped playing surface way/172668023 (leisure=pitch, american_football, 5873 m2) lying 11 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.0 m."
+  },
+  {
+    "venue_id": "northwest-stadium-landover-united-states-stadium",
+    "independent_lat": 38.907669,
+    "independent_lon": -76.864495,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24617361",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/612644655",
+    "result": "pass",
+    "notes": "Independently resolved \"Northwest Stadium\" (way/24617361) by name search from data/venues.json, then took the mapped playing surface way/612644655 (leisure=pitch, american_football, 5259 m2) lying 5 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.1 m."
+  },
+  {
+    "venue_id": "nrg-stadium-houston-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/119422708",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/119422708",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Houston Stadium\" (way/119422708) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/119422708. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "olympic-stadium-montreal-canada-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/108505523",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/108505523",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Stade olympique\" (way/108505523) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/108505523; the only nearby pitch is a skateboard area 210 m away. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "oracle-park-san-francisco-united-states-stadium",
+    "independent_lat": 37.77842,
+    "independent_lon": -122.38924,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/7325085",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/500283910",
+    "result": "pass",
+    "notes": "Independently resolved \"Oracle Park\" (relation/7325085) by name search from data/venues.json, then took the mapped playing surface way/500283910 (leisure=pitch, baseball, 9816 m2) lying 32 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 6.6 m."
+  },
+  {
+    "venue_id": "paycor-stadium-cincinnati-united-states-stadium",
+    "independent_lat": 39.095423,
+    "independent_lon": -84.516079,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/210540615",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/32946979",
+    "result": "pass",
+    "notes": "Independently resolved \"Paycor Stadium\" (way/210540615) by name search from data/venues.json, then took the mapped playing surface way/32946979 (leisure=pitch, american_football, 5875 m2) lying 4 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.3 m."
+  },
+  {
+    "venue_id": "petco-park-san-diego-united-states-stadium",
+    "independent_lat": 32.707595,
+    "independent_lon": -117.157063,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24616919",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/429353143",
+    "result": "pass",
+    "notes": "Independently resolved \"Petco Park\" (way/24616919) by name search from data/venues.json, then took the mapped playing surface way/429353143 (leisure=pitch, baseball, 9742 m2) lying 44 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 8.7 m."
+  },
+  {
+    "venue_id": "progressive-field-cleveland-united-states-stadium",
+    "independent_lat": 41.496064,
+    "independent_lon": -81.685279,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/25312466",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/245219318",
+    "result": "pass",
+    "notes": "Independently resolved \"Progressive Field\" (way/25312466) by name search from data/venues.json, then took the mapped playing surface way/245219318 (leisure=pitch, baseball, 11957 m2) lying 6 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 5.3 m."
+  },
+  {
+    "venue_id": "raymond-james-stadium-tampa-united-states-stadium",
+    "independent_lat": 27.975966,
+    "independent_lon": -82.50335,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/154387076",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/172698720",
+    "result": "pass",
+    "notes": "Independently resolved \"Raymond James Stadium\" (way/154387076) by name search from data/venues.json, then took the mapped playing surface way/172698720 (leisure=pitch, american_football, 10081 m2) lying 0 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 0.5 m."
+  },
+  {
+    "venue_id": "sofi-stadium-inglewood-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/860635712",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/860635712",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"Los Angeles Stadium\" (way/860635712) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/860635712; the nearest american-football pitch (way/1078689758, 963 m2) lies 217 m away and is not the stadium field. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "soldier-field-chicago-united-states-stadium",
+    "independent_lat": 41.86231,
+    "independent_lon": -87.616683,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24587933",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/91535224",
+    "result": "pass",
+    "notes": "Independently resolved \"Soldier Field\" (way/24587933) by name search from data/venues.json, then took the mapped playing surface way/91535224 (leisure=pitch, american_football;soccer, 5363 m2) lying 17 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 2.2 m."
+  },
+  {
+    "venue_id": "t-mobile-park-seattle-united-states-stadium",
+    "independent_lat": 47.591424,
+    "independent_lon": -122.332288,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/18550612",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/5729177",
+    "result": "pass",
+    "notes": "Independently resolved \"T-Mobile Park\" (relation/18550612) by name search from data/venues.json, then took the mapped playing surface relation/5729177 (leisure=pitch, baseball, 10591 m2) lying 17 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 6.9 m."
+  },
+  {
+    "venue_id": "target-field-minneapolis-united-states-stadium",
+    "independent_lat": 44.981715,
+    "independent_lon": -93.277541,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/6133680",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/2197871",
+    "result": "pass",
+    "notes": "Independently resolved \"Target Field\" (relation/6133680) by name search from data/venues.json, then took the mapped playing surface relation/2197871 (leisure=pitch, baseball, 10549 m2) lying 22 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 4.6 m."
+  },
+  {
+    "venue_id": "truist-park-atlanta-united-states-stadium",
+    "independent_lat": 33.890614,
+    "independent_lon": -84.467604,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/483842488",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/559996049",
+    "result": "pass",
+    "notes": "Independently resolved \"Truist Park\" (way/483842488) by name search from data/venues.json, then took the mapped playing surface way/559996049 (leisure=pitch, baseball, 12023 m2) lying 22 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 5.8 m."
+  },
+  {
+    "venue_id": "u-s-bank-stadium-minneapolis-united-states-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/743461508",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/743461508",
+    "result": "needs_adjudication",
+    "notes": "Independently resolved \"US Bank Stadium\" (way/743461508) by name search from data/venues.json and queried its extent for leisure=pitch geometry. No playing-surface polygon is mapped inside way/743461508. Coordinate withheld rather than substituting a venue centroid, building outline or address pin."
+  },
+  {
+    "venue_id": "wrigley-field-chicago-united-states-stadium",
+    "independent_lat": 41.948355,
+    "independent_lon": -87.655363,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/17379974",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/2083717",
+    "result": "pass",
+    "notes": "Independently resolved \"Wrigley Field\" (relation/17379974) by name search from data/venues.json, then took the mapped playing surface relation/2083717 (leisure=pitch, baseball, 11375 m2) lying 31 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 7.8 m."
+  },
+  {
+    "venue_id": "yankee-stadium-new-york-city-united-states-stadium",
+    "independent_lat": 40.829633,
+    "independent_lon": -73.926269,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24801630",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/182916837",
+    "result": "pass",
+    "notes": "Independently resolved \"Yankee Stadium\" (way/24801630) by name search from data/venues.json, then took the mapped playing surface way/182916837 (leisure=pitch, baseball, 9638 m2) lying 14 m from the stadium outline centre. Coordinate is the area centroid of that polygon; its axis-aligned bounding-box centre differs by 5.6 m. way/182916837 is also the outer ring of multipolygon relation/3418429; both give the same centre."
+  }
+]
