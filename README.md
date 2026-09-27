@@ -16,19 +16,17 @@ Append `?dev` for the dev panel (day navigation, clear state, celebration test).
 ## Manually review stadium coordinates
 
 Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
-Choose a queue from the selector. It lists four stadium batches, the Americas
-region queue, and all current live venues. Each option
-shows how many records have a starting point, plus the total queue size. Current
+Choose a queue from the selector. It lists two stadium batches, the Americas
+region queue, and all current live venues. Each option shows how many records
+have a starting point, plus the total queue size. Current
 queue sizes are:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
-| Stadiums 002 | 21 | 25 |
-| Stadiums 003 | 23 | 25 |
 | Stadiums 004 | 25 | 25 |
 | Stadiums 005 | 20 | 25 |
 | Stadiums Americas | 28 | 40 |
-| Live venues | 45 | 45 |
+| Live venues | 92 | 92 |
 
 The audit page opens each available point on satellite imagery with its venue
 name, city, and country. Drag the marker, choose difficulty 1–5, and submit it

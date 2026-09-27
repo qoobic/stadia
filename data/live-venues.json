@@ -576,6 +576,70 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:18:17.185Z"
       }
+    },
+    {
+      "id": "estadio-da-luz-lisbon-portugal-stadium",
+      "venueId": "estadio-da-luz-lisbon-portugal-stadium",
+      "name": "Estádio da Luz",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.752683,
+      "lng": -9.184696,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:15.246Z"
+      }
+    },
+    {
+      "id": "estadio-de-la-cartuja-seville-spain-stadium",
+      "venueId": "estadio-de-la-cartuja-seville-spain-stadium",
+      "name": "Estadio de La Cartuja",
+      "city": "Seville",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.41715987519982,
+      "lng": -6.004586208079863,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:23.634Z"
+      }
+    },
+    {
+      "id": "estadio-do-dragao-porto-portugal-stadium",
+      "venueId": "estadio-do-dragao-porto-portugal-stadium",
+      "name": "Estádio do Dragão",
+      "city": "Porto",
+      "country": "Portugal",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.161766,
+      "lng": -8.583697,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:36.929Z"
+      }
+    },
+    {
+      "id": "estadio-jose-alvalade-lisbon-portugal-stadium",
+      "venueId": "estadio-jose-alvalade-lisbon-portugal-stadium",
+      "name": "Estádio José Alvalade",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.76120094608975,
+      "lng": -9.160763016828218,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:32.731Z"
+      }
     }
   ],
   "l4": [
@@ -999,6 +1063,54 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:18:43.721Z"
       }
+    },
+    {
+      "id": "estadio-ciudad-de-la-plata-la-plata-argentina-stadium",
+      "venueId": "estadio-ciudad-de-la-plata-la-plata-argentina-stadium",
+      "name": "Estadio Ciudad de La Plata",
+      "city": "La Plata",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.913849,
+      "lng": -57.989016,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:23:53.817Z"
+      }
+    },
+    {
+      "id": "estadio-da-ilha-do-retiro-recife-brazil-stadium",
+      "venueId": "estadio-da-ilha-do-retiro-recife-brazil-stadium",
+      "name": "Estádio da Ilha do Retiro",
+      "city": "Recife",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -8.062912,
+      "lng": -34.902896,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:07.030Z"
+      }
+    },
+    {
+      "id": "estadio-defensores-del-chaco-asuncion-paraguay-stadium",
+      "venueId": "estadio-defensores-del-chaco-asuncion-paraguay-stadium",
+      "name": "Estadio Defensores del Chaco",
+      "city": "Asunción",
+      "country": "Paraguay",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -25.292076,
+      "lng": -57.657395,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:31.224Z"
+      }
     }
   ],
   "l5": [
@@ -1018,22 +1130,6 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:31:11.557Z"
-      }
-    },
-    {
-      "id": "estadio-hernando-siles",
-      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
-      "name": "Estadio Hernando Siles",
-      "city": "La Paz",
-      "country": "Bolivia",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": -16.499474000356273,
-      "lng": -68.12264262719313,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:57:01.170Z"
       }
     },
     {
@@ -1436,6 +1532,102 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:17:50.318Z"
+      }
+    },
+    {
+      "id": "estadio-cuscatlan-san-salvador-el-salvador-stadium",
+      "venueId": "estadio-cuscatlan-san-salvador-el-salvador-stadium",
+      "name": "Estadio Cuscatlán",
+      "city": "San Salvador",
+      "country": "El Salvador",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 13.681083240102792,
+      "lng": -89.22239812049553,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:01.679Z"
+      }
+    },
+    {
+      "id": "estadio-el-campin-bogota-colombia-stadium",
+      "venueId": "estadio-el-campin-bogota-colombia-stadium",
+      "name": "Estadio El Campín",
+      "city": "Bogotá",
+      "country": "Colombia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 4.645915224678729,
+      "lng": -74.07752751198348,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:46.137Z"
+      }
+    },
+    {
+      "id": "estadio-elias-figueroa-brander-valparaiso-chile-stadium",
+      "venueId": "estadio-elias-figueroa-brander-valparaiso-chile-stadium",
+      "name": "Estadio Elías Figueroa Brander",
+      "city": "Valparaíso",
+      "country": "Chile",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.022378,
+      "lng": -71.63977,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:24:59.094Z"
+      }
+    },
+    {
+      "id": "estadio-general-pablo-rojas-asuncion-paraguay-stadium",
+      "venueId": "estadio-general-pablo-rojas-asuncion-paraguay-stadium",
+      "name": "Estadio General Pablo Rojas",
+      "city": "Asunción",
+      "country": "Paraguay",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -25.299856,
+      "lng": -57.637437,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:08.399Z"
+      }
+    },
+    {
+      "id": "estadio-hernando-siles",
+      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
+      "name": "Estadio Hernando Siles",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -16.499476643324694,
+      "lng": -68.12263994563453,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:15.991Z"
+      }
+    },
+    {
+      "id": "estadio-jalisco-guadalajara-mexico-stadium",
+      "venueId": "estadio-jalisco-guadalajara-mexico-stadium",
+      "name": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 20.7050523656622,
+      "lng": -103.32836872037525,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:25:25.069Z"
       }
     }
   ]

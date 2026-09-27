@@ -1,17 +1,5 @@
 [
   {
-    "id": "stadiums-002",
-    "label": "Stadiums 002",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/batches/stadiums-002.json"
-  },
-  {
-    "id": "stadiums-003",
-    "label": "Stadiums 003",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/batches/stadiums-003.json"
-  },
-  {
     "id": "stadiums-004",
     "label": "Stadiums 004",
     "type": "candidates",
