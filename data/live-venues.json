@@ -277,6 +277,278 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:33:30.800Z"
       }
+    },
+    {
+      "id": "beijing-national-stadium-beijing-china-stadium",
+      "venueId": "beijing-national-stadium-beijing-china-stadium",
+      "name": "Beijing National Stadium",
+      "city": "Beijing",
+      "country": "China",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.991465193953964,
+      "lng": 116.39031883151868,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:03.056Z"
+      }
+    },
+    {
+      "id": "caesars-superdome-new-orleans-united-states-stadium",
+      "venueId": "caesars-superdome-new-orleans-united-states-stadium",
+      "name": "Caesars Superdome",
+      "city": "New Orleans",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 29.95143039806082,
+      "lng": -90.08086317754146,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:28.380Z"
+      }
+    },
+    {
+      "id": "chase-field-phoenix-united-states-stadium",
+      "venueId": "chase-field-phoenix-united-states-stadium",
+      "name": "Chase Field",
+      "city": "Phoenix",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.44534536546339,
+      "lng": -112.06703247721177,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:41.802Z"
+      }
+    },
+    {
+      "id": "tottenham-hotspur-stadium-london-england-stadium",
+      "venueId": "tottenham-hotspur-stadium-london-england-stadium",
+      "name": "Tottenham Hotspur Stadium",
+      "city": "London",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.6042067550752,
+      "lng": -0.06621300003390342,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:29.768Z"
+      }
+    },
+    {
+      "id": "london-stadium-london-england-stadium",
+      "venueId": "london-stadium-london-england-stadium",
+      "name": "London Stadium",
+      "city": "London",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.53866822870455,
+      "lng": -0.016455311329284242,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:46.275Z"
+      }
+    },
+    {
+      "id": "stade-de-france-saint-denis-france-stadium",
+      "venueId": "stade-de-france-saint-denis-france-stadium",
+      "name": "Stade de France",
+      "city": "Saint-Denis",
+      "country": "France",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.9244726,
+      "lng": 2.3601325,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:16.934Z"
+      }
+    },
+    {
+      "id": "parc-des-princes-paris-france-stadium",
+      "venueId": "parc-des-princes-paris-france-stadium",
+      "name": "Parc des Princes",
+      "city": "Paris",
+      "country": "France",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.84143260594157,
+      "lng": 2.2530743492737497,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:22.433Z"
+      }
+    },
+    {
+      "id": "san-siro-milan-italy-stadium",
+      "venueId": "san-siro-milan-italy-stadium",
+      "name": "San Siro",
+      "city": "Milan",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 45.47809615800815,
+      "lng": 9.1239872633345,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:40.615Z"
+      }
+    },
+    {
+      "id": "ullevi-gothenburg-sweden-stadium",
+      "venueId": "ullevi-gothenburg-sweden-stadium",
+      "name": "Ullevi",
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 57.7059197,
+      "lng": 11.9873276,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:35.135Z"
+      }
+    },
+    {
+      "id": "mercedes-benz-stadium-atlanta-united-states-stadium",
+      "venueId": "mercedes-benz-stadium-atlanta-united-states-stadium",
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.75549000098927,
+      "lng": -84.40087795973042,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:17.826Z"
+      }
+    },
+    {
+      "id": "ford-field-detroit-united-states-stadium",
+      "venueId": "ford-field-detroit-united-states-stadium",
+      "name": "Ford Field",
+      "city": "Detroit",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.3399568,
+      "lng": -83.0456166,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:21.497Z"
+      }
+    },
+    {
+      "id": "hard-rock-stadium-miami-gardens-united-states-stadium",
+      "venueId": "hard-rock-stadium-miami-gardens-united-states-stadium",
+      "name": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.9579032,
+      "lng": -80.2388497,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:24.819Z"
+      }
+    },
+    {
+      "id": "nrg-stadium-houston-united-states-stadium",
+      "venueId": "nrg-stadium-houston-united-states-stadium",
+      "name": "NRG Stadium",
+      "city": "Houston",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 29.68460393945969,
+      "lng": -95.41063244948427,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:31.835Z"
+      }
+    },
+    {
+      "id": "allegiant-stadium-paradise-united-states-stadium",
+      "venueId": "allegiant-stadium-paradise-united-states-stadium",
+      "name": "Allegiant Stadium",
+      "city": "Paradise",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 36.0907359,
+      "lng": -115.1833303,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:36.067Z"
+      }
+    },
+    {
+      "id": "lucas-oil-stadium-indianapolis-united-states-stadium",
+      "venueId": "lucas-oil-stadium-indianapolis-united-states-stadium",
+      "name": "Lucas Oil Stadium",
+      "city": "Indianapolis",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.76004975849762,
+      "lng": -86.16378127227738,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:58.379Z"
+      }
+    },
+    {
+      "id": "t-mobile-park-seattle-united-states-stadium",
+      "venueId": "t-mobile-park-seattle-united-states-stadium",
+      "name": "T-Mobile Park",
+      "city": "Seattle",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 47.5913974,
+      "lng": -122.332507,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:26:09.963Z"
+      }
+    },
+    {
+      "id": "globe-life-field-arlington-united-states-stadium",
+      "venueId": "globe-life-field-arlington-united-states-stadium",
+      "name": "Globe Life Field",
+      "city": "Arlington",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 32.7474439918738,
+      "lng": -97.08422902238196,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:26:19.412Z"
+      }
     }
   ],
   "l2": [
@@ -316,25 +588,6 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:56:43.124Z"
-      }
-    },
-    {
-      "id": "circuit-de-monaco",
-      "venueId": "circuit-de-monaco-monaco-monaco-circuit",
-      "name": "Circuit de Monaco",
-      "city": "Monaco",
-      "country": "Monaco",
-      "venueClass": "circuit",
-      "aliases": [
-        "Monte Carlo",
-        "Monaco Grand Prix Circuit"
-      ],
-      "lat": 43.73444147240736,
-      "lng": 7.421313101214132,
-      "zoom": 14,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:57:06.311Z"
       }
     },
     {
@@ -565,6 +818,265 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:34:00.299Z"
       }
+    },
+    {
+      "id": "busch-stadium-st-louis-united-states-stadium",
+      "venueId": "busch-stadium-st-louis-united-states-stadium",
+      "name": "Busch Stadium",
+      "city": "St. Louis",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.6225,
+      "lng": -90.193056,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:21.197Z"
+      }
+    },
+    {
+      "id": "dodger-stadium-los-angeles-united-states-stadium",
+      "venueId": "dodger-stadium-los-angeles-united-states-stadium",
+      "name": "Dodger Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 34.07381294241841,
+      "lng": -118.2399755651281,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:53.253Z"
+      }
+    },
+    {
+      "id": "circuit-de-monaco",
+      "venueId": "circuit-de-monaco-monaco-monaco-circuit",
+      "name": "Circuit de Monaco",
+      "city": "Monaco",
+      "country": "Monaco",
+      "venueClass": "circuit",
+      "aliases": [
+        "Monte Carlo",
+        "Monaco Grand Prix Circuit"
+      ],
+      "lat": 43.7350269,
+      "lng": 7.4212652,
+      "zoom": 14,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:04.763Z"
+      }
+    },
+    {
+      "id": "nurburgring-nurburg-germany-circuit",
+      "venueId": "nurburgring-nurburg-germany-circuit",
+      "name": "Nürburgring",
+      "city": "Nürburg",
+      "country": "Germany",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 50.3339987,
+      "lng": 6.9452952,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:49.086Z"
+      }
+    },
+    {
+      "id": "le-mans-circuit-de-la-sarthe-le-mans-france-circuit",
+      "venueId": "le-mans-circuit-de-la-sarthe-le-mans-france-circuit",
+      "name": "Le Mans Circuit de la Sarthe",
+      "city": "Le Mans",
+      "country": "France",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 47.9498718,
+      "lng": 0.2075404,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:56.618Z"
+      }
+    },
+    {
+      "id": "albert-park-circuit-melbourne-australia-circuit",
+      "venueId": "albert-park-circuit-melbourne-australia-circuit",
+      "name": "Albert Park Circuit",
+      "city": "Melbourne",
+      "country": "Australia",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": -37.8500562,
+      "lng": 144.9689843,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:06.280Z"
+      }
+    },
+    {
+      "id": "villa-park-birmingham-england-stadium",
+      "venueId": "villa-park-birmingham-england-stadium",
+      "name": "Villa Park",
+      "city": "Birmingham",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 52.50911848304991,
+      "lng": -1.884825774957686,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:51.625Z"
+      }
+    },
+    {
+      "id": "hampden-park-glasgow-scotland-stadium",
+      "venueId": "hampden-park-glasgow-scotland-stadium",
+      "name": "Hampden Park",
+      "city": "Glasgow",
+      "country": "Scotland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 55.82590238466688,
+      "lng": -4.251859177022519,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:56.921Z"
+      }
+    },
+    {
+      "id": "principality-stadium-cardiff-wales-stadium",
+      "venueId": "principality-stadium-cardiff-wales-stadium",
+      "name": "Principality Stadium",
+      "city": "Cardiff",
+      "country": "Wales",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.47809701246458,
+      "lng": -3.1823980255392708,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:03.771Z"
+      }
+    },
+    {
+      "id": "murrayfield-stadium-edinburgh-scotland-stadium",
+      "venueId": "murrayfield-stadium-edinburgh-scotland-stadium",
+      "name": "Murrayfield Stadium",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 55.94223961012787,
+      "lng": -3.240999008749948,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:10.438Z"
+      }
+    },
+    {
+      "id": "olympiastadion-berlin-germany-stadium",
+      "venueId": "olympiastadion-berlin-germany-stadium",
+      "name": "Olympiastadion",
+      "city": "Berlin",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 52.5146457786128,
+      "lng": 13.239523101481693,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:42.395Z"
+      }
+    },
+    {
+      "id": "signal-iduna-park-dortmund-germany-stadium",
+      "venueId": "signal-iduna-park-dortmund-germany-stadium",
+      "name": "Signal Iduna Park",
+      "city": "Dortmund",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.492593281337236,
+      "lng": 7.451833779376794,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:50.803Z"
+      }
+    },
+    {
+      "id": "stadio-diego-armando-maradona-naples-italy-stadium",
+      "venueId": "stadio-diego-armando-maradona-naples-italy-stadium",
+      "name": "Stadio Diego Armando Maradona",
+      "city": "Naples",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 40.82797709299661,
+      "lng": 14.19295193260819,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:46.990Z"
+      }
+    },
+    {
+      "id": "stade-mohammed-v-casablanca-morocco-stadium",
+      "venueId": "stade-mohammed-v-casablanca-morocco-stadium",
+      "name": "Stade Mohammed V",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.5828249,
+      "lng": -7.6468329,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:25.033Z"
+      }
+    },
+    {
+      "id": "sofi-stadium-inglewood-united-states-stadium",
+      "venueId": "sofi-stadium-inglewood-united-states-stadium",
+      "name": "SoFi Stadium",
+      "city": "Inglewood",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.9534074,
+      "lng": -118.3390098,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:11.556Z"
+      }
+    },
+    {
+      "id": "highmark-stadium-orchard-park-united-states-stadium",
+      "venueId": "highmark-stadium-orchard-park-united-states-stadium",
+      "name": "Highmark Stadium",
+      "city": "Orchard Park",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.7730293,
+      "lng": -78.7921925,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:50.746Z"
+      }
     }
   ],
   "l3": [
@@ -585,24 +1097,6 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:56:23.678Z"
-      }
-    },
-    {
-      "id": "spa-francorchamps",
-      "venueId": "circuit-de-spa-francorchamps-stavelot-belgium-circuit",
-      "name": "Circuit de Spa-Francorchamps",
-      "city": "Stavelot",
-      "country": "Belgium",
-      "venueClass": "circuit",
-      "aliases": [
-        "Spa"
-      ],
-      "lat": 50.437417891937585,
-      "lng": 5.971283881438066,
-      "zoom": 13,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:56:51.324Z"
       }
     },
     {
@@ -1103,6 +1597,344 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:33:52.037Z"
+      }
+    },
+    {
+      "id": "rod-laver-arena-melbourne-australia-arena",
+      "venueId": "rod-laver-arena-melbourne-australia-arena",
+      "name": "Rod Laver Arena",
+      "city": "Melbourne",
+      "country": "Australia",
+      "venueClass": "arena",
+      "aliases": [],
+      "lat": -37.8215481353031,
+      "lng": 144.97863027139954,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:54:33.244Z"
+      }
+    },
+    {
+      "id": "mount-panorama-circuit-bathurst-australia-circuit",
+      "venueId": "mount-panorama-circuit-bathurst-australia-circuit",
+      "name": "Mount Panorama Circuit",
+      "city": "Bathurst",
+      "country": "Australia",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": -33.439266,
+      "lng": 149.558242,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:15:44.845Z"
+      }
+    },
+    {
+      "id": "red-bull-ring-spielberg-austria-circuit",
+      "venueId": "red-bull-ring-spielberg-austria-circuit",
+      "name": "Red Bull Ring",
+      "city": "Spielberg",
+      "country": "Austria",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 47.220015,
+      "lng": 14.765198,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:15:50.902Z"
+      }
+    },
+    {
+      "id": "spa-francorchamps",
+      "venueId": "circuit-de-spa-francorchamps-stavelot-belgium-circuit",
+      "name": "Circuit de Spa-Francorchamps",
+      "city": "Stavelot",
+      "country": "Belgium",
+      "venueClass": "circuit",
+      "aliases": [
+        "Spa"
+      ],
+      "lat": 50.444204182767265,
+      "lng": 5.965028660410716,
+      "zoom": 13,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:27.114Z"
+      }
+    },
+    {
+      "id": "hockenheimring-hockenheim-germany-circuit",
+      "venueId": "hockenheimring-hockenheim-germany-circuit",
+      "name": "Hockenheimring",
+      "city": "Hockenheim",
+      "country": "Germany",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 49.3277648,
+      "lng": 8.5658357,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:45.735Z"
+      }
+    },
+    {
+      "id": "circuit-paul-ricard-le-castellet-france-circuit",
+      "venueId": "circuit-paul-ricard-le-castellet-france-circuit",
+      "name": "Circuit Paul Ricard",
+      "city": "Le Castellet",
+      "country": "France",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 43.251187,
+      "lng": 5.7930593,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:53.568Z"
+      }
+    },
+    {
+      "id": "circuit-of-the-americas-austin-united-states-circuit",
+      "venueId": "circuit-of-the-americas-austin-united-states-circuit",
+      "name": "Circuit of the Americas",
+      "city": "Austin",
+      "country": "United States",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 30.131893,
+      "lng": -97.6398291,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:17.447Z"
+      }
+    },
+    {
+      "id": "groupama-stadium-decines-charpieu-france-stadium",
+      "venueId": "groupama-stadium-decines-charpieu-france-stadium",
+      "name": "Groupama Stadium",
+      "city": "Décines-Charpieu",
+      "country": "France",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 45.765210221880935,
+      "lng": 4.98198865283146,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:30.004Z"
+      }
+    },
+    {
+      "id": "philips-stadion-eindhoven-netherlands-stadium",
+      "venueId": "philips-stadion-eindhoven-netherlands-stadium",
+      "name": "Philips Stadion",
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.4417077,
+      "lng": 5.4674257,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:18:34.550Z"
+      }
+    },
+    {
+      "id": "red-bull-arena-leipzig-germany-stadium",
+      "venueId": "red-bull-arena-leipzig-germany-stadium",
+      "name": "Red Bull Arena",
+      "city": "Leipzig",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.3457078,
+      "lng": 12.3482361,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:08.415Z"
+      }
+    },
+    {
+      "id": "volksparkstadion-hamburg-germany-stadium",
+      "venueId": "volksparkstadion-hamburg-germany-stadium",
+      "name": "Volksparkstadion",
+      "city": "Hamburg",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.58714753387564,
+      "lng": 9.89863334330114,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:13.466Z"
+      }
+    },
+    {
+      "id": "mercedes-benz-arena-stuttgart-germany-stadium",
+      "venueId": "mercedes-benz-arena-stuttgart-germany-stadium",
+      "name": "Mercedes-Benz Arena",
+      "city": "Stuttgart",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.7922488,
+      "lng": 9.2320857,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:20.690Z"
+      }
+    },
+    {
+      "id": "stadio-renato-dall-ara-bologna-italy-stadium",
+      "venueId": "stadio-renato-dall-ara-bologna-italy-stadium",
+      "name": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.49229803729965,
+      "lng": 11.30997418771912,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:52.831Z"
+      }
+    },
+    {
+      "id": "stadion-letzigrund-zurich-switzerland-stadium",
+      "venueId": "stadion-letzigrund-zurich-switzerland-stadium",
+      "name": "Stadion Letzigrund",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 47.3827328464089,
+      "lng": 8.503774711004578,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:07.165Z"
+      }
+    },
+    {
+      "id": "king-baudouin-stadium-brussels-belgium-stadium",
+      "venueId": "king-baudouin-stadium-brussels-belgium-stadium",
+      "name": "King Baudouin Stadium",
+      "city": "Brussels",
+      "country": "Belgium",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.89567929877922,
+      "lng": 4.334060831498495,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:21.569Z"
+      }
+    },
+    {
+      "id": "stade-maurice-dufrasne-liege-belgium-stadium",
+      "venueId": "stade-maurice-dufrasne-liege-belgium-stadium",
+      "name": "Stade Maurice Dufrasne",
+      "city": "Liège",
+      "country": "Belgium",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.60990281682084,
+      "lng": 5.543495710761862,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:27.335Z"
+      }
+    },
+    {
+      "id": "ullevaal-stadion-oslo-norway-stadium",
+      "venueId": "ullevaal-stadion-oslo-norway-stadium",
+      "name": "Ullevaal Stadion",
+      "city": "Oslo",
+      "country": "Norway",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 59.949122334065336,
+      "lng": 10.734339950517596,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:43.819Z"
+      }
+    },
+    {
+      "id": "helsinki-olympic-stadium-helsinki-finland-stadium",
+      "venueId": "helsinki-olympic-stadium-helsinki-finland-stadium",
+      "name": "Helsinki Olympic Stadium",
+      "city": "Helsinki",
+      "country": "Finland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 60.186955752471775,
+      "lng": 24.92710944673227,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:50.435Z"
+      }
+    },
+    {
+      "id": "tokyo-dome-tokyo-japan-stadium",
+      "venueId": "tokyo-dome-tokyo-japan-stadium",
+      "name": "Tokyo Dome",
+      "city": "Tokyo",
+      "country": "Japan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.705663078077194,
+      "lng": 139.75173169481064,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:49.178Z"
+      }
+    },
+    {
+      "id": "national-football-stadium-male-maldives-stadium",
+      "venueId": "national-football-stadium-male-maldives-stadium",
+      "name": "National Football Stadium",
+      "city": "Malé",
+      "country": "Maldives",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 4.174052766380565,
+      "lng": 73.51308079525069,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:25:00.347Z"
+      }
+    },
+    {
+      "id": "wrigley-field-chicago-united-states-stadium",
+      "venueId": "wrigley-field-chicago-united-states-stadium",
+      "name": "Wrigley Field",
+      "city": "Chicago",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.9481846,
+      "lng": -87.655559,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:26:04.243Z"
       }
     }
   ],
@@ -1782,6 +2614,518 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:34:05.941Z"
+      }
+    },
+    {
+      "id": "arena-carioca-1-rio-de-janeiro-brazil-arena",
+      "venueId": "arena-carioca-1-rio-de-janeiro-brazil-arena",
+      "name": "Arena Carioca 1",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "venueClass": "arena",
+      "aliases": [],
+      "lat": -22.975350459528418,
+      "lng": -43.394466874273384,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:54:23.196Z"
+      }
+    },
+    {
+      "id": "minsk-arena-minsk-belarus-arena",
+      "venueId": "minsk-arena-minsk-belarus-arena",
+      "name": "Minsk Arena",
+      "city": "Minsk",
+      "country": "Belarus",
+      "venueClass": "arena",
+      "aliases": [],
+      "lat": 53.93598639639226,
+      "lng": 27.481537726908897,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:54:41.603Z"
+      }
+    },
+    {
+      "id": "lusail-sports-arena-lusail-qatar-arena",
+      "venueId": "lusail-sports-arena-lusail-qatar-arena",
+      "name": "Lusail Sports Arena",
+      "city": "Lusail",
+      "country": "Qatar",
+      "venueClass": "arena",
+      "aliases": [],
+      "lat": 25.48098512795506,
+      "lng": 51.46344245650909,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:54:50.073Z"
+      }
+    },
+    {
+      "id": "ginasio-do-ibirapuera-sao-paulo-brazil-arena",
+      "venueId": "ginasio-do-ibirapuera-sao-paulo-brazil-arena",
+      "name": "Ginásio do Ibirapuera",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "venueClass": "arena",
+      "aliases": [],
+      "lat": -23.577869925629635,
+      "lng": -46.65610583067374,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:54:58.219Z"
+      }
+    },
+    {
+      "id": "istanbul-park-istanbul-turkiye-circuit",
+      "venueId": "istanbul-park-istanbul-turkiye-circuit",
+      "name": "Istanbul Park",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 40.95222,
+      "lng": 29.4063884,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:16:37.989Z"
+      }
+    },
+    {
+      "id": "sepang-international-circuit-sepang-malaysia-circuit",
+      "venueId": "sepang-international-circuit-sepang-malaysia-circuit",
+      "name": "Sepang International Circuit",
+      "city": "Sepang",
+      "country": "Malaysia",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": 2.7607442,
+      "lng": 101.7383705,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:17:00.509Z"
+      }
+    },
+    {
+      "id": "veltins-arena-gelsenkirchen-germany-stadium",
+      "venueId": "veltins-arena-gelsenkirchen-germany-stadium",
+      "name": "Veltins-Arena",
+      "city": "Gelsenkirchen",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 51.55476119073481,
+      "lng": 7.06763685660207,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:00.499Z"
+      }
+    },
+    {
+      "id": "rheinenergiestadion-cologne-germany-stadium",
+      "venueId": "rheinenergiestadion-cologne-germany-stadium",
+      "name": "RheinEnergieStadion",
+      "city": "Cologne",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.93341731375822,
+      "lng": 6.875115931034089,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:19:34.961Z"
+      }
+    },
+    {
+      "id": "st-jakob-park-basel-switzerland-stadium",
+      "venueId": "st-jakob-park-basel-switzerland-stadium",
+      "name": "St. Jakob-Park",
+      "city": "Basel",
+      "country": "Switzerland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 47.541584762675946,
+      "lng": 7.620083381909978,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:01.448Z"
+      }
+    },
+    {
+      "id": "stade-de-suisse-bern-switzerland-stadium",
+      "venueId": "stade-de-suisse-bern-switzerland-stadium",
+      "name": "Stade de Suisse",
+      "city": "Bern",
+      "country": "Switzerland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 46.9631042,
+      "lng": 7.4648638,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:14.661Z"
+      }
+    },
+    {
+      "id": "laugardalsvollur-reykjavik-iceland-stadium",
+      "venueId": "laugardalsvollur-reykjavik-iceland-stadium",
+      "name": "Laugardalsvöllur",
+      "city": "Reykjavík",
+      "country": "Iceland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 64.1435011,
+      "lng": -21.8790523,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:20:54.368Z"
+      }
+    },
+    {
+      "id": "puskas-arena-budapest-hungary-stadium",
+      "venueId": "puskas-arena-budapest-hungary-stadium",
+      "name": "Puskás Aréna",
+      "city": "Budapest",
+      "country": "Hungary",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 47.503236028937266,
+      "lng": 19.097810925119145,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:00.798Z"
+      }
+    },
+    {
+      "id": "stadion-narodowy-warsaw-poland-stadium",
+      "venueId": "stadion-narodowy-warsaw-poland-stadium",
+      "name": "Stadion Narodowy",
+      "city": "Warsaw",
+      "country": "Poland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 52.23945911021172,
+      "lng": 21.04548097567403,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:08.155Z"
+      }
+    },
+    {
+      "id": "stadionul-steaua-bucharest-romania-stadium",
+      "venueId": "stadionul-steaua-bucharest-romania-stadium",
+      "name": "Stadionul Steaua",
+      "city": "Bucharest",
+      "country": "Romania",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.413060726092006,
+      "lng": 26.040405953804942,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:21.131Z"
+      }
+    },
+    {
+      "id": "stadion-rajko-mitic-belgrade-serbia-stadium",
+      "venueId": "stadion-rajko-mitic-belgrade-serbia-stadium",
+      "name": "Stadion Rajko Mitić",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.78316957073321,
+      "lng": 20.464914200973737,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:26.801Z"
+      }
+    },
+    {
+      "id": "stadion-partizana-belgrade-serbia-stadium",
+      "venueId": "stadion-partizana-belgrade-serbia-stadium",
+      "name": "Stadion Partizana",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.7887581,
+      "lng": 20.4590917,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:31.713Z"
+      }
+    },
+    {
+      "id": "stadion-maksimir-zagreb-croatia-stadium",
+      "venueId": "stadion-maksimir-zagreb-croatia-stadium",
+      "name": "Stadion Maksimir",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 45.81869278618947,
+      "lng": 16.017991317406178,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:37.329Z"
+      }
+    },
+    {
+      "id": "karaiskakis-stadium-piraeus-greece-stadium",
+      "venueId": "karaiskakis-stadium-piraeus-greece-stadium",
+      "name": "Karaiskakis Stadium",
+      "city": "Piraeus",
+      "country": "Greece",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.94646920852313,
+      "lng": 23.664464963570122,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:00.454Z"
+      }
+    },
+    {
+      "id": "gsp-stadium-strovolos-cyprus-stadium",
+      "venueId": "gsp-stadium-strovolos-cyprus-stadium",
+      "name": "GSP Stadium",
+      "city": "Strovolos",
+      "country": "Cyprus",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.114535493778135,
+      "lng": 33.36287657580032,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:10.221Z"
+      }
+    },
+    {
+      "id": "moses-mabhida-stadium-durban-south-africa-stadium",
+      "venueId": "moses-mabhida-stadium-durban-south-africa-stadium",
+      "name": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "country": "South Africa",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -29.82887060668297,
+      "lng": 31.030419535349907,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:19.396Z"
+      }
+    },
+    {
+      "id": "national-sports-stadium-harare-zimbabwe-stadium",
+      "venueId": "national-sports-stadium-harare-zimbabwe-stadium",
+      "name": "National Sports Stadium",
+      "city": "Harare",
+      "country": "Zimbabwe",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -17.8214149,
+      "lng": 30.9950735,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:42.521Z"
+      }
+    },
+    {
+      "id": "nissan-stadium-yokohama-japan-stadium",
+      "venueId": "nissan-stadium-yokohama-japan-stadium",
+      "name": "Nissan Stadium",
+      "city": "Yokohama",
+      "country": "Japan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.5099882,
+      "lng": 139.6063825,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:52.583Z"
+      }
+    },
+    {
+      "id": "saitama-stadium-2002-saitama-japan-stadium",
+      "venueId": "saitama-stadium-2002-saitama-japan-stadium",
+      "name": "Saitama Stadium 2002",
+      "city": "Saitama",
+      "country": "Japan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.9030742,
+      "lng": 139.7176057,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:55.774Z"
+      }
+    },
+    {
+      "id": "yanmar-stadium-nagai-osaka-japan-stadium",
+      "venueId": "yanmar-stadium-nagai-osaka-japan-stadium",
+      "name": "Yanmar Stadium Nagai",
+      "city": "Osaka",
+      "country": "Japan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 34.61410243074099,
+      "lng": 135.51857025862176,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:01.875Z"
+      }
+    },
+    {
+      "id": "seoul-world-cup-stadium-seoul-south-korea-stadium",
+      "venueId": "seoul-world-cup-stadium-seoul-south-korea-stadium",
+      "name": "Seoul World Cup Stadium",
+      "city": "Seoul",
+      "country": "South Korea",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.56828376475611,
+      "lng": 126.89724773168565,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:09.316Z"
+      }
+    },
+    {
+      "id": "shanghai-stadium-shanghai-china-stadium",
+      "venueId": "shanghai-stadium-shanghai-china-stadium",
+      "name": "Shanghai Stadium",
+      "city": "Shanghai",
+      "country": "China",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 31.183356263285333,
+      "lng": 121.43758719467549,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:15.865Z"
+      }
+    },
+    {
+      "id": "national-stadium-singapore-singapore-stadium",
+      "venueId": "national-stadium-singapore-singapore-stadium",
+      "name": "National Stadium",
+      "city": "Singapore",
+      "country": "Singapore",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 1.3044064290535315,
+      "lng": 103.87447181485864,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:22.828Z"
+      }
+    },
+    {
+      "id": "rajamangala-national-stadium-bangkok-thailand-stadium",
+      "venueId": "rajamangala-national-stadium-bangkok-thailand-stadium",
+      "name": "Rajamangala National Stadium",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 13.7554291,
+      "lng": 100.6221559,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:27.295Z"
+      }
+    },
+    {
+      "id": "wankhede-stadium-mumbai-india-stadium",
+      "venueId": "wankhede-stadium-mumbai-india-stadium",
+      "name": "Wankhede Stadium",
+      "city": "Mumbai",
+      "country": "India",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 18.938918373012477,
+      "lng": 72.82575667294711,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:22.748Z"
+      }
+    },
+    {
+      "id": "m-chinnaswamy-stadium-bengaluru-india-stadium",
+      "venueId": "m-chinnaswamy-stadium-bengaluru-india-stadium",
+      "name": "M. Chinnaswamy Stadium",
+      "city": "Bengaluru",
+      "country": "India",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 12.9788127,
+      "lng": 77.5995775,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:27.494Z"
+      }
+    },
+    {
+      "id": "gaddafi-stadium-lahore-pakistan-stadium",
+      "venueId": "gaddafi-stadium-lahore-pakistan-stadium",
+      "name": "Gaddafi Stadium",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 31.5133615,
+      "lng": 74.3334644,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:33.961Z"
+      }
+    },
+    {
+      "id": "rawalpindi-cricket-stadium-rawalpindi-pakistan-stadium",
+      "venueId": "rawalpindi-cricket-stadium-rawalpindi-pakistan-stadium",
+      "name": "Rawalpindi Cricket Stadium",
+      "city": "Rawalpindi",
+      "country": "Pakistan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.651487583906125,
+      "lng": 73.07598531376273,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:39.640Z"
       }
     }
   ],
@@ -2572,6 +3916,310 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:34:19.574Z"
+      }
+    },
+    {
+      "id": "central-republican-stadium-dushanbe-tajikistan-stadium",
+      "venueId": "central-republican-stadium-dushanbe-tajikistan-stadium",
+      "name": "Central Republican Stadium",
+      "city": "Dushanbe",
+      "country": "Tajikistan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.585868215967004,
+      "lng": 68.76935269571356,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:42:35.151Z"
+      }
+    },
+    {
+      "id": "kyalami-grand-prix-circuit-midrand-south-africa-circuit",
+      "venueId": "kyalami-grand-prix-circuit-midrand-south-africa-circuit",
+      "name": "Kyalami Grand Prix Circuit",
+      "city": "Midrand",
+      "country": "South Africa",
+      "venueClass": "circuit",
+      "aliases": [],
+      "lat": -25.998677,
+      "lng": 28.070007,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:14:57.595Z"
+      }
+    },
+    {
+      "id": "stadion-slaski-chorzow-poland-stadium",
+      "venueId": "stadion-slaski-chorzow-poland-stadium",
+      "name": "Stadion Śląski",
+      "city": "Chorzów",
+      "country": "Poland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 50.2882457,
+      "lng": 18.9734993,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:12.905Z"
+      }
+    },
+    {
+      "id": "stadionul-zimbru-chisinau-moldova-stadium",
+      "venueId": "stadionul-zimbru-chisinau-moldova-stadium",
+      "name": "Stadionul Zimbru",
+      "city": "Chișinău",
+      "country": "Moldova",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 46.98029948564723,
+      "lng": 28.867993546023765,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:46.451Z"
+      }
+    },
+    {
+      "id": "vasil-levski-national-stadium-sofia-bulgaria-stadium",
+      "venueId": "vasil-levski-national-stadium-sofia-bulgaria-stadium",
+      "name": "Vasil Levski National Stadium",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.6875707,
+      "lng": 23.3352431,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:21:50.968Z"
+      }
+    },
+    {
+      "id": "stade-abdoulaye-wade-diamniadio-senegal-stadium",
+      "venueId": "stade-abdoulaye-wade-diamniadio-senegal-stadium",
+      "name": "Stade Abdoulaye Wade",
+      "city": "Diamniadio",
+      "country": "Senegal",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 14.732453335181933,
+      "lng": -17.201033123372742,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:32.800Z"
+      }
+    },
+    {
+      "id": "moshood-abiola-national-stadium-abuja-nigeria-stadium",
+      "venueId": "moshood-abiola-national-stadium-abuja-nigeria-stadium",
+      "name": "Moshood Abiola National Stadium",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 9.0380149,
+      "lng": 7.4534259,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:36.213Z"
+      }
+    },
+    {
+      "id": "kasarani-stadium-nairobi-kenya-stadium",
+      "venueId": "kasarani-stadium-nairobi-kenya-stadium",
+      "name": "Kasarani Stadium",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -1.2299759,
+      "lng": 36.8924387,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:22:39.124Z"
+      }
+    },
+    {
+      "id": "my-dinh-national-stadium-hanoi-vietnam-stadium",
+      "venueId": "my-dinh-national-stadium-hanoi-vietnam-stadium",
+      "name": "My Dinh National Stadium",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 21.0205027,
+      "lng": 105.7639271,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:31.895Z"
+      }
+    },
+    {
+      "id": "thuwunna-stadium-yangon-myanmar-stadium",
+      "venueId": "thuwunna-stadium-yangon-myanmar-stadium",
+      "name": "Thuwunna Stadium",
+      "city": "Yangon",
+      "country": "Myanmar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 16.8213985,
+      "lng": 96.1868016,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:35.128Z"
+      }
+    },
+    {
+      "id": "morodok-techo-national-stadium-phnom-penh-cambodia-stadium",
+      "venueId": "morodok-techo-national-stadium-phnom-penh-cambodia-stadium",
+      "name": "Morodok Techo National Stadium",
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 11.6829772,
+      "lng": 104.8763078,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:39.303Z"
+      }
+    },
+    {
+      "id": "new-laos-national-stadium-vientiane-laos-stadium",
+      "venueId": "new-laos-national-stadium-vientiane-laos-stadium",
+      "name": "New Laos National Stadium",
+      "city": "Vientiane",
+      "country": "Laos",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 18.0621133,
+      "lng": 102.7039741,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:42.582Z"
+      }
+    },
+    {
+      "id": "sultan-qaboos-sports-complex-muscat-oman-stadium",
+      "venueId": "sultan-qaboos-sports-complex-muscat-oman-stadium",
+      "name": "Sultan Qaboos Sports Complex",
+      "city": "Muscat",
+      "country": "Oman",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 23.5729727532146,
+      "lng": 58.39955442274797,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:49.132Z"
+      }
+    },
+    {
+      "id": "hazza-bin-zayed-stadium-al-ain-united-arab-emirates-stadium",
+      "venueId": "hazza-bin-zayed-stadium-al-ain-united-arab-emirates-stadium",
+      "name": "Hazza bin Zayed Stadium",
+      "city": "Al Ain",
+      "country": "United Arab Emirates",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 24.245000734267823,
+      "lng": 55.717109463871836,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:23:56.841Z"
+      }
+    },
+    {
+      "id": "imam-reza-stadium-mashhad-iran-stadium",
+      "venueId": "imam-reza-stadium-mashhad-iran-stadium",
+      "name": "Imam Reza Stadium",
+      "city": "Mashhad",
+      "country": "Iran",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 36.32618344888303,
+      "lng": 59.57056403550356,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:03.061Z"
+      }
+    },
+    {
+      "id": "king-abdullah-ii-stadium-amman-jordan-stadium",
+      "venueId": "king-abdullah-ii-stadium-amman-jordan-stadium",
+      "name": "King Abdullah II Stadium",
+      "city": "Amman",
+      "country": "Jordan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 31.927732527090694,
+      "lng": 35.9532443014157,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:08.557Z"
+      }
+    },
+    {
+      "id": "salt-lake-stadium-kolkata-india-stadium",
+      "venueId": "salt-lake-stadium-kolkata-india-stadium",
+      "name": "Salt Lake Stadium",
+      "city": "Kolkata",
+      "country": "India",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 22.5690604,
+      "lng": 88.4090201,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:15.831Z"
+      }
+    },
+    {
+      "id": "sher-e-bangla-national-cricket-stadium-mirpur-bangladesh-stadium",
+      "venueId": "sher-e-bangla-national-cricket-stadium-mirpur-bangladesh-stadium",
+      "name": "Sher-e-Bangla National Cricket Stadium",
+      "city": "Mirpur",
+      "country": "Bangladesh",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 23.8068797,
+      "lng": 90.3636422,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:30.776Z"
+      }
+    },
+    {
+      "id": "pallekele-international-cricket-stadium-kandy-sri-lanka-stadium",
+      "venueId": "pallekele-international-cricket-stadium-kandy-sri-lanka-stadium",
+      "name": "Pallekele International Cricket Stadium",
+      "city": "Kandy",
+      "country": "Sri Lanka",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 7.280602220996968,
+      "lng": 80.72248852406538,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T12:24:50.385Z"
       }
     }
   ]

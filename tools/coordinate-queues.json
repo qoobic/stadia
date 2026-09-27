@@ -1,27 +1,9 @@
 [
   {
-    "id": "stadiums-004",
-    "label": "Stadiums 004",
+    "id": "stadiums-osm",
+    "label": "Stadium OSM candidates",
     "type": "candidates",
-    "url": "../data/coordinate-drafts/batches/stadiums-004.json"
-  },
-  {
-    "id": "stadiums-005",
-    "label": "Stadiums 005",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/batches/stadiums-005.json"
-  },
-  {
-    "id": "stadiums-manual-starts",
-    "label": "Stadiums \u2014 manual starting points",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/remaining/manual-stadium-starts.json"
-  },
-  {
-    "id": "stadiums-americas",
-    "label": "Stadiums Americas",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/regions/stadiums-americas.json"
+    "url": "../data/coordinate-drafts/remaining/stadiums-osm.json"
   },
   {
     "id": "live-venues",

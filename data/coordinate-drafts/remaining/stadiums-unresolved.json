@@ -1,0 +1,1218 @@
+[
+  {
+    "venue_id": "tottenham-hotspur-stadium-london-england-stadium",
+    "canonical_name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 19
+  },
+  {
+    "venue_id": "london-stadium-london-england-stadium",
+    "canonical_name": "London Stadium",
+    "city": "London",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 21
+  },
+  {
+    "venue_id": "villa-park-birmingham-england-stadium",
+    "canonical_name": "Villa Park",
+    "city": "Birmingham",
+    "country": "England",
+    "venue_class": "stadium",
+    "source_line": 25
+  },
+  {
+    "venue_id": "hampden-park-glasgow-scotland-stadium",
+    "canonical_name": "Hampden Park",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "venue_class": "stadium",
+    "source_line": 26
+  },
+  {
+    "venue_id": "principality-stadium-cardiff-wales-stadium",
+    "canonical_name": "Principality Stadium",
+    "city": "Cardiff",
+    "country": "Wales",
+    "venue_class": "stadium",
+    "source_line": 27
+  },
+  {
+    "venue_id": "murrayfield-stadium-edinburgh-scotland-stadium",
+    "canonical_name": "Murrayfield Stadium",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "venue_class": "stadium",
+    "source_line": 30
+  },
+  {
+    "venue_id": "metropolitano-stadium-madrid-spain-stadium",
+    "canonical_name": "Metropolitano Stadium",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 33
+  },
+  {
+    "venue_id": "san-mames-stadium-bilbao-spain-stadium",
+    "canonical_name": "San Mamés Stadium",
+    "city": "Bilbao",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 34
+  },
+  {
+    "venue_id": "mestalla-stadium-valencia-spain-stadium",
+    "canonical_name": "Mestalla Stadium",
+    "city": "Valencia",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 36
+  },
+  {
+    "venue_id": "stade-de-france-saint-denis-france-stadium",
+    "canonical_name": "Stade de France",
+    "city": "Saint-Denis",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 40
+  },
+  {
+    "venue_id": "parc-des-princes-paris-france-stadium",
+    "canonical_name": "Parc des Princes",
+    "city": "Paris",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 41
+  },
+  {
+    "venue_id": "stade-velodrome-marseille-france-stadium",
+    "canonical_name": "Stade Vélodrome",
+    "city": "Marseille",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 42
+  },
+  {
+    "venue_id": "groupama-stadium-decines-charpieu-france-stadium",
+    "canonical_name": "Groupama Stadium",
+    "city": "Décines-Charpieu",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 43
+  },
+  {
+    "venue_id": "stade-pierre-mauroy-villeneuve-d-ascq-france-stadium",
+    "canonical_name": "Stade Pierre-Mauroy",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 44
+  },
+  {
+    "venue_id": "johan-cruyff-arena-amsterdam-netherlands-stadium",
+    "canonical_name": "Johan Cruyff Arena",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 45
+  },
+  {
+    "venue_id": "philips-stadion-eindhoven-netherlands-stadium",
+    "canonical_name": "Philips Stadion",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 47
+  },
+  {
+    "venue_id": "olympiastadion-berlin-germany-stadium",
+    "canonical_name": "Olympiastadion",
+    "city": "Berlin",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 48
+  },
+  {
+    "venue_id": "signal-iduna-park-dortmund-germany-stadium",
+    "canonical_name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 50
+  },
+  {
+    "venue_id": "veltins-arena-gelsenkirchen-germany-stadium",
+    "canonical_name": "Veltins-Arena",
+    "city": "Gelsenkirchen",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 51
+  },
+  {
+    "venue_id": "red-bull-arena-leipzig-germany-stadium",
+    "canonical_name": "Red Bull Arena",
+    "city": "Leipzig",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 52
+  },
+  {
+    "venue_id": "volksparkstadion-hamburg-germany-stadium",
+    "canonical_name": "Volksparkstadion",
+    "city": "Hamburg",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 53
+  },
+  {
+    "venue_id": "mercedes-benz-arena-stuttgart-germany-stadium",
+    "canonical_name": "Mercedes-Benz Arena",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 55
+  },
+  {
+    "venue_id": "rheinenergiestadion-cologne-germany-stadium",
+    "canonical_name": "RheinEnergieStadion",
+    "city": "Cologne",
+    "country": "Germany",
+    "venue_class": "stadium",
+    "source_line": 56
+  },
+  {
+    "venue_id": "stadio-olimpico-rome-italy-stadium",
+    "canonical_name": "Stadio Olimpico",
+    "city": "Rome",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 57
+  },
+  {
+    "venue_id": "san-siro-milan-italy-stadium",
+    "canonical_name": "San Siro",
+    "city": "Milan",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 58
+  },
+  {
+    "venue_id": "stadio-diego-armando-maradona-naples-italy-stadium",
+    "canonical_name": "Stadio Diego Armando Maradona",
+    "city": "Naples",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 60
+  },
+  {
+    "venue_id": "stadio-artemio-franchi-florence-italy-stadium",
+    "canonical_name": "Stadio Artemio Franchi",
+    "city": "Florence",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 61
+  },
+  {
+    "venue_id": "stadio-renato-dall-ara-bologna-italy-stadium",
+    "canonical_name": "Stadio Renato Dall'Ara",
+    "city": "Bologna",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 62
+  },
+  {
+    "venue_id": "st-jakob-park-basel-switzerland-stadium",
+    "canonical_name": "St. Jakob-Park",
+    "city": "Basel",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 64
+  },
+  {
+    "venue_id": "stadion-letzigrund-zurich-switzerland-stadium",
+    "canonical_name": "Stadion Letzigrund",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 65
+  },
+  {
+    "venue_id": "stade-de-suisse-bern-switzerland-stadium",
+    "canonical_name": "Stade de Suisse",
+    "city": "Bern",
+    "country": "Switzerland",
+    "venue_class": "stadium",
+    "source_line": 66
+  },
+  {
+    "venue_id": "king-baudouin-stadium-brussels-belgium-stadium",
+    "canonical_name": "King Baudouin Stadium",
+    "city": "Brussels",
+    "country": "Belgium",
+    "venue_class": "stadium",
+    "source_line": 67
+  },
+  {
+    "venue_id": "stade-maurice-dufrasne-liege-belgium-stadium",
+    "canonical_name": "Stade Maurice Dufrasne",
+    "city": "Liège",
+    "country": "Belgium",
+    "venue_class": "stadium",
+    "source_line": 68
+  },
+  {
+    "venue_id": "parken-stadium-copenhagen-denmark-stadium",
+    "canonical_name": "Parken Stadium",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "venue_class": "stadium",
+    "source_line": 69
+  },
+  {
+    "venue_id": "ullevi-gothenburg-sweden-stadium",
+    "canonical_name": "Ullevi",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "venue_class": "stadium",
+    "source_line": 71
+  },
+  {
+    "venue_id": "ullevaal-stadion-oslo-norway-stadium",
+    "canonical_name": "Ullevaal Stadion",
+    "city": "Oslo",
+    "country": "Norway",
+    "venue_class": "stadium",
+    "source_line": 72
+  },
+  {
+    "venue_id": "helsinki-olympic-stadium-helsinki-finland-stadium",
+    "canonical_name": "Helsinki Olympic Stadium",
+    "city": "Helsinki",
+    "country": "Finland",
+    "venue_class": "stadium",
+    "source_line": 73
+  },
+  {
+    "venue_id": "laugardalsvollur-reykjavik-iceland-stadium",
+    "canonical_name": "Laugardalsvöllur",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "venue_class": "stadium",
+    "source_line": 74
+  },
+  {
+    "venue_id": "puskas-arena-budapest-hungary-stadium",
+    "canonical_name": "Puskás Aréna",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue_class": "stadium",
+    "source_line": 75
+  },
+  {
+    "venue_id": "national-athletic-centre-budapest-hungary-stadium",
+    "canonical_name": "National Athletic Centre",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue_class": "stadium",
+    "source_line": 76
+  },
+  {
+    "venue_id": "stadion-narodowy-warsaw-poland-stadium",
+    "canonical_name": "Stadion Narodowy",
+    "city": "Warsaw",
+    "country": "Poland",
+    "venue_class": "stadium",
+    "source_line": 77
+  },
+  {
+    "venue_id": "stadion-slaski-chorzow-poland-stadium",
+    "canonical_name": "Stadion Śląski",
+    "city": "Chorzów",
+    "country": "Poland",
+    "venue_class": "stadium",
+    "source_line": 78
+  },
+  {
+    "venue_id": "tehelne-pole-bratislava-slovakia-stadium",
+    "canonical_name": "Tehelné pole",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "venue_class": "stadium",
+    "source_line": 80
+  },
+  {
+    "venue_id": "stadionul-steaua-bucharest-romania-stadium",
+    "canonical_name": "Stadionul Steaua",
+    "city": "Bucharest",
+    "country": "Romania",
+    "venue_class": "stadium",
+    "source_line": 82
+  },
+  {
+    "venue_id": "stadion-rajko-mitic-belgrade-serbia-stadium",
+    "canonical_name": "Stadion Rajko Mitić",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "venue_class": "stadium",
+    "source_line": 83
+  },
+  {
+    "venue_id": "stadion-partizana-belgrade-serbia-stadium",
+    "canonical_name": "Stadion Partizana",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "venue_class": "stadium",
+    "source_line": 84
+  },
+  {
+    "venue_id": "stadion-maksimir-zagreb-croatia-stadium",
+    "canonical_name": "Stadion Maksimir",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "venue_class": "stadium",
+    "source_line": 85
+  },
+  {
+    "venue_id": "stadion-poljud-split-croatia-stadium",
+    "canonical_name": "Stadion Poljud",
+    "city": "Split",
+    "country": "Croatia",
+    "venue_class": "stadium",
+    "source_line": 86
+  },
+  {
+    "venue_id": "stozice-stadium-ljubljana-slovenia-stadium",
+    "canonical_name": "Stožice Stadium",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "venue_class": "stadium",
+    "source_line": 87
+  },
+  {
+    "venue_id": "tose-proeski-arena-skopje-north-macedonia-stadium",
+    "canonical_name": "Toše Proeski Arena",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "venue_class": "stadium",
+    "source_line": 88
+  },
+  {
+    "venue_id": "stadionul-zimbru-chisinau-moldova-stadium",
+    "canonical_name": "Stadionul Zimbru",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "venue_class": "stadium",
+    "source_line": 89
+  },
+  {
+    "venue_id": "vasil-levski-national-stadium-sofia-bulgaria-stadium",
+    "canonical_name": "Vasil Levski National Stadium",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "venue_class": "stadium",
+    "source_line": 90
+  },
+  {
+    "venue_id": "karaiskakis-stadium-piraeus-greece-stadium",
+    "canonical_name": "Karaiskakis Stadium",
+    "city": "Piraeus",
+    "country": "Greece",
+    "venue_class": "stadium",
+    "source_line": 92
+  },
+  {
+    "venue_id": "olympic-stadium-of-athens-marousi-greece-stadium",
+    "canonical_name": "Olympic Stadium of Athens",
+    "city": "Marousi",
+    "country": "Greece",
+    "venue_class": "stadium",
+    "source_line": 93
+  },
+  {
+    "venue_id": "gsp-stadium-strovolos-cyprus-stadium",
+    "canonical_name": "GSP Stadium",
+    "city": "Strovolos",
+    "country": "Cyprus",
+    "venue_class": "stadium",
+    "source_line": 94
+  },
+  {
+    "venue_id": "rams-global-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Rams Global Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 95
+  },
+  {
+    "venue_id": "sukru-saracoglu-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Şükrü Saracoğlu Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 96
+  },
+  {
+    "venue_id": "tupras-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Tüpraş Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 98
+  },
+  {
+    "venue_id": "nsc-olimpiyskiy-kyiv-ukraine-stadium",
+    "canonical_name": "NSC Olimpiyskiy",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "venue_class": "stadium",
+    "source_line": 100
+  },
+  {
+    "venue_id": "republican-stadium-yerevan-armenia-stadium",
+    "canonical_name": "Republican Stadium",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "venue_class": "stadium",
+    "source_line": 102
+  },
+  {
+    "venue_id": "tofiq-bahramov-stadium-baku-azerbaijan-stadium",
+    "canonical_name": "Tofiq Bahramov Stadium",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "venue_class": "stadium",
+    "source_line": 103
+  },
+  {
+    "venue_id": "luzhniki-stadium-moscow-russia-stadium",
+    "canonical_name": "Luzhniki Stadium",
+    "city": "Moscow",
+    "country": "Russia",
+    "venue_class": "stadium",
+    "source_line": 106
+  },
+  {
+    "venue_id": "moses-mabhida-stadium-durban-south-africa-stadium",
+    "canonical_name": "Moses Mabhida Stadium",
+    "city": "Durban",
+    "country": "South Africa",
+    "venue_class": "stadium",
+    "source_line": 113
+  },
+  {
+    "venue_id": "stade-mohammed-v-casablanca-morocco-stadium",
+    "canonical_name": "Stade Mohammed V",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "venue_class": "stadium",
+    "source_line": 117
+  },
+  {
+    "venue_id": "stade-olympique-de-rades-rades-tunisia-stadium",
+    "canonical_name": "Stade Olympique de Radès",
+    "city": "Radès",
+    "country": "Tunisia",
+    "venue_class": "stadium",
+    "source_line": 119
+  },
+  {
+    "venue_id": "stade-abdoulaye-wade-diamniadio-senegal-stadium",
+    "canonical_name": "Stade Abdoulaye Wade",
+    "city": "Diamniadio",
+    "country": "Senegal",
+    "venue_class": "stadium",
+    "source_line": 120
+  },
+  {
+    "venue_id": "japoma-stadium-douala-cameroon-stadium",
+    "canonical_name": "Japoma Stadium",
+    "city": "Douala",
+    "country": "Cameroon",
+    "venue_class": "stadium",
+    "source_line": 121
+  },
+  {
+    "venue_id": "moshood-abiola-national-stadium-abuja-nigeria-stadium",
+    "canonical_name": "Moshood Abiola National Stadium",
+    "city": "Abuja",
+    "country": "Nigeria",
+    "venue_class": "stadium",
+    "source_line": 123
+  },
+  {
+    "venue_id": "stade-alassane-ouattara-ebimpe-cote-d-ivoire-stadium",
+    "canonical_name": "Stade Alassane Ouattara",
+    "city": "Ebimpé",
+    "country": "Côte d'Ivoire",
+    "venue_class": "stadium",
+    "source_line": 124
+  },
+  {
+    "venue_id": "kasarani-stadium-nairobi-kenya-stadium",
+    "canonical_name": "Kasarani Stadium",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "venue_class": "stadium",
+    "source_line": 125
+  },
+  {
+    "venue_id": "national-sports-stadium-harare-zimbabwe-stadium",
+    "canonical_name": "National Sports Stadium",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "venue_class": "stadium",
+    "source_line": 128
+  },
+  {
+    "venue_id": "national-stadium-tokyo-japan-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 159
+  },
+  {
+    "venue_id": "tokyo-dome-tokyo-japan-stadium",
+    "canonical_name": "Tokyo Dome",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 160
+  },
+  {
+    "venue_id": "nissan-stadium-yokohama-japan-stadium",
+    "canonical_name": "Nissan Stadium",
+    "city": "Yokohama",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 161
+  },
+  {
+    "venue_id": "saitama-stadium-2002-saitama-japan-stadium",
+    "canonical_name": "Saitama Stadium 2002",
+    "city": "Saitama",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 162
+  },
+  {
+    "venue_id": "kashima-soccer-stadium-kashima-japan-stadium",
+    "canonical_name": "Kashima Soccer Stadium",
+    "city": "Kashima",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 163
+  },
+  {
+    "venue_id": "yanmar-stadium-nagai-osaka-japan-stadium",
+    "canonical_name": "Yanmar Stadium Nagai",
+    "city": "Osaka",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 164
+  },
+  {
+    "venue_id": "japan-national-stadium-tokyo-japan-stadium",
+    "canonical_name": "Japan National Stadium",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 165
+  },
+  {
+    "venue_id": "seoul-world-cup-stadium-seoul-south-korea-stadium",
+    "canonical_name": "Seoul World Cup Stadium",
+    "city": "Seoul",
+    "country": "South Korea",
+    "venue_class": "stadium",
+    "source_line": 166
+  },
+  {
+    "venue_id": "jamsil-olympic-stadium-seoul-south-korea-stadium",
+    "canonical_name": "Jamsil Olympic Stadium",
+    "city": "Seoul",
+    "country": "South Korea",
+    "venue_class": "stadium",
+    "source_line": 167
+  },
+  {
+    "venue_id": "incheon-asiad-main-stadium-incheon-south-korea-stadium",
+    "canonical_name": "Incheon Asiad Main Stadium",
+    "city": "Incheon",
+    "country": "South Korea",
+    "venue_class": "stadium",
+    "source_line": 169
+  },
+  {
+    "venue_id": "workers-stadium-beijing-china-stadium",
+    "canonical_name": "Workers' Stadium",
+    "city": "Beijing",
+    "country": "China",
+    "venue_class": "stadium",
+    "source_line": 171
+  },
+  {
+    "venue_id": "shanghai-stadium-shanghai-china-stadium",
+    "canonical_name": "Shanghai Stadium",
+    "city": "Shanghai",
+    "country": "China",
+    "venue_class": "stadium",
+    "source_line": 172
+  },
+  {
+    "venue_id": "hangzhou-olympic-sports-centre-stadium-hangzhou-china-stadium",
+    "canonical_name": "Hangzhou Olympic Sports Centre Stadium",
+    "city": "Hangzhou",
+    "country": "China",
+    "venue_class": "stadium",
+    "source_line": 173
+  },
+  {
+    "venue_id": "rizal-memorial-stadium-manila-philippines-stadium",
+    "canonical_name": "Rizal Memorial Stadium",
+    "city": "Manila",
+    "country": "Philippines",
+    "venue_class": "stadium",
+    "source_line": 174
+  },
+  {
+    "venue_id": "jakarta-international-stadium-jakarta-indonesia-stadium",
+    "canonical_name": "Jakarta International Stadium",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "venue_class": "stadium",
+    "source_line": 177
+  },
+  {
+    "venue_id": "national-stadium-singapore-singapore-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Singapore",
+    "country": "Singapore",
+    "venue_class": "stadium",
+    "source_line": 180
+  },
+  {
+    "venue_id": "rajamangala-national-stadium-bangkok-thailand-stadium",
+    "canonical_name": "Rajamangala National Stadium",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "venue_class": "stadium",
+    "source_line": 181
+  },
+  {
+    "venue_id": "supachalasai-stadium-bangkok-thailand-stadium",
+    "canonical_name": "Supachalasai Stadium",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "venue_class": "stadium",
+    "source_line": 182
+  },
+  {
+    "venue_id": "my-dinh-national-stadium-hanoi-vietnam-stadium",
+    "canonical_name": "My Dinh National Stadium",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "venue_class": "stadium",
+    "source_line": 183
+  },
+  {
+    "venue_id": "thuwunna-stadium-yangon-myanmar-stadium",
+    "canonical_name": "Thuwunna Stadium",
+    "city": "Yangon",
+    "country": "Myanmar",
+    "venue_class": "stadium",
+    "source_line": 184
+  },
+  {
+    "venue_id": "morodok-techo-national-stadium-phnom-penh-cambodia-stadium",
+    "canonical_name": "Morodok Techo National Stadium",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "venue_class": "stadium",
+    "source_line": 185
+  },
+  {
+    "venue_id": "new-laos-national-stadium-vientiane-laos-stadium",
+    "canonical_name": "New Laos National Stadium",
+    "city": "Vientiane",
+    "country": "Laos",
+    "venue_class": "stadium",
+    "source_line": 186
+  },
+  {
+    "venue_id": "sultan-qaboos-sports-complex-muscat-oman-stadium",
+    "canonical_name": "Sultan Qaboos Sports Complex",
+    "city": "Muscat",
+    "country": "Oman",
+    "venue_class": "stadium",
+    "source_line": 187
+  },
+  {
+    "venue_id": "khalifa-international-stadium-doha-qatar-stadium",
+    "canonical_name": "Khalifa International Stadium",
+    "city": "Doha",
+    "country": "Qatar",
+    "venue_class": "stadium",
+    "source_line": 188
+  },
+  {
+    "venue_id": "lusail-stadium-lusail-qatar-stadium",
+    "canonical_name": "Lusail Stadium",
+    "city": "Lusail",
+    "country": "Qatar",
+    "venue_class": "stadium",
+    "source_line": 189
+  },
+  {
+    "venue_id": "king-fahd-sports-city-stadium-riyadh-saudi-arabia-stadium",
+    "canonical_name": "King Fahd Sports City Stadium",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 194
+  },
+  {
+    "venue_id": "king-abdullah-sports-city-jeddah-saudi-arabia-stadium",
+    "canonical_name": "King Abdullah Sports City",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 195
+  },
+  {
+    "venue_id": "prince-mohammed-bin-fahd-stadium-dammam-saudi-arabia-stadium",
+    "canonical_name": "Prince Mohammed bin Fahd Stadium",
+    "city": "Dammam",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 196
+  },
+  {
+    "venue_id": "zabeel-stadium-dubai-united-arab-emirates-stadium",
+    "canonical_name": "Zabeel Stadium",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "venue_class": "stadium",
+    "source_line": 198
+  },
+  {
+    "venue_id": "hazza-bin-zayed-stadium-al-ain-united-arab-emirates-stadium",
+    "canonical_name": "Hazza bin Zayed Stadium",
+    "city": "Al Ain",
+    "country": "United Arab Emirates",
+    "venue_class": "stadium",
+    "source_line": 200
+  },
+  {
+    "venue_id": "sheikh-zayed-sports-city-stadium-abu-dhabi-united-arab-emirates-stadium",
+    "canonical_name": "Sheikh Zayed Sports City Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "venue_class": "stadium",
+    "source_line": 201
+  },
+  {
+    "venue_id": "imam-reza-stadium-mashhad-iran-stadium",
+    "canonical_name": "Imam Reza Stadium",
+    "city": "Mashhad",
+    "country": "Iran",
+    "venue_class": "stadium",
+    "source_line": 203
+  },
+  {
+    "venue_id": "jaber-al-ahmad-international-stadium-kuwait-city-kuwait-stadium",
+    "canonical_name": "Jaber Al-Ahmad International Stadium",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "venue_class": "stadium",
+    "source_line": 204
+  },
+  {
+    "venue_id": "king-abdullah-ii-stadium-amman-jordan-stadium",
+    "canonical_name": "King Abdullah II Stadium",
+    "city": "Amman",
+    "country": "Jordan",
+    "venue_class": "stadium",
+    "source_line": 206
+  },
+  {
+    "venue_id": "faisal-al-husseini-international-stadium-al-ram-palestine-stadium",
+    "canonical_name": "Faisal Al-Husseini International Stadium",
+    "city": "Al-Ram",
+    "country": "Palestine",
+    "venue_class": "stadium",
+    "source_line": 207
+  },
+  {
+    "venue_id": "salt-lake-stadium-kolkata-india-stadium",
+    "canonical_name": "Salt Lake Stadium",
+    "city": "Kolkata",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 211
+  },
+  {
+    "venue_id": "narendra-modi-stadium-ahmedabad-india-stadium",
+    "canonical_name": "Narendra Modi Stadium",
+    "city": "Ahmedabad",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 212
+  },
+  {
+    "venue_id": "wankhede-stadium-mumbai-india-stadium",
+    "canonical_name": "Wankhede Stadium",
+    "city": "Mumbai",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 214
+  },
+  {
+    "venue_id": "m-a-chidambaram-stadium-chennai-india-stadium",
+    "canonical_name": "M. A. Chidambaram Stadium",
+    "city": "Chennai",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 215
+  },
+  {
+    "venue_id": "m-chinnaswamy-stadium-bengaluru-india-stadium",
+    "canonical_name": "M. Chinnaswamy Stadium",
+    "city": "Bengaluru",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 216
+  },
+  {
+    "venue_id": "national-stadium-dhaka-bangladesh-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "venue_class": "stadium",
+    "source_line": 217
+  },
+  {
+    "venue_id": "sher-e-bangla-national-cricket-stadium-mirpur-bangladesh-stadium",
+    "canonical_name": "Sher-e-Bangla National Cricket Stadium",
+    "city": "Mirpur",
+    "country": "Bangladesh",
+    "venue_class": "stadium",
+    "source_line": 218
+  },
+  {
+    "venue_id": "gaddafi-stadium-lahore-pakistan-stadium",
+    "canonical_name": "Gaddafi Stadium",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "venue_class": "stadium",
+    "source_line": 219
+  },
+  {
+    "venue_id": "national-stadium-karachi-pakistan-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "venue_class": "stadium",
+    "source_line": 220
+  },
+  {
+    "venue_id": "rawalpindi-cricket-stadium-rawalpindi-pakistan-stadium",
+    "canonical_name": "Rawalpindi Cricket Stadium",
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "venue_class": "stadium",
+    "source_line": 221
+  },
+  {
+    "venue_id": "r-premadasa-stadium-colombo-sri-lanka-stadium",
+    "canonical_name": "R. Premadasa Stadium",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "venue_class": "stadium",
+    "source_line": 222
+  },
+  {
+    "venue_id": "pallekele-international-cricket-stadium-kandy-sri-lanka-stadium",
+    "canonical_name": "Pallekele International Cricket Stadium",
+    "city": "Kandy",
+    "country": "Sri Lanka",
+    "venue_class": "stadium",
+    "source_line": 223
+  },
+  {
+    "venue_id": "tribhuvan-university-cricket-ground-kirtipur-nepal-stadium",
+    "canonical_name": "Tribhuvan University Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "venue_class": "stadium",
+    "source_line": 224
+  },
+  {
+    "venue_id": "national-football-stadium-male-maldives-stadium",
+    "canonical_name": "National Football Stadium",
+    "city": "Malé",
+    "country": "Maldives",
+    "venue_class": "stadium",
+    "source_line": 225
+  },
+  {
+    "venue_id": "milliy-stadium-tashkent-uzbekistan-stadium",
+    "canonical_name": "Milliy Stadium",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "venue_class": "stadium",
+    "source_line": 228
+  },
+  {
+    "venue_id": "sofi-stadium-inglewood-united-states-stadium",
+    "canonical_name": "SoFi Stadium",
+    "city": "Inglewood",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 234
+  },
+  {
+    "venue_id": "mercedes-benz-stadium-atlanta-united-states-stadium",
+    "canonical_name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 237
+  },
+  {
+    "venue_id": "ford-field-detroit-united-states-stadium",
+    "canonical_name": "Ford Field",
+    "city": "Detroit",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 239
+  },
+  {
+    "venue_id": "u-s-bank-stadium-minneapolis-united-states-stadium",
+    "canonical_name": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 240
+  },
+  {
+    "venue_id": "hard-rock-stadium-miami-gardens-united-states-stadium",
+    "canonical_name": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 243
+  },
+  {
+    "venue_id": "nrg-stadium-houston-united-states-stadium",
+    "canonical_name": "NRG Stadium",
+    "city": "Houston",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 245
+  },
+  {
+    "venue_id": "allegiant-stadium-paradise-united-states-stadium",
+    "canonical_name": "Allegiant Stadium",
+    "city": "Paradise",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 248
+  },
+  {
+    "venue_id": "highmark-stadium-orchard-park-united-states-stadium",
+    "canonical_name": "Highmark Stadium",
+    "city": "Orchard Park",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 251
+  },
+  {
+    "venue_id": "lucas-oil-stadium-indianapolis-united-states-stadium",
+    "canonical_name": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 258
+  },
+  {
+    "venue_id": "wrigley-field-chicago-united-states-stadium",
+    "canonical_name": "Wrigley Field",
+    "city": "Chicago",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 262
+  },
+  {
+    "venue_id": "fenway-park-boston-united-states-stadium",
+    "canonical_name": "Fenway Park",
+    "city": "Boston",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 263
+  },
+  {
+    "venue_id": "t-mobile-park-seattle-united-states-stadium",
+    "canonical_name": "T-Mobile Park",
+    "city": "Seattle",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 267
+  },
+  {
+    "venue_id": "globe-life-field-arlington-united-states-stadium",
+    "canonical_name": "Globe Life Field",
+    "city": "Arlington",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 271
+  },
+  {
+    "venue_id": "loandepot-park-miami-united-states-stadium",
+    "canonical_name": "LoanDepot Park",
+    "city": "Miami",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 272
+  },
+  {
+    "venue_id": "target-field-minneapolis-united-states-stadium",
+    "canonical_name": "Target Field",
+    "city": "Minneapolis",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 276
+  },
+  {
+    "venue_id": "olympic-stadium-montreal-canada-stadium",
+    "canonical_name": "Olympic Stadium",
+    "city": "Montreal",
+    "country": "Canada",
+    "venue_class": "stadium",
+    "source_line": 282
+  },
+  {
+    "venue_id": "stadium-australia-sydney-australia-stadium",
+    "canonical_name": "Stadium Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 345
+  },
+  {
+    "venue_id": "optus-stadium-perth-australia-stadium",
+    "canonical_name": "Optus Stadium",
+    "city": "Perth",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 346
+  },
+  {
+    "venue_id": "marvel-stadium-melbourne-australia-stadium",
+    "canonical_name": "Marvel Stadium",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 349
+  },
+  {
+    "venue_id": "sydney-cricket-ground-sydney-australia-stadium",
+    "canonical_name": "Sydney Cricket Ground",
+    "city": "Sydney",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 350
+  },
+  {
+    "venue_id": "gmhba-stadium-geelong-australia-stadium",
+    "canonical_name": "GMHBA Stadium",
+    "city": "Geelong",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 352
+  },
+  {
+    "venue_id": "norwood-oval-adelaide-australia-stadium",
+    "canonical_name": "Norwood Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 353
+  },
+  {
+    "venue_id": "the-gabba-brisbane-australia-stadium",
+    "canonical_name": "The Gabba",
+    "city": "Brisbane",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 354
+  },
+  {
+    "venue_id": "sky-stadium-wellington-new-zealand-stadium",
+    "canonical_name": "Sky Stadium",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "venue_class": "stadium",
+    "source_line": 356
+  },
+  {
+    "venue_id": "apollo-projects-stadium-christchurch-new-zealand-stadium",
+    "canonical_name": "Apollo Projects Stadium",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "venue_class": "stadium",
+    "source_line": 358
+  },
+  {
+    "venue_id": "national-football-stadium-honiara-solomon-islands-stadium",
+    "canonical_name": "National Football Stadium",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "venue_class": "stadium",
+    "source_line": 359
+  },
+  {
+    "venue_id": "loto-tonga-soka-centre-nuku-alofa-tonga-stadium",
+    "canonical_name": "Loto-Tonga Soka Centre",
+    "city": "Nuku'alofa",
+    "country": "Tonga",
+    "venue_class": "stadium",
+    "source_line": 360
+  },
+  {
+    "venue_id": "national-stadium-port-moresby-papua-new-guinea-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "venue_class": "stadium",
+    "source_line": 361
+  },
+  {
+    "venue_id": "sir-john-guise-stadium-port-moresby-papua-new-guinea-stadium",
+    "canonical_name": "Sir John Guise Stadium",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "venue_class": "stadium",
+    "source_line": 362
+  },
+  {
+    "venue_id": "lawson-tama-stadium-honiara-solomon-islands-stadium",
+    "canonical_name": "Lawson Tama Stadium",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "venue_class": "stadium",
+    "source_line": 363
+  },
+  {
+    "venue_id": "korman-stadium-port-vila-vanuatu-stadium",
+    "canonical_name": "Korman Stadium",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "venue_class": "stadium",
+    "source_line": 364
+  }
+]

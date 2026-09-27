@@ -1,0 +1,937 @@
+[
+  {
+    "venue_id": "metropolitano-stadium-madrid-spain-stadium",
+    "canonical_name": "Metropolitano Stadium",
+    "city": "Madrid",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 33,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "san-mames-stadium-bilbao-spain-stadium",
+    "canonical_name": "San Mamés Stadium",
+    "city": "Bilbao",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 34,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "mestalla-stadium-valencia-spain-stadium",
+    "canonical_name": "Mestalla Stadium",
+    "city": "Valencia",
+    "country": "Spain",
+    "venue_class": "stadium",
+    "source_line": 36,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stade-velodrome-marseille-france-stadium",
+    "canonical_name": "Stade Vélodrome",
+    "city": "Marseille",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 42,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stade-pierre-mauroy-villeneuve-d-ascq-france-stadium",
+    "canonical_name": "Stade Pierre-Mauroy",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "venue_class": "stadium",
+    "source_line": 44,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "johan-cruyff-arena-amsterdam-netherlands-stadium",
+    "canonical_name": "Johan Cruyff Arena",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "venue_class": "stadium",
+    "source_line": 45,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stadio-olimpico-rome-italy-stadium",
+    "canonical_name": "Stadio Olimpico",
+    "city": "Rome",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 57,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stadio-artemio-franchi-florence-italy-stadium",
+    "canonical_name": "Stadio Artemio Franchi",
+    "city": "Florence",
+    "country": "Italy",
+    "venue_class": "stadium",
+    "source_line": 61,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "parken-stadium-copenhagen-denmark-stadium",
+    "canonical_name": "Parken Stadium",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "venue_class": "stadium",
+    "source_line": 69,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-athletic-centre-budapest-hungary-stadium",
+    "canonical_name": "National Athletic Centre",
+    "city": "Budapest",
+    "country": "Hungary",
+    "venue_class": "stadium",
+    "source_line": 76,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "tehelne-pole-bratislava-slovakia-stadium",
+    "canonical_name": "Tehelné pole",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "venue_class": "stadium",
+    "source_line": 80,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stadion-poljud-split-croatia-stadium",
+    "canonical_name": "Stadion Poljud",
+    "city": "Split",
+    "country": "Croatia",
+    "venue_class": "stadium",
+    "source_line": 86,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stozice-stadium-ljubljana-slovenia-stadium",
+    "canonical_name": "Stožice Stadium",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "venue_class": "stadium",
+    "source_line": 87,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "tose-proeski-arena-skopje-north-macedonia-stadium",
+    "canonical_name": "Toše Proeski Arena",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "venue_class": "stadium",
+    "source_line": 88,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "olympic-stadium-of-athens-marousi-greece-stadium",
+    "canonical_name": "Olympic Stadium of Athens",
+    "city": "Marousi",
+    "country": "Greece",
+    "venue_class": "stadium",
+    "source_line": 93,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "rams-global-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Rams Global Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 95,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "sukru-saracoglu-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Şükrü Saracoğlu Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 96,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "tupras-stadium-istanbul-turkiye-stadium",
+    "canonical_name": "Tüpraş Stadium",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "venue_class": "stadium",
+    "source_line": 98,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "nsc-olimpiyskiy-kyiv-ukraine-stadium",
+    "canonical_name": "NSC Olimpiyskiy",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "venue_class": "stadium",
+    "source_line": 100,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "republican-stadium-yerevan-armenia-stadium",
+    "canonical_name": "Republican Stadium",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "venue_class": "stadium",
+    "source_line": 102,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "tofiq-bahramov-stadium-baku-azerbaijan-stadium",
+    "canonical_name": "Tofiq Bahramov Stadium",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "venue_class": "stadium",
+    "source_line": 103,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "luzhniki-stadium-moscow-russia-stadium",
+    "canonical_name": "Luzhniki Stadium",
+    "city": "Moscow",
+    "country": "Russia",
+    "venue_class": "stadium",
+    "source_line": 106,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stade-olympique-de-rades-rades-tunisia-stadium",
+    "canonical_name": "Stade Olympique de Radès",
+    "city": "Radès",
+    "country": "Tunisia",
+    "venue_class": "stadium",
+    "source_line": 119,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "japoma-stadium-douala-cameroon-stadium",
+    "canonical_name": "Japoma Stadium",
+    "city": "Douala",
+    "country": "Cameroon",
+    "venue_class": "stadium",
+    "source_line": 121,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "stade-alassane-ouattara-ebimpe-cote-d-ivoire-stadium",
+    "canonical_name": "Stade Alassane Ouattara",
+    "city": "Ebimpé",
+    "country": "Côte d'Ivoire",
+    "venue_class": "stadium",
+    "source_line": 124,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-stadium-tokyo-japan-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 159,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "kashima-soccer-stadium-kashima-japan-stadium",
+    "canonical_name": "Kashima Soccer Stadium",
+    "city": "Kashima",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 163,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "japan-national-stadium-tokyo-japan-stadium",
+    "canonical_name": "Japan National Stadium",
+    "city": "Tokyo",
+    "country": "Japan",
+    "venue_class": "stadium",
+    "source_line": 165,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "jamsil-olympic-stadium-seoul-south-korea-stadium",
+    "canonical_name": "Jamsil Olympic Stadium",
+    "city": "Seoul",
+    "country": "South Korea",
+    "venue_class": "stadium",
+    "source_line": 167,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "incheon-asiad-main-stadium-incheon-south-korea-stadium",
+    "canonical_name": "Incheon Asiad Main Stadium",
+    "city": "Incheon",
+    "country": "South Korea",
+    "venue_class": "stadium",
+    "source_line": 169,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "workers-stadium-beijing-china-stadium",
+    "canonical_name": "Workers' Stadium",
+    "city": "Beijing",
+    "country": "China",
+    "venue_class": "stadium",
+    "source_line": 171,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "hangzhou-olympic-sports-centre-stadium-hangzhou-china-stadium",
+    "canonical_name": "Hangzhou Olympic Sports Centre Stadium",
+    "city": "Hangzhou",
+    "country": "China",
+    "venue_class": "stadium",
+    "source_line": 173,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "rizal-memorial-stadium-manila-philippines-stadium",
+    "canonical_name": "Rizal Memorial Stadium",
+    "city": "Manila",
+    "country": "Philippines",
+    "venue_class": "stadium",
+    "source_line": 174,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "jakarta-international-stadium-jakarta-indonesia-stadium",
+    "canonical_name": "Jakarta International Stadium",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "venue_class": "stadium",
+    "source_line": 177,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "supachalasai-stadium-bangkok-thailand-stadium",
+    "canonical_name": "Supachalasai Stadium",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "venue_class": "stadium",
+    "source_line": 182,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "khalifa-international-stadium-doha-qatar-stadium",
+    "canonical_name": "Khalifa International Stadium",
+    "city": "Doha",
+    "country": "Qatar",
+    "venue_class": "stadium",
+    "source_line": 188,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "lusail-stadium-lusail-qatar-stadium",
+    "canonical_name": "Lusail Stadium",
+    "city": "Lusail",
+    "country": "Qatar",
+    "venue_class": "stadium",
+    "source_line": 189,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "king-fahd-sports-city-stadium-riyadh-saudi-arabia-stadium",
+    "canonical_name": "King Fahd Sports City Stadium",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 194,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "king-abdullah-sports-city-jeddah-saudi-arabia-stadium",
+    "canonical_name": "King Abdullah Sports City",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 195,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "prince-mohammed-bin-fahd-stadium-dammam-saudi-arabia-stadium",
+    "canonical_name": "Prince Mohammed bin Fahd Stadium",
+    "city": "Dammam",
+    "country": "Saudi Arabia",
+    "venue_class": "stadium",
+    "source_line": 196,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "zabeel-stadium-dubai-united-arab-emirates-stadium",
+    "canonical_name": "Zabeel Stadium",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "venue_class": "stadium",
+    "source_line": 198,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "sheikh-zayed-sports-city-stadium-abu-dhabi-united-arab-emirates-stadium",
+    "canonical_name": "Sheikh Zayed Sports City Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "venue_class": "stadium",
+    "source_line": 201,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "jaber-al-ahmad-international-stadium-kuwait-city-kuwait-stadium",
+    "canonical_name": "Jaber Al-Ahmad International Stadium",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "venue_class": "stadium",
+    "source_line": 204,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "faisal-al-husseini-international-stadium-al-ram-palestine-stadium",
+    "canonical_name": "Faisal Al-Husseini International Stadium",
+    "city": "Al-Ram",
+    "country": "Palestine",
+    "venue_class": "stadium",
+    "source_line": 207,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "narendra-modi-stadium-ahmedabad-india-stadium",
+    "canonical_name": "Narendra Modi Stadium",
+    "city": "Ahmedabad",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 212,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "m-a-chidambaram-stadium-chennai-india-stadium",
+    "canonical_name": "M. A. Chidambaram Stadium",
+    "city": "Chennai",
+    "country": "India",
+    "venue_class": "stadium",
+    "source_line": 215,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-stadium-dhaka-bangladesh-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "venue_class": "stadium",
+    "source_line": 217,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-stadium-karachi-pakistan-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "venue_class": "stadium",
+    "source_line": 220,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "r-premadasa-stadium-colombo-sri-lanka-stadium",
+    "canonical_name": "R. Premadasa Stadium",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "venue_class": "stadium",
+    "source_line": 222,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "tribhuvan-university-cricket-ground-kirtipur-nepal-stadium",
+    "canonical_name": "Tribhuvan University Cricket Ground",
+    "city": "Kirtipur",
+    "country": "Nepal",
+    "venue_class": "stadium",
+    "source_line": 224,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "milliy-stadium-tashkent-uzbekistan-stadium",
+    "canonical_name": "Milliy Stadium",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "venue_class": "stadium",
+    "source_line": 228,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "u-s-bank-stadium-minneapolis-united-states-stadium",
+    "canonical_name": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 240,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "fenway-park-boston-united-states-stadium",
+    "canonical_name": "Fenway Park",
+    "city": "Boston",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 263,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "loandepot-park-miami-united-states-stadium",
+    "canonical_name": "LoanDepot Park",
+    "city": "Miami",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 272,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": 25.7780733,
+    "candidate_lon": -80.219554,
+    "osm_site_id": "relation/8736190",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/8736190",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/8736190",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=LoanDepot+Park%2C+Miami%2C+United+States&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/893fc8c9e5476189c317d83938a29094f743e9f58a5db7925fbc2e3655545b93.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "target-field-minneapolis-united-states-stadium",
+    "canonical_name": "Target Field",
+    "city": "Minneapolis",
+    "country": "United States",
+    "venue_class": "stadium",
+    "source_line": 276,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "olympic-stadium-montreal-canada-stadium",
+    "canonical_name": "Olympic Stadium",
+    "city": "Montreal",
+    "country": "Canada",
+    "venue_class": "stadium",
+    "source_line": 282,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": 45.5577984,
+    "candidate_lon": -73.5516458,
+    "osm_site_id": "way/108505523",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/108505523",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/108505523",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Olympic+Stadium%2C+Montreal%2C+Canada&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/a95644835e73e675bb1057e8ce9b16fea6cc04a87bd2fa7f73f59f870194b12e.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "stadium-australia-sydney-australia-stadium",
+    "canonical_name": "Stadium Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 345,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -33.8471082,
+    "candidate_lon": 151.0633848,
+    "osm_site_id": "way/4385777",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/4385777",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/4385777",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Stadium+Australia%2C+Sydney%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/954d269fc2b3e3888a949b3c5db091b07c7296be6d5bc8d106a21e0512923d77.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "optus-stadium-perth-australia-stadium",
+    "canonical_name": "Optus Stadium",
+    "city": "Perth",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 346,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -31.9510448,
+    "candidate_lon": 115.8890756,
+    "osm_site_id": "way/695799456",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/695799456",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/695799456",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Optus+Stadium%2C+Perth%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/c6a092dfd9e34ccd92d5fc0a0018be04e1619a5dc96fccd86b23470b0bbfd706.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "marvel-stadium-melbourne-australia-stadium",
+    "canonical_name": "Marvel Stadium",
+    "city": "Melbourne",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 349,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -37.816529,
+    "candidate_lon": 144.947517,
+    "osm_site_id": "way/22971441",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/22971441",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/22971441",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Marvel+Stadium%2C+Melbourne%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/92c86a4999f06082ce9bddc256009d2454fe145c77b118ef86fca3f6f6d7399b.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "sydney-cricket-ground-sydney-australia-stadium",
+    "canonical_name": "Sydney Cricket Ground",
+    "city": "Sydney",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 350,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -33.8914241,
+    "candidate_lon": 151.2247484,
+    "osm_site_id": "way/387975057",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/387975057",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/387975057",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Sydney+Cricket+Ground%2C+Sydney%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/1314648d751120650f64f4b86f6b87b4329f271e30c47f007ba19bb76e5caa4e.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "gmhba-stadium-geelong-australia-stadium",
+    "canonical_name": "GMHBA Stadium",
+    "city": "Geelong",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 352,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -38.1581856,
+    "candidate_lon": 144.3544373,
+    "osm_site_id": "way/723117321",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/723117321",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/723117321",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=GMHBA+Stadium%2C+Geelong%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/79f40bb931c22b52115ece53e7314f356e68c1c48a5e12109e3c833ffee4d017.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "norwood-oval-adelaide-australia-stadium",
+    "canonical_name": "Norwood Oval",
+    "city": "Adelaide",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 353,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "the-gabba-brisbane-australia-stadium",
+    "canonical_name": "The Gabba",
+    "city": "Brisbane",
+    "country": "Australia",
+    "venue_class": "stadium",
+    "source_line": 354,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -27.485885,
+    "candidate_lon": 153.0379847,
+    "osm_site_id": "way/4049692",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/4049692",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/4049692",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=The+Gabba%2C+Brisbane%2C+Australia&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/f9a0dc14fd22703fcd0c0909e0c4946a063cec9b29f8fea996eb80fb96544382.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "sky-stadium-wellington-new-zealand-stadium",
+    "canonical_name": "Sky Stadium",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "venue_class": "stadium",
+    "source_line": 356,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "apollo-projects-stadium-christchurch-new-zealand-stadium",
+    "canonical_name": "Apollo Projects Stadium",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "venue_class": "stadium",
+    "source_line": 358,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-football-stadium-honiara-solomon-islands-stadium",
+    "canonical_name": "National Football Stadium",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "venue_class": "stadium",
+    "source_line": 359,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "loto-tonga-soka-centre-nuku-alofa-tonga-stadium",
+    "canonical_name": "Loto-Tonga Soka Centre",
+    "city": "Nuku'alofa",
+    "country": "Tonga",
+    "venue_class": "stadium",
+    "source_line": 360,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "national-stadium-port-moresby-papua-new-guinea-stadium",
+    "canonical_name": "National Stadium",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "venue_class": "stadium",
+    "source_line": 361,
+    "focal_definition": "playing-surface centre",
+    "status": "manual_required",
+    "resolution_reason": "no_unique_exact_osm_stadium_match"
+  },
+  {
+    "venue_id": "sir-john-guise-stadium-port-moresby-papua-new-guinea-stadium",
+    "canonical_name": "Sir John Guise Stadium",
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "venue_class": "stadium",
+    "source_line": 362,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -9.4409136,
+    "candidate_lon": 147.1853919,
+    "osm_site_id": "way/525253713",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/525253713",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/525253713",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Sir+John+Guise+Stadium%2C+Port+Moresby%2C+Papua+New+Guinea&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/c17d82219af60abc75e449dcaf8a825d3ebd5c02ac07b1841e5f8697f71558d5.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "lawson-tama-stadium-honiara-solomon-islands-stadium",
+    "canonical_name": "Lawson Tama Stadium",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "venue_class": "stadium",
+    "source_line": 363,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -9.4362334,
+    "candidate_lon": 159.9713598,
+    "osm_site_id": "way/613190463",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/613190463",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/613190463",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Lawson+Tama+Stadium%2C+Honiara%2C+Solomon+Islands&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/57c624f68a5bfc259d94513c61e3795d507c934837e49938de8d2cca8713dee2.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  },
+  {
+    "venue_id": "korman-stadium-port-vila-vanuatu-stadium",
+    "canonical_name": "Korman Stadium",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "venue_class": "stadium",
+    "source_line": 364,
+    "focal_definition": "playing-surface centre",
+    "candidate_lat": -17.7341849,
+    "candidate_lon": 168.3367941,
+    "osm_site_id": "way/164077407",
+    "status": "manual_required",
+    "resolution_reason": "exact_name_osm_stadium_feature",
+    "derivation_method": "Nominatim OSM stadium representative point; place marker on playing surface",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/164077407",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/164077407",
+    "source_snapshots": {
+      "nominatim": {
+        "source": "Nominatim",
+        "url": "https://nominatim.openstreetmap.org/search?q=Korman+Stadium%2C+Port+Vila%2C+Vanuatu&format=jsonv2&addressdetails=1&namedetails=1&extratags=1&limit=10",
+        "cache_file": "data/source-cache/nominatim-candidates-v1/3e1bc0758e2e4868cac5224ef801ad01f4ffb8ea3d6a26c5a7f31175f6dd7698.json"
+      }
+    },
+    "attribution": "© OpenStreetMap contributors"
+  }
+]
