@@ -1,0 +1,252 @@
+[
+  {
+    "venue_id": "estadio-ciudad-de-la-plata-la-plata-argentina-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/node/3156711531",
+    "focal_evidence_url": "https://www.openstreetmap.org/node/3156711531",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies the stadium node, but no unambiguous separately mapped playing surface was established; no stadium centroid substituted."
+  },
+  {
+    "venue_id": "estadio-cuscatlan-san-salvador-el-salvador-stadium",
+    "independent_lat": 13.681084,
+    "independent_lon": -89.222109,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/1546379365",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/199411419",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Cuscatlán and maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-da-ilha-do-retiro-recife-brazil-stadium",
+    "independent_lat": -8.062851,
+    "independent_lon": -34.903000,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/8330801",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/262543072",
+    "result": "pass",
+    "notes": "OSM identifies Estádio da Ilha do Retiro and separately maps the stadium soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-da-luz-lisbon-portugal-stadium",
+    "independent_lat": 38.752797,
+    "independent_lon": -9.184654,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/71229178",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/54756292",
+    "result": "pass",
+    "notes": "OSM identifies Estádio da Luz and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-de-la-cartuja-seville-spain-stadium",
+    "independent_lat": 37.417307,
+    "independent_lon": -6.004712,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/410348018",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/22741912",
+    "result": "pass",
+    "notes": "OSM identifies Estadio de La Cartuja and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-defensores-del-chaco-asuncion-paraguay-stadium",
+    "independent_lat": -25.292000,
+    "independent_lon": -57.657483,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/259350389",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/124632032",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Defensores del Chaco and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-do-dragao-porto-portugal-stadium",
+    "independent_lat": 41.161875,
+    "independent_lon": -8.583605,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/547707192",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/161124321",
+    "result": "pass",
+    "notes": "OSM identifies Estádio do Dragão and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-el-campin-bogota-colombia-stadium",
+    "independent_lat": 4.645875,
+    "independent_lon": -74.077650,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/24020167",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/226327160",
+    "result": "pass",
+    "notes": "OSM identifies Estadio El Campín and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-elias-figueroa-brander-valparaiso-chile-stadium",
+    "independent_lat": -33.022192,
+    "independent_lon": -71.639661,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/6377674",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/280078193",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Elías Figueroa Brander and separately maps the nearest central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-general-pablo-rojas-asuncion-paraguay-stadium",
+    "independent_lat": -25.299738,
+    "independent_lon": -57.637436,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/752705556",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/273261560",
+    "result": "pass",
+    "notes": "OSM identifies Estadio General Pablo Rojas and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-hernando-siles-la-paz-bolivia-stadium",
+    "independent_lat": -16.499531,
+    "independent_lon": -68.122738,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/552505719",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/148644726",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Hernando Siles and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-jalisco-guadalajara-mexico-stadium",
+    "independent_lat": 20.705128,
+    "independent_lon": -103.328151,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/1014985700",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1351866044",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Jalisco and separately maps its soccer playing surface; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-jose-alvalade-lisbon-portugal-stadium",
+    "independent_lat": 38.761307,
+    "independent_lon": -9.160877,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/657418772",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/54756293",
+    "result": "pass",
+    "notes": "OSM identifies Estádio José Alvalade and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-mane-garrincha-brasilia-brazil-stadium",
+    "independent_lat": -15.783496,
+    "independent_lon": -47.899434,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/178591256",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1160426074",
+    "result": "pass",
+    "notes": "OSM identifies Estádio Mané Garrincha and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-mario-alberto-kempes-cordoba-argentina-stadium",
+    "independent_lat": -31.368834,
+    "independent_lon": -64.246169,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/154248210",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/241767661",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Mario Alberto Kempes and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-metropolitano-roberto-melendez-barranquilla-colombia-stadium",
+    "independent_lat": 10.927020,
+    "independent_lon": -74.800574,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/201775192",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/201769175",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Metropolitano Roberto Meléndez and separately maps its soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-monumental-buenos-aires-argentina-stadium",
+    "independent_lat": -34.545407,
+    "independent_lon": -58.449681,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/1646999",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/23242896",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Monumental in Buenos Aires and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-monumental-david-arellano-santiago-chile-stadium",
+    "independent_lat": -33.506491,
+    "independent_lon": -70.606066,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/14111047",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/52100765",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Monumental David Arellano and separately maps its soccer playing surface; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-monumental-de-maturin-maturin-venezuela-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Monumental%20de%20Maturin",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Monumental%20de%20Maturin",
+    "result": "needs_adjudication",
+    "notes": "No unambiguous mapped stadium and separately mapped playing surface was resolved from independent OSM search; coordinate withheld."
+  },
+  {
+    "venue_id": "estadio-monumental-lima-peru-stadium",
+    "independent_lat": -12.055574,
+    "independent_lon": -76.936087,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/8535577",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/617256681",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Monumental in Lima and separately maps its soccer playing surface; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-nacional-chelato-ucles-tegucigalpa-honduras-stadium",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Nacional%20Chelato%20Ucles%20Tegucigalpa",
+    "focal_evidence_url": "https://www.openstreetmap.org/search?query=Estadio%20Nacional%20Chelato%20Ucles%20Tegucigalpa",
+    "result": "needs_adjudication",
+    "notes": "No unambiguous mapped stadium and separately mapped playing surface was resolved from independent OSM search; coordinate withheld."
+  },
+  {
+    "venue_id": "estadio-nacional-de-costa-rica-san-jose-costa-rica-stadium",
+    "independent_lat": 9.936854,
+    "independent_lon": -84.107628,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/222243861",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/222243849",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Nacional de Costa Rica and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-nacional-doroteo-guamuch-flores-guatemala-city-guatemala-stadium",
+    "independent_lat": 14.625888,
+    "independent_lon": -90.510238,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/44811783",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1119935770",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Nacional Doroteo Guamuch Flores and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-nacional-julio-martinez-pradanos-santiago-chile-stadium",
+    "independent_lat": -33.464389,
+    "independent_lon": -70.610680,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/28092600",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/52100528",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Nacional Julio Martínez Prádanos and separately maps its central soccer pitch; pitch centre used."
+  },
+  {
+    "venue_id": "estadio-nacional-lima-peru-stadium",
+    "independent_lat": -12.067217,
+    "independent_lon": -77.033821,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/568381963",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/291070363",
+    "result": "pass",
+    "notes": "OSM identifies Estadio Nacional in Lima and separately maps its central soccer pitch; pitch centre used."
+  }
+]

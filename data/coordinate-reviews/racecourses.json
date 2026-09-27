@@ -1,0 +1,52 @@
+[
+  {
+    "venue_id": "kenilworth-racecourse-cape-town-south-africa-racecourse",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/2061376",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=-33.995530~18.485020&lvl=18&style=a",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies the named Cape Town racecourse. Current aerial imagery shows several racing surfaces and no unambiguous, source-labelled winning post; a coordinate is withheld."
+  },
+  {
+    "venue_id": "hipodromo-de-palermo-buenos-aires-argentina-racecourse",
+    "independent_lat": -34.568025,
+    "independent_lon": -58.424211,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/18772836",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=-34.568025~-58.424211&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Aerial review places the winning post on the main dirt-track home straight directly in front of the grandstand."
+  },
+  {
+    "venue_id": "flemington-racecourse-melbourne-australia-racecourse",
+    "independent_lat": -37.788972,
+    "independent_lon": 144.910667,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.vrc.com.au/visit-us/plan-your-visit/",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=-37.788972~144.910667&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Victoria Racing Club identifies the Winning Post at the Grandstand; aerial imagery places it on the home straight at this point."
+  },
+  {
+    "venue_id": "ascot-racecourse-ascot-england-racecourse",
+    "independent_lat": 51.412588,
+    "independent_lon": -0.675675,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/17572746",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=51.412588~-0.675675&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Aerial review places the winning post on the racing surface at the east end of the main grandstand."
+  },
+  {
+    "venue_id": "meydan-racecourse-dubai-united-arab-emirates-racecourse",
+    "independent_lat": 25.157500,
+    "independent_lon": 55.301250,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.dubairacingclub.com/",
+    "focal_evidence_url": "https://www.bing.com/maps?cp=25.157500~55.301250&lvl=20&style=a",
+    "result": "pass",
+    "notes": "Aerial imagery locates the winning post on the turf racing surface alongside the Meydan grandstand."
+  }
+]

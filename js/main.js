@@ -30,7 +30,7 @@ async function main() {
 
   let venuesData;
   try {
-    venuesData = await loadVenuesData('data/sample-venues.json');
+    venuesData = await loadVenuesData('data/live-venues.json');
   } catch (err) {
     showFatalError(`Couldn't load the venue data — ${err.message}`);
     return;

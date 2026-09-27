@@ -31,7 +31,7 @@ export function selectTodayVenues(dayIndex, venuesData) {
   });
 }
 
-export async function loadVenuesData(url = 'data/sample-venues.json') {
+export async function loadVenuesData(url = 'data/live-venues.json') {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to load ${url}: HTTP ${res.status}`);
   return res.json();

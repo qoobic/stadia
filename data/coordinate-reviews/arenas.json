@@ -1,0 +1,52 @@
+[
+  {
+    "venue_id": "arena-carioca-1-rio-de-janeiro-brazil-arena",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/5637037",
+    "focal_evidence_url": "https://www.openstreetmap.org/relation/5637037",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies Arena Carioca 1, but does not map its indoor competition floor. No venue-building centroid was substituted for the required floor centre."
+  },
+  {
+    "venue_id": "rod-laver-arena-melbourne-australia-arena",
+    "independent_lat": -37.821592,
+    "independent_lon": 144.978586,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/45738964",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/1239949235",
+    "result": "pass",
+    "notes": "OSM identifies Rod Laver Arena and separately maps the tennis court inside it; the mapped court centre supplies the competition-floor centre."
+  },
+  {
+    "venue_id": "minsk-arena-minsk-belarus-arena",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/292848094",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/292848094",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies Minsk Arena, but no indoor competition floor is separately mapped. The arena footprint is not an acceptable focal-point fallback."
+  },
+  {
+    "venue_id": "lusail-sports-arena-lusail-qatar-arena",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/322578389",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/322578389",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies Lusail Sports Arena, but does not provide a separately mapped indoor competition floor."
+  },
+  {
+    "venue_id": "ginasio-do-ibirapuera-sao-paulo-brazil-arena",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/33798359",
+    "focal_evidence_url": "https://www.openstreetmap.org/way/33798359",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies Ginásio Estadual Geraldo José de Almeida (Ginásio do Ibirapuera), but no competition floor is separately mapped."
+  }
+]

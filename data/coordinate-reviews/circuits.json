@@ -1,0 +1,52 @@
+[
+  {
+    "venue_id": "kyalami-grand-prix-circuit-midrand-south-africa-circuit",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.kyalamigrandprixcircuit.com/about-kyalami/",
+    "focal_evidence_url": "https://www.motorsport.co.za/wp-content/uploads/2025/07/V2-FoM-Speed-Challenge-and-ZX10-MSA-SRs-20251.pdf",
+    "result": "needs_adjudication",
+    "notes": "The official circuit evidence identifies the current 4.522 km layout and labels its start and finish lines, but supplies no georeferenced line geometry. No circuit centroid or approximate point was substituted."
+  },
+  {
+    "venue_id": "autodromo-jose-carlos-pace-sao-paulo-brazil-circuit",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/relation/2560355",
+    "focal_evidence_url": "https://www.fia.com/news/2013-brazilian-grand-prix-preview",
+    "result": "needs_adjudication",
+    "notes": "OSM identifies Autódromo José Carlos Pace and FIA material identifies its start/finish straight, but neither source gives a georeferenced current start/finish-line geometry."
+  },
+  {
+    "venue_id": "mount-panorama-circuit-bathurst-australia-circuit",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/mount-panorama/wahluu",
+    "focal_evidence_url": "https://motorsport.hyundai.com/wp-content/uploads/2023/11/2023.1-Mount-Panorama-Circuit-Diagram-1.pdf",
+    "result": "needs_adjudication",
+    "notes": "The circuit diagram marks the control line, but its coordinates are not published. The documented offset between Mount Panorama's standing-start and finish lines also prevents treating a generic track point as the required focal point."
+  },
+  {
+    "venue_id": "red-bull-ring-spielberg-austria-circuit",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/822592396",
+    "focal_evidence_url": "https://www.fia.com/file/82799/download",
+    "result": "needs_adjudication",
+    "notes": "OSM maps the Red Bull Ring raceway and FIA event material labels start/finish, but the source does not publish a coordinate for that line."
+  },
+  {
+    "venue_id": "bahrain-international-circuit-sakhir-bahrain-circuit",
+    "independent_lat": null,
+    "independent_lon": null,
+    "reviewer_id": "reviewer_b",
+    "identity_evidence_url": "https://www.openstreetmap.org/way/156351878",
+    "focal_evidence_url": "https://www.bahraingp.com/corporate-sales/track-hire/",
+    "result": "needs_adjudication",
+    "notes": "Bahrain International Circuit publishes the Grand Prix layout's start/finish-straight details, but no georeferenced start/finish line. No track centroid was substituted."
+  }
+]

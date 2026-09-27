@@ -5,10 +5,10 @@ const BANDS = ['l1', 'l2', 'l3', 'l4', 'l5'];
 const CLASSES = ['stadium', 'arena', 'circuit', 'racecourse', 'golf'];
 
 // Loaded once before the suite is registered; test.html awaits this module.
-const data = await loadVenuesData('../../data/sample-venues.json');
+const data = await loadVenuesData('../../data/live-venues.json');
 const all = BANDS.flatMap(b => data[b] || []);
 
-suite('sample-data');
+suite('live-data');
 
 test('declares a launchDate as YYYY-MM-DD', () => {
   assertTrue(/^\d{4}-\d{2}-\d{2}$/.test(data.launchDate), `bad launchDate: ${data.launchDate}`);
