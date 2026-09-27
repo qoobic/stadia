@@ -104,6 +104,38 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:03:47.381Z"
       }
+    },
+    {
+      "id": "audi-field-washington-united-states-stadium",
+      "venueId": "audi-field-washington-united-states-stadium",
+      "name": "Audi Field",
+      "city": "Washington",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.868399,
+      "lng": -77.012856,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:10.233Z"
+      }
+    },
+    {
+      "id": "aviva-stadium-dublin-ireland-stadium",
+      "venueId": "aviva-stadium-dublin-ireland-stadium",
+      "name": "Aviva Stadium",
+      "city": "Dublin",
+      "country": "Ireland",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.335193,
+      "lng": -6.228267,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:21.853Z"
+      }
     }
   ],
   "l2": [
@@ -334,6 +366,86 @@
         "decision": "apply",
         "audited_at": "2026-09-27T11:03:31.498Z"
       }
+    },
+    {
+      "id": "bank-of-america-stadium-charlotte-united-states-stadium",
+      "venueId": "bank-of-america-stadium-charlotte-united-states-stadium",
+      "name": "Bank of America Stadium",
+      "city": "Charlotte",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.225833,
+      "lng": -80.852844,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:38.166Z"
+      }
+    },
+    {
+      "id": "bmo-field-toronto-canada-stadium",
+      "venueId": "bmo-field-toronto-canada-stadium",
+      "name": "BMO Field",
+      "city": "Toronto",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.63325059814215,
+      "lng": -79.41859423854056,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:08:47.824Z"
+      }
+    },
+    {
+      "id": "brisbane-cricket-ground-brisbane-australia-stadium",
+      "venueId": "brisbane-cricket-ground-brisbane-australia-stadium",
+      "name": "Brisbane Cricket Ground",
+      "city": "Brisbane",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -27.485837791599103,
+      "lng": 153.0380996964165,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:14.656Z"
+      }
+    },
+    {
+      "id": "busan-asiad-main-stadium-busan-south-korea-stadium",
+      "venueId": "busan-asiad-main-stadium-busan-south-korea-stadium",
+      "name": "Busan Asiad Main Stadium",
+      "city": "Busan",
+      "country": "South Korea",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.190083,
+      "lng": 129.05833,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:28.017Z"
+      }
+    },
+    {
+      "id": "cape-town-stadium-cape-town-south-africa-stadium",
+      "venueId": "cape-town-stadium-cape-town-south-africa-stadium",
+      "name": "Cape Town Stadium",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -33.90349182808802,
+      "lng": 18.41117084481637,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:58.720Z"
+      }
     }
   ],
   "l4": [
@@ -502,6 +614,102 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:03:06.123Z"
+      }
+    },
+    {
+      "id": "ataturk-olympic-stadium-istanbul-turkiye-stadium",
+      "venueId": "ataturk-olympic-stadium-istanbul-turkiye-stadium",
+      "name": "Atatürk Olympic Stadium",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.074456,
+      "lng": 28.765701,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:05.946Z"
+      }
+    },
+    {
+      "id": "basaksehir-fatih-terim-stadium-istanbul-turkiye-stadium",
+      "venueId": "basaksehir-fatih-terim-stadium-istanbul-turkiye-stadium",
+      "name": "Başakşehir Fatih Terim Stadium",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.122793,
+      "lng": 28.808744,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:51.241Z"
+      }
+    },
+    {
+      "id": "bc-place-vancouver-canada-stadium",
+      "venueId": "bc-place-vancouver-canada-stadium",
+      "name": "BC Place",
+      "city": "Vancouver",
+      "country": "Canada",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 49.27658448524493,
+      "lng": -123.11225927094688,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:08:06.224Z"
+      }
+    },
+    {
+      "id": "beira-rio-porto-alegre-brazil-stadium",
+      "venueId": "beira-rio-porto-alegre-brazil-stadium",
+      "name": "Beira-Rio",
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -30.06550526186134,
+      "lng": -51.235886505731266,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:08:12.582Z"
+      }
+    },
+    {
+      "id": "boris-paichadze-dinamo-arena-tbilisi-georgia-stadium",
+      "venueId": "boris-paichadze-dinamo-arena-tbilisi-georgia-stadium",
+      "name": "Boris Paichadze Dinamo Arena",
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.723035471641516,
+      "lng": 44.789749674794905,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:08.478Z"
+      }
+    },
+    {
+      "id": "castelao-fortaleza-brazil-stadium",
+      "venueId": "castelao-fortaleza-brazil-stadium",
+      "name": "Castelão",
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -3.807302467888789,
+      "lng": -38.522416953174734,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:10:06.408Z"
       }
     }
   ],
@@ -764,6 +972,134 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T11:03:36.457Z"
+      }
+    },
+    {
+      "id": "azadi-stadium-tehran-iran-stadium",
+      "venueId": "azadi-stadium-tehran-iran-stadium",
+      "name": "Azadi Stadium",
+      "city": "Tehran",
+      "country": "Iran",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.72446152299677,
+      "lng": 51.27557246771391,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:28.570Z"
+      }
+    },
+    {
+      "id": "basra-international-stadium-basra-iraq-stadium",
+      "venueId": "basra-international-stadium-basra-iraq-stadium",
+      "name": "Basra International Stadium",
+      "city": "Basra",
+      "country": "Iraq",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 30.439938,
+      "lng": 47.779877,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:07:56.183Z"
+      }
+    },
+    {
+      "id": "benjamin-mkapa-national-stadium-dar-es-salaam-tanzania-stadium",
+      "venueId": "benjamin-mkapa-national-stadium-dar-es-salaam-tanzania-stadium",
+      "name": "Benjamin Mkapa National Stadium",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -6.853545,
+      "lng": 39.273814,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:08:28.132Z"
+      }
+    },
+    {
+      "id": "borg-el-arab-stadium-alexandria-egypt-stadium",
+      "venueId": "borg-el-arab-stadium-alexandria-egypt-stadium",
+      "name": "Borg El Arab Stadium",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 30.999464682897656,
+      "lng": 29.729443793731885,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:08:58.307Z"
+      }
+    },
+    {
+      "id": "bukit-jalil-national-stadium-kuala-lumpur-malaysia-stadium",
+      "venueId": "bukit-jalil-national-stadium-kuala-lumpur-malaysia-stadium",
+      "name": "Bukit Jalil National Stadium",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 3.054664,
+      "lng": 101.691363,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:19.158Z"
+      }
+    },
+    {
+      "id": "cairo-international-stadium-cairo-egypt-stadium",
+      "venueId": "cairo-international-stadium-cairo-egypt-stadium",
+      "name": "Cairo International Stadium",
+      "city": "Cairo",
+      "country": "Egypt",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 30.069126460363602,
+      "lng": 31.312298470842137,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:38.750Z"
+      }
+    },
+    {
+      "id": "camille-chamoun-sports-city-stadium-beirut-lebanon-stadium",
+      "venueId": "camille-chamoun-sports-city-stadium-beirut-lebanon-stadium",
+      "name": "Camille Chamoun Sports City Stadium",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 33.867064,
+      "lng": 35.496128,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:09:43.096Z"
+      }
+    },
+    {
+      "id": "central-stadium-almaty-kazakhstan-stadium",
+      "venueId": "central-stadium-almaty-kazakhstan-stadium",
+      "name": "Central Stadium",
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.238365,
+      "lng": 76.924198,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:10:17.470Z"
       }
     }
   ]
