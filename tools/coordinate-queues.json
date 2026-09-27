@@ -12,6 +12,12 @@
     "url": "../data/coordinate-drafts/batches/stadiums-005.json"
   },
   {
+    "id": "stadiums-manual-starts",
+    "label": "Stadiums \u2014 manual starting points",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/remaining/manual-stadium-starts.json"
+  },
+  {
     "id": "stadiums-americas",
     "label": "Stadiums Americas",
     "type": "candidates",

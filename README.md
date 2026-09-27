@@ -16,17 +16,18 @@ Append `?dev` for the dev panel (day navigation, clear state, celebration test).
 ## Manually review stadium coordinates
 
 Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
-Choose a queue from the selector. It lists two stadium batches, the Americas
-region queue, and all current live venues. Each option shows how many records
-have a starting point, plus the total queue size. Current
-queue sizes are:
+Choose a queue from the selector. It lists two stadium batches, six manual
+stadium starting points, the Americas region queue, and all current live venues.
+Each option shows how many records have a starting point, plus the total queue
+size. Current queue sizes are:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
 | Stadiums 004 | 25 | 25 |
 | Stadiums 005 | 20 | 25 |
+| Stadiums — manual starting points | 6 | 6 |
 | Stadiums Americas | 28 | 40 |
-| Live venues | 92 | 92 |
+| Live venues | 158 | 158 |
 
 The audit page opens each available point on satellite imagery with its venue
 name, city, and country. Drag the marker, choose difficulty 1–5, and submit it
@@ -34,6 +35,8 @@ to immediately add or update the venue in `data/live-venues.json`. Choose
 **Don't know** to skip it for now. The page shows whether the venue is already
 live. Progress through each queue is saved in this browser; previously staged
 coordinate changes appear as pending submissions when you revisit the queue.
+The manual starting points use provisional Wikidata venue coordinates; move
+each marker to its playing surface before submitting.
 
 ## Tests
 
