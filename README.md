@@ -7,11 +7,35 @@ satellite view per round, one guess each via autocomplete. Sibling project to
 ## Local dev
 
 ```bash
-python3 -m http.server 8000
-open http://localhost:8000/
+python3 tools/server.py
+open http://127.0.0.1:8000/
 ```
 
 Append `?dev` for the dev panel (day navigation, clear state, celebration test).
+
+## Manually review stadium coordinates
+
+Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
+Choose a queue from the selector. It lists four stadium batches, the Americas
+region queue, and all current live venues. Each option
+shows how many records have a starting point, plus the total queue size. Current
+queue sizes are:
+
+| Queue | Points to review | Total records |
+|---|---:|---:|
+| Stadiums 002 | 21 | 25 |
+| Stadiums 003 | 23 | 25 |
+| Stadiums 004 | 25 | 25 |
+| Stadiums 005 | 20 | 25 |
+| Stadiums Americas | 28 | 40 |
+| Live venues | 45 | 45 |
+
+The audit page opens each available point on satellite imagery with its venue
+name, city, and country. Drag the marker, choose difficulty 1–5, and submit it
+to immediately add or update the venue in `data/live-venues.json`. Choose
+**Don't know** to skip it for now. The page shows whether the venue is already
+live. Progress through each queue is saved in this browser; previously staged
+coordinate changes appear as pending submissions when you revisit the queue.
 
 ## Tests
 
@@ -26,10 +50,10 @@ Python test runner from the repository root.
 
 ## The venue data is currently a placeholder
 
-`data/sample-venues.json` is **temporary development data**. Its coordinates are
+`data/live-venues.json` is the **current live dataset**. Its coordinates are
 approximate and hand-entered; they have not been through the catalogue's verification
 pipeline and must not be treated as verified. The file marks itself with
-`"_temporary": true`, and `tests/js/sample-data.test.js` asserts that flag is present —
+`"_temporary": true`, and `tests/js/live-data.test.js` asserts that flag is present —
 so swapping in real data without clearing the flag fails the suite loudly.
 
 Two known consequences, both properties of the placeholder rather than the game:
@@ -64,7 +88,7 @@ as an ES module.
 
 ### Bands are difficulty, not venue class
 
-`data/sample-venues.json` holds five bands, `l1` (most recognisable) through `l5`
+`data/live-venues.json` holds five bands, `l1` (most recognisable) through `l5`
 (hardest). Each day draws one venue per band via `list[dayIndex % list.length]`, where
 day 0 is `launchDate`. `venueClass` (`stadium`, `arena`, `circuit`, `racecourse`,
 `golf`) is metadata: it informs the default zoom and the reveal display, and is reported

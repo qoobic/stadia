@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stadiums-002",
+    "label": "Stadiums 002",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/batches/stadiums-002.json"
+  },
+  {
+    "id": "stadiums-003",
+    "label": "Stadiums 003",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/batches/stadiums-003.json"
+  },
+  {
+    "id": "stadiums-004",
+    "label": "Stadiums 004",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/batches/stadiums-004.json"
+  },
+  {
+    "id": "stadiums-005",
+    "label": "Stadiums 005",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/batches/stadiums-005.json"
+  },
+  {
+    "id": "stadiums-americas",
+    "label": "Stadiums Americas",
+    "type": "candidates",
+    "url": "../data/coordinate-drafts/regions/stadiums-americas.json"
+  },
+  {
+    "id": "live-venues",
+    "label": "Live venues",
+    "type": "live",
+    "url": "../data/live-venues.json"
+  }
+]

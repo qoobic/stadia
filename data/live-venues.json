@@ -56,6 +56,54 @@
         "decision": "apply",
         "audited_at": "2026-09-27T10:56:38.520Z"
       }
+    },
+    {
+      "id": "allianz-parque-sao-paulo-brazil-stadium",
+      "venueId": "allianz-parque-sao-paulo-brazil-stadium",
+      "name": "Allianz Parque",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -23.527502,
+      "lng": -46.678531,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:26.745Z"
+      }
+    },
+    {
+      "id": "american-family-field-milwaukee-united-states-stadium",
+      "venueId": "american-family-field-milwaukee-united-states-stadium",
+      "name": "American Family Field",
+      "city": "Milwaukee",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.028039,
+      "lng": -87.971055,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:54.365Z"
+      }
+    },
+    {
+      "id": "at-t-stadium-arlington-united-states-stadium",
+      "venueId": "at-t-stadium-arlington-united-states-stadium",
+      "name": "AT&T Stadium",
+      "city": "Arlington",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 32.74760187968214,
+      "lng": -97.09291937048417,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:47.381Z"
+      }
     }
   ],
   "l2": [
@@ -98,22 +146,6 @@
       }
     },
     {
-      "id": "anfield",
-      "venueId": "anfield-liverpool-england-stadium",
-      "name": "Anfield",
-      "city": "Liverpool",
-      "country": "England",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": 53.4308,
-      "lng": -2.9609,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:56:48.074Z"
-      }
-    },
-    {
       "id": "circuit-de-monaco",
       "venueId": "circuit-de-monaco-monaco-monaco-circuit",
       "name": "Circuit de Monaco",
@@ -133,22 +165,6 @@
       }
     },
     {
-      "id": "allianz-arena",
-      "venueId": "allianz-arena-munich-germany-stadium",
-      "name": "Allianz Arena",
-      "city": "Munich",
-      "country": "Germany",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": 48.21885050584932,
-      "lng": 11.624932643734175,
-      "zoom": 16,
-      "coordinate_review": {
-        "decision": "apply",
-        "audited_at": "2026-09-27T10:57:19.845Z"
-      }
-    },
-    {
       "id": "old-trafford",
       "venueId": "old-trafford-manchester-england-stadium",
       "name": "Old Trafford",
@@ -164,6 +180,38 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:57:32.220Z"
+      }
+    },
+    {
+      "id": "allianz-arena",
+      "venueId": "allianz-arena-munich-germany-stadium",
+      "name": "Allianz Arena",
+      "city": "Munich",
+      "country": "Germany",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.21884342197,
+      "lng": 11.624978251043862,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:15.191Z"
+      }
+    },
+    {
+      "id": "anfield",
+      "venueId": "anfield-liverpool-england-stadium",
+      "name": "Anfield",
+      "city": "Liverpool",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.430846,
+      "lng": -2.96082,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:58.715Z"
       }
     }
   ],
@@ -221,6 +269,70 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:57:10.028Z"
+      }
+    },
+    {
+      "id": "adelaide-oval-adelaide-australia-stadium",
+      "venueId": "adelaide-oval-adelaide-australia-stadium",
+      "name": "Adelaide Oval",
+      "city": "Adelaide",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.915496,
+      "lng": 138.596273,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:58:50.506Z"
+      }
+    },
+    {
+      "id": "allianz-stadium-turin-italy-stadium",
+      "venueId": "allianz-stadium-turin-italy-stadium",
+      "name": "Allianz Stadium",
+      "city": "Turin",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 45.10956480644137,
+      "lng": 7.641299674730649,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:46.933Z"
+      }
+    },
+    {
+      "id": "arena-corinthians-sao-paulo-brazil-stadium",
+      "venueId": "arena-corinthians-sao-paulo-brazil-stadium",
+      "name": "Arena Corinthians",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -23.545319,
+      "lng": -46.474226,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:02:14.307Z"
+      }
+    },
+    {
+      "id": "arrowhead-stadium-kansas-city-united-states-stadium",
+      "venueId": "arrowhead-stadium-kansas-city-united-states-stadium",
+      "name": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.049002258473664,
+      "lng": -94.48408486540299,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:31.498Z"
       }
     }
   ],
@@ -295,6 +407,102 @@
         "decision": "apply",
         "audited_at": "2026-09-27T10:57:26.319Z"
       }
+    },
+    {
+      "id": "estadio-libertadores-de-america-avellaneda-argentina-stadium",
+      "venueId": "estadio-libertadores-de-america-avellaneda-argentina-stadium",
+      "name": "Estadio Libertadores de América",
+      "city": "Avellaneda",
+      "country": "Argentina",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.670224,
+      "lng": -58.371016,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:58:45.558Z"
+      }
+    },
+    {
+      "id": "ernst-happel-stadion-vienna-austria-stadium",
+      "venueId": "ernst-happel-stadion-vienna-austria-stadium",
+      "name": "Ernst-Happel-Stadion",
+      "city": "Vienna",
+      "country": "Austria",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 48.20716140348064,
+      "lng": 16.4209878542236,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:58:58.179Z"
+      }
+    },
+    {
+      "id": "arena-das-dunas-natal-brazil-stadium",
+      "venueId": "arena-das-dunas-natal-brazil-stadium",
+      "name": "Arena das Dunas",
+      "city": "Natal",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -5.826800633602267,
+      "lng": -35.212404732488814,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:02:38.219Z"
+      }
+    },
+    {
+      "id": "arena-do-gremio-porto-alegre-brazil-stadium",
+      "venueId": "arena-do-gremio-porto-alegre-brazil-stadium",
+      "name": "Arena do Grêmio",
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -29.97418644436099,
+      "lng": -51.19478431982718,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:02:45.923Z"
+      }
+    },
+    {
+      "id": "arena-fonte-nova-salvador-brazil-stadium",
+      "venueId": "arena-fonte-nova-salvador-brazil-stadium",
+      "name": "Arena Fonte Nova",
+      "city": "Salvador",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -12.9788508661436,
+      "lng": -38.50427985581603,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:02:54.732Z"
+      }
+    },
+    {
+      "id": "arena-lviv-lviv-ukraine-stadium",
+      "venueId": "arena-lviv-lviv-ukraine-stadium",
+      "name": "Arena Lviv",
+      "city": "Lviv",
+      "country": "Ukraine",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 49.77476199233454,
+      "lng": 24.02778894359615,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:06.123Z"
+      }
     }
   ],
   "l5": [
@@ -348,6 +556,214 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:57:01.170Z"
+      }
+    },
+    {
+      "id": "stade-du-5-juillet-1962-algiers-algeria-stadium",
+      "venueId": "stade-du-5-juillet-1962-algiers-algeria-stadium",
+      "name": "Stade du 5-Juillet-1962",
+      "city": "Algiers",
+      "country": "Algeria",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 36.759894,
+      "lng": 2.995157,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:58:37.605Z"
+      }
+    },
+    {
+      "id": "national-stadium-manama-bahrain-stadium",
+      "venueId": "national-stadium-manama-bahrain-stadium",
+      "name": "National Stadium",
+      "city": "Manama",
+      "country": "Bahrain",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 26.153569676091976,
+      "lng": 50.5436164043137,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:59:05.504Z"
+      }
+    },
+    {
+      "id": "accra-sports-stadium-accra-ghana-stadium",
+      "venueId": "accra-sports-stadium-accra-ghana-stadium",
+      "name": "Accra Sports Stadium",
+      "city": "Accra",
+      "country": "Ghana",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 5.551472443078815,
+      "lng": -0.19191473592371946,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:59:26.787Z"
+      }
+    },
+    {
+      "id": "ahmad-bin-ali-stadium-al-rayyan-qatar-stadium",
+      "venueId": "ahmad-bin-ali-stadium-al-rayyan-qatar-stadium",
+      "name": "Ahmad bin Ali Stadium",
+      "city": "Al Rayyan",
+      "country": "Qatar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.32961416502751,
+      "lng": 51.342319248805936,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:00:26.120Z"
+      }
+    },
+    {
+      "id": "ak-bars-arena-kazan-russia-stadium",
+      "venueId": "ak-bars-arena-kazan-russia-stadium",
+      "name": "Ak Bars Arena",
+      "city": "Kazan",
+      "country": "Russia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 55.82099504696888,
+      "lng": 49.16077672394524,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:00:34.536Z"
+      }
+    },
+    {
+      "id": "al-awwal-park-riyadh-saudi-arabia-stadium",
+      "venueId": "al-awwal-park-riyadh-saudi-arabia-stadium",
+      "name": "Al-Awwal Park",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 24.729238079206755,
+      "lng": 46.62381738684474,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:00:43.341Z"
+      }
+    },
+    {
+      "id": "al-bayt-stadium-al-khor-qatar-stadium",
+      "venueId": "al-bayt-stadium-al-khor-qatar-stadium",
+      "name": "Al Bayt Stadium",
+      "city": "Al Khor",
+      "country": "Qatar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.652080733423734,
+      "lng": 51.48776738664964,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:00:50.124Z"
+      }
+    },
+    {
+      "id": "al-janoub-stadium-al-wakrah-qatar-stadium",
+      "venueId": "al-janoub-stadium-al-wakrah-qatar-stadium",
+      "name": "Al Janoub Stadium",
+      "city": "Al Wakrah",
+      "country": "Qatar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.159871349876116,
+      "lng": 51.574110384853206,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:00:58.858Z"
+      }
+    },
+    {
+      "id": "al-maktoum-stadium-dubai-united-arab-emirates-stadium",
+      "venueId": "al-maktoum-stadium-dubai-united-arab-emirates-stadium",
+      "name": "Al Maktoum Stadium",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.2399311219021,
+      "lng": 55.3129005393103,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:01:04.383Z"
+      }
+    },
+    {
+      "id": "arena-da-baixada-curitiba-brazil-stadium",
+      "venueId": "arena-da-baixada-curitiba-brazil-stadium",
+      "name": "Arena da Baixada",
+      "city": "Curitiba",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -25.44808952525298,
+      "lng": -49.27698613253823,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:02:24.927Z"
+      }
+    },
+    {
+      "id": "arena-nationala-bucharest-romania-stadium",
+      "venueId": "arena-nationala-bucharest-romania-stadium",
+      "name": "Arena Națională",
+      "city": "Bucharest",
+      "country": "Romania",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.437223379062445,
+      "lng": 26.15250349304972,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:17.398Z"
+      }
+    },
+    {
+      "id": "arena-pernambuco-sao-lourenco-da-mata-brazil-stadium",
+      "venueId": "arena-pernambuco-sao-lourenco-da-mata-brazil-stadium",
+      "name": "Arena Pernambuco",
+      "city": "São Lourenço da Mata",
+      "country": "Brazil",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -8.040691,
+      "lng": -35.008181,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:23.198Z"
+      }
+    },
+    {
+      "id": "ashgabat-olympic-stadium-ashgabat-turkmenistan-stadium",
+      "venueId": "ashgabat-olympic-stadium-ashgabat-turkmenistan-stadium",
+      "name": "Ashgabat Olympic Stadium",
+      "city": "Ashgabat",
+      "country": "Turkmenistan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 37.904424,
+      "lng": 58.377179,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T11:03:36.457Z"
       }
     }
   ]
