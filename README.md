@@ -22,8 +22,8 @@ plus the total queue size. Current queue sizes are:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
-| Golf course rough starts | 50 | 67 |
-| Live venues | 272 | 272 |
+| Golf course rough starts | 0 | 11 |
+| Live venues | 328 | 328 |
 
 The audit page opens each available point on satellite imagery with its venue
 name, city, and country. Drag the marker, choose difficulty 1–5, and submit it

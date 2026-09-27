@@ -2352,6 +2352,86 @@
         "decision": "apply",
         "audited_at": "2026-09-27T15:13:13.471Z"
       }
+    },
+    {
+      "id": "kiawah-island-golf-resort-kiawah-island-united-states-golf",
+      "venueId": "kiawah-island-golf-resort-kiawah-island-united-states-golf",
+      "name": "Kiawah Island Golf Resort",
+      "city": "Kiawah Island",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 32.61198665556797,
+      "lng": -80.0212383972728,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:30:09.537Z"
+      }
+    },
+    {
+      "id": "royal-queensland-golf-club-brisbane-australia-golf",
+      "venueId": "royal-queensland-golf-club-brisbane-australia-golf",
+      "name": "Royal Queensland Golf Club",
+      "city": "Brisbane",
+      "country": "Australia",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -27.44166049675853,
+      "lng": 153.09235837771064,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:30:20.533Z"
+      }
+    },
+    {
+      "id": "royal-adelaide-golf-club-seaton-australia-golf",
+      "venueId": "royal-adelaide-golf-club-seaton-australia-golf",
+      "name": "Royal Adelaide Golf Club",
+      "city": "Seaton",
+      "country": "Australia",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -34.89480943668346,
+      "lng": 138.5093486231,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:30:33.574Z"
+      }
+    },
+    {
+      "id": "the-lakes-golf-club-sydney-australia-golf",
+      "venueId": "the-lakes-golf-club-sydney-australia-golf",
+      "name": "The Lakes Golf Club",
+      "city": "Sydney",
+      "country": "Australia",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": -33.93308856924951,
+      "lng": 151.21391096993932,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:30:46.341Z"
+      }
+    },
+    {
+      "id": "jumeirah-golf-estates-dubai-united-arab-emirates-golf",
+      "venueId": "jumeirah-golf-estates-dubai-united-arab-emirates-golf",
+      "name": "Jumeirah Golf Estates",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 25.023221104941268,
+      "lng": 55.200784294848866,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:30:58.541Z"
+      }
     }
   ],
   "l4": [
@@ -3894,6 +3974,22 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T15:17:41.394Z"
+      }
+    },
+    {
+      "id": "pinehurst-no-2-pinehurst-united-states-golf",
+      "venueId": "pinehurst-no-2-pinehurst-united-states-golf",
+      "name": "Pinehurst No. 2",
+      "city": "Pinehurst",
+      "country": "United States",
+      "venueClass": "golf",
+      "aliases": [],
+      "lat": 35.19171,
+      "lng": -79.46073,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T15:29:55.267Z"
       }
     }
   ],
