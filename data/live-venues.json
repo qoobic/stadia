@@ -14,9 +14,13 @@
         "Estádio do Maracanã",
         "Estádio Jornalista Mário Filho"
       ],
-      "lat": -22.9121,
-      "lng": -43.2302,
-      "zoom": 16
+      "lat": -22.9121690975326,
+      "lng": -43.23020607363134,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:43:56.568Z"
+      }
     },
     {
       "id": "spotify-camp-nou",
@@ -31,7 +35,11 @@
       ],
       "lat": 41.3809,
       "lng": 2.1228,
-      "zoom": 16
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:13.846Z"
+      }
     },
     {
       "id": "wembley-stadium",
@@ -43,22 +51,11 @@
       "aliases": [],
       "lat": 51.556,
       "lng": -0.2796,
-      "zoom": 16
-    },
-    {
-      "id": "circuit-de-monaco",
-      "venueId": "circuit-de-monaco-monaco-monaco-circuit",
-      "name": "Circuit de Monaco",
-      "city": "Monaco",
-      "country": "Monaco",
-      "venueClass": "circuit",
-      "aliases": [
-        "Monte Carlo",
-        "Monaco Grand Prix Circuit"
-      ],
-      "lat": 43.7347,
-      "lng": 7.4206,
-      "zoom": 14
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:38.520Z"
+      }
     }
   ],
   "l2": [
@@ -73,9 +70,13 @@
         "Estadio Santiago Bernabéu",
         "The Bernabéu"
       ],
-      "lat": 40.4531,
-      "lng": -3.6883,
-      "zoom": 16
+      "lat": 40.45312952688367,
+      "lng": -3.6883565920091015,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:19.737Z"
+      }
     },
     {
       "id": "madison-square-garden",
@@ -88,9 +89,48 @@
         "MSG",
         "The Garden"
       ],
-      "lat": 40.7505,
-      "lng": -73.9934,
-      "zoom": 17
+      "lat": 40.75050813876094,
+      "lng": -73.99345906019646,
+      "zoom": 17,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:43.124Z"
+      }
+    },
+    {
+      "id": "anfield",
+      "venueId": "anfield-liverpool-england-stadium",
+      "name": "Anfield",
+      "city": "Liverpool",
+      "country": "England",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 53.4308,
+      "lng": -2.9609,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:48.074Z"
+      }
+    },
+    {
+      "id": "circuit-de-monaco",
+      "venueId": "circuit-de-monaco-monaco-monaco-circuit",
+      "name": "Circuit de Monaco",
+      "city": "Monaco",
+      "country": "Monaco",
+      "venueClass": "circuit",
+      "aliases": [
+        "Monte Carlo",
+        "Monaco Grand Prix Circuit"
+      ],
+      "lat": 43.73444147240736,
+      "lng": 7.421313101214132,
+      "zoom": 14,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:06.311Z"
+      }
     },
     {
       "id": "allianz-arena",
@@ -100,9 +140,13 @@
       "country": "Germany",
       "venueClass": "stadium",
       "aliases": [],
-      "lat": 48.2188,
-      "lng": 11.6247,
-      "zoom": 16
+      "lat": 48.21885050584932,
+      "lng": 11.624932643734175,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:19.845Z"
+      }
     },
     {
       "id": "old-trafford",
@@ -114,9 +158,13 @@
       "aliases": [
         "The Theatre of Dreams"
       ],
-      "lat": 53.4631,
-      "lng": -2.2913,
-      "zoom": 16
+      "lat": 53.46308486786647,
+      "lng": -2.291322653728676,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:32.220Z"
+      }
     }
   ],
   "l3": [
@@ -131,21 +179,13 @@
         "MCG",
         "The G"
       ],
-      "lat": -37.82,
-      "lng": 144.9834,
-      "zoom": 16
-    },
-    {
-      "id": "anfield",
-      "venueId": "anfield-liverpool-england-stadium",
-      "name": "Anfield",
-      "city": "Liverpool",
-      "country": "England",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": 53.4308,
-      "lng": -2.9609,
-      "zoom": 16
+      "lat": -37.81997813042544,
+      "lng": 144.98345018668985,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:23.678Z"
+      }
     },
     {
       "id": "spa-francorchamps",
@@ -157,9 +197,13 @@
       "aliases": [
         "Spa"
       ],
-      "lat": 50.4372,
-      "lng": 5.9714,
-      "zoom": 13
+      "lat": 50.437417891937585,
+      "lng": 5.971283881438066,
+      "zoom": 13,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:51.324Z"
+      }
     },
     {
       "id": "augusta-national",
@@ -171,9 +215,13 @@
       "aliases": [
         "Augusta National"
       ],
-      "lat": 33.503,
-      "lng": -82.0199,
-      "zoom": 15
+      "lat": 33.500608722185085,
+      "lng": -82.02375457257223,
+      "zoom": 15,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:10.028Z"
+      }
     }
   ],
   "l4": [
@@ -187,9 +235,13 @@
       "aliases": [
         "Aintree"
       ],
-      "lat": 53.4769,
-      "lng": -2.9403,
-      "zoom": 14
+      "lat": 53.47694949771396,
+      "lng": -2.939765323252641,
+      "zoom": 14,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:30.587Z"
+      }
     },
     {
       "id": "estadio-azteca",
@@ -201,9 +253,13 @@
       "aliases": [
         "Azteca Stadium"
       ],
-      "lat": 19.3029,
-      "lng": -99.1505,
-      "zoom": 16
+      "lat": 19.303047963459942,
+      "lng": -99.1504257735284,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:55.520Z"
+      }
     },
     {
       "id": "st-james-park",
@@ -213,9 +269,13 @@
       "country": "England",
       "venueClass": "stadium",
       "aliases": [],
-      "lat": 54.9756,
-      "lng": -1.6217,
-      "zoom": 16
+      "lat": 54.975524806289876,
+      "lng": -1.6214892053538945,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:16.728Z"
+      }
     },
     {
       "id": "suncorp-stadium",
@@ -228,38 +288,16 @@
         "Lang Park",
         "Brisbane Stadium"
       ],
-      "lat": -27.4649,
-      "lng": 153.0095,
-      "zoom": 16
+      "lat": -27.46481328241895,
+      "lng": 153.00962540584104,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:26.319Z"
+      }
     }
   ],
   "l5": [
-    {
-      "id": "de-kuip",
-      "venueId": "de-kuip-rotterdam-netherlands-stadium",
-      "name": "De Kuip",
-      "city": "Rotterdam",
-      "country": "Netherlands",
-      "venueClass": "stadium",
-      "aliases": [
-        "Stadion Feijenoord"
-      ],
-      "lat": 51.8939,
-      "lng": 4.523,
-      "zoom": 16
-    },
-    {
-      "id": "estadio-hernando-siles",
-      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
-      "name": "Estadio Hernando Siles",
-      "city": "La Paz",
-      "country": "Bolivia",
-      "venueClass": "stadium",
-      "aliases": [],
-      "lat": -16.5053,
-      "lng": -68.1247,
-      "zoom": 16
-    },
     {
       "id": "royal-county-down",
       "venueId": "royal-county-down-golf-club-newcastle-northern-ireland-golf",
@@ -276,6 +314,40 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T10:31:11.557Z"
+      }
+    },
+    {
+      "id": "de-kuip",
+      "venueId": "de-kuip-rotterdam-netherlands-stadium",
+      "name": "De Kuip",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "venueClass": "stadium",
+      "aliases": [
+        "Stadion Feijenoord"
+      ],
+      "lat": 51.893852855350225,
+      "lng": 4.523183449628544,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:56:36.287Z"
+      }
+    },
+    {
+      "id": "estadio-hernando-siles",
+      "venueId": "estadio-hernando-siles-la-paz-bolivia-stadium",
+      "name": "Estadio Hernando Siles",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -16.499474000356273,
+      "lng": -68.12264262719313,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T10:57:01.170Z"
       }
     }
   ]
