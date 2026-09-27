@@ -1,7 +1,7 @@
 {
   "_temporary": true,
   "_warning": "LIVE INITIAL DATA. Coordinates are approximate and hand-entered; they are not verified catalogue coordinates. Replace this file with the verified export (which omits _temporary) when it is ready. See README.md.",
-  "launchDate": "2026-09-13",
+  "launchDate": "2026-09-27",
   "l1": [
     {
       "id": "spotify-camp-nou",
@@ -548,6 +548,22 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T12:26:19.412Z"
+      }
+    },
+    {
+      "id": "u-s-bank-stadium-minneapolis-united-states-stadium",
+      "venueId": "u-s-bank-stadium-minneapolis-united-states-stadium",
+      "name": "U.S. Bank Stadium",
+      "city": "Minneapolis",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.97348881946437,
+      "lng": -93.25705980900445,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:34.786Z"
       }
     }
   ],
@@ -1188,6 +1204,182 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T15:11:03.589Z"
+      }
+    },
+    {
+      "id": "metropolitano-stadium-madrid-spain-stadium",
+      "venueId": "metropolitano-stadium-madrid-spain-stadium",
+      "name": "Metropolitano Stadium",
+      "city": "Madrid",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 40.43616050274571,
+      "lng": -3.599460067731649,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:14.333Z"
+      }
+    },
+    {
+      "id": "san-mames-stadium-bilbao-spain-stadium",
+      "venueId": "san-mames-stadium-bilbao-spain-stadium",
+      "name": "San Mamés Stadium",
+      "city": "Bilbao",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.26401280832405,
+      "lng": -2.9492336127858314,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:22.967Z"
+      }
+    },
+    {
+      "id": "mestalla-stadium-valencia-spain-stadium",
+      "venueId": "mestalla-stadium-valencia-spain-stadium",
+      "name": "Mestalla Stadium",
+      "city": "Valencia",
+      "country": "Spain",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.47457254536829,
+      "lng": -0.35816073547749516,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:29.987Z"
+      }
+    },
+    {
+      "id": "stade-velodrome-marseille-france-stadium",
+      "venueId": "stade-velodrome-marseille-france-stadium",
+      "name": "Stade Vélodrome",
+      "city": "Marseille",
+      "country": "France",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.26966704871535,
+      "lng": 5.3958642378688815,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:41.616Z"
+      }
+    },
+    {
+      "id": "johan-cruyff-arena-amsterdam-netherlands-stadium",
+      "venueId": "johan-cruyff-arena-amsterdam-netherlands-stadium",
+      "name": "Johan Cruyff Arena",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 52.3143492967431,
+      "lng": 4.941862802066069,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:49.641Z"
+      }
+    },
+    {
+      "id": "stadio-olimpico-rome-italy-stadium",
+      "venueId": "stadio-olimpico-rome-italy-stadium",
+      "name": "Stadio Olimpico",
+      "city": "Rome",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 41.933950945566345,
+      "lng": 12.454751737770367,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:48:59.067Z"
+      }
+    },
+    {
+      "id": "workers-stadium-beijing-china-stadium",
+      "venueId": "workers-stadium-beijing-china-stadium",
+      "name": "Workers' Stadium",
+      "city": "Beijing",
+      "country": "China",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 39.929528,
+      "lng": 116.441139,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:23.328Z"
+      }
+    },
+    {
+      "id": "king-abdullah-sports-city-jeddah-saudi-arabia-stadium",
+      "venueId": "king-abdullah-sports-city-jeddah-saudi-arabia-stadium",
+      "name": "King Abdullah Sports City",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 21.762892372854306,
+      "lng": 39.16432321201713,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:03.616Z"
+      }
+    },
+    {
+      "id": "narendra-modi-stadium-ahmedabad-india-stadium",
+      "venueId": "narendra-modi-stadium-ahmedabad-india-stadium",
+      "name": "Narendra Modi Stadium",
+      "city": "Ahmedabad",
+      "country": "India",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 23.0917717,
+      "lng": 72.5973345,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:14.165Z"
+      }
+    },
+    {
+      "id": "fenway-park-boston-united-states-stadium",
+      "venueId": "fenway-park-boston-united-states-stadium",
+      "name": "Fenway Park",
+      "city": "Boston",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 42.346389,
+      "lng": -71.0975,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:40.312Z"
+      }
+    },
+    {
+      "id": "sky-stadium-wellington-new-zealand-stadium",
+      "venueId": "sky-stadium-wellington-new-zealand-stadium",
+      "name": "Sky Stadium",
+      "city": "Wellington",
+      "country": "New Zealand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -41.27303,
+      "lng": 174.78587,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:52:06.607Z"
       }
     }
   ],
@@ -2431,6 +2623,166 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T15:30:58.541Z"
+      }
+    },
+    {
+      "id": "stadio-artemio-franchi-florence-italy-stadium",
+      "venueId": "stadio-artemio-franchi-florence-italy-stadium",
+      "name": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "country": "Italy",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.78078495722156,
+      "lng": 11.282755120879557,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:49:10.716Z"
+      }
+    },
+    {
+      "id": "parken-stadium-copenhagen-denmark-stadium",
+      "venueId": "parken-stadium-copenhagen-denmark-stadium",
+      "name": "Parken Stadium",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 55.7027043,
+      "lng": 12.5722638,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:49:19.525Z"
+      }
+    },
+    {
+      "id": "national-stadium-tokyo-japan-stadium",
+      "venueId": "national-stadium-tokyo-japan-stadium",
+      "name": "National Stadium",
+      "city": "Tokyo",
+      "country": "Japan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 35.677709576594225,
+      "lng": 139.71436849071168,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:13.403Z"
+      }
+    },
+    {
+      "id": "khalifa-international-stadium-doha-qatar-stadium",
+      "venueId": "khalifa-international-stadium-doha-qatar-stadium",
+      "name": "Khalifa International Stadium",
+      "city": "Doha",
+      "country": "Qatar",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.263569110864363,
+      "lng": 51.44837387520895,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:50.409Z"
+      }
+    },
+    {
+      "id": "king-fahd-sports-city-stadium-riyadh-saudi-arabia-stadium",
+      "venueId": "king-fahd-sports-city-stadium-riyadh-saudi-arabia-stadium",
+      "name": "King Fahd Sports City Stadium",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 24.78855,
+      "lng": 46.83914,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:57.678Z"
+      }
+    },
+    {
+      "id": "sheikh-zayed-sports-city-stadium-abu-dhabi-united-arab-emirates-stadium",
+      "venueId": "sheikh-zayed-sports-city-stadium-abu-dhabi-united-arab-emirates-stadium",
+      "name": "Sheikh Zayed Sports City Stadium",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 24.416089,
+      "lng": 54.453592,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:08.699Z"
+      }
+    },
+    {
+      "id": "target-field-minneapolis-united-states-stadium",
+      "venueId": "target-field-minneapolis-united-states-stadium",
+      "name": "Target Field",
+      "city": "Minneapolis",
+      "country": "United States",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 44.9816845,
+      "lng": -93.2778643,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:48.840Z"
+      }
+    },
+    {
+      "id": "norwood-oval-adelaide-australia-stadium",
+      "venueId": "norwood-oval-adelaide-australia-stadium",
+      "name": "Norwood Oval",
+      "city": "Adelaide",
+      "country": "Australia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -34.9198188,
+      "lng": 138.6304715,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:57.707Z"
+      }
+    },
+    {
+      "id": "olympic-stadium-of-athens-marousi-greece-stadium",
+      "venueId": "olympic-stadium-of-athens-marousi-greece-stadium",
+      "name": "Olympic Stadium of Athens",
+      "city": "Marousi",
+      "country": "Greece",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 38.03609260064708,
+      "lng": 23.787546137023167,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T18:20:15.647Z"
+      }
+    },
+    {
+      "id": "zabeel-stadium-dubai-united-arab-emirates-stadium",
+      "venueId": "zabeel-stadium-dubai-united-arab-emirates-stadium",
+      "name": "Zabeel Stadium",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 25.219108333431027,
+      "lng": 55.31707135936858,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T18:20:27.710Z"
       }
     }
   ],
@@ -3991,6 +4343,102 @@
         "decision": "apply",
         "audited_at": "2026-09-27T15:29:55.267Z"
       }
+    },
+    {
+      "id": "stadion-poljud-split-croatia-stadium",
+      "venueId": "stadion-poljud-split-croatia-stadium",
+      "name": "Stadion Poljud",
+      "city": "Split",
+      "country": "Croatia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 43.5195411,
+      "lng": 16.4319187,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:49:30.599Z"
+      }
+    },
+    {
+      "id": "tofiq-bahramov-stadium-baku-azerbaijan-stadium",
+      "venueId": "tofiq-bahramov-stadium-baku-azerbaijan-stadium",
+      "name": "Tofiq Bahramov Stadium",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 40.39734426107592,
+      "lng": 49.852378951415545,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:49:41.483Z"
+      }
+    },
+    {
+      "id": "luzhniki-stadium-moscow-russia-stadium",
+      "venueId": "luzhniki-stadium-moscow-russia-stadium",
+      "name": "Luzhniki Stadium",
+      "city": "Moscow",
+      "country": "Russia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 55.71576197687302,
+      "lng": 37.55359228132852,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:49:55.037Z"
+      }
+    },
+    {
+      "id": "jakarta-international-stadium-jakarta-indonesia-stadium",
+      "venueId": "jakarta-international-stadium-jakarta-indonesia-stadium",
+      "name": "Jakarta International Stadium",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -6.124937569729903,
+      "lng": 106.8604195651303,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:33.083Z"
+      }
+    },
+    {
+      "id": "supachalasai-stadium-bangkok-thailand-stadium",
+      "venueId": "supachalasai-stadium-bangkok-thailand-stadium",
+      "name": "Supachalasai Stadium",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 13.745476609918683,
+      "lng": 100.52570703767512,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:50:42.716Z"
+      }
+    },
+    {
+      "id": "apollo-projects-stadium-christchurch-new-zealand-stadium",
+      "venueId": "apollo-projects-stadium-christchurch-new-zealand-stadium",
+      "name": "Apollo Projects Stadium",
+      "city": "Christchurch",
+      "country": "New Zealand",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": -43.54382004454966,
+      "lng": 172.6040446550133,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T18:20:38.664Z"
+      }
     }
   ],
   "l5": [
@@ -5292,6 +5740,22 @@
       "coordinate_review": {
         "decision": "apply",
         "audited_at": "2026-09-27T15:17:37.810Z"
+      }
+    },
+    {
+      "id": "tribhuvan-university-cricket-ground-kirtipur-nepal-stadium",
+      "venueId": "tribhuvan-university-cricket-ground-kirtipur-nepal-stadium",
+      "name": "Tribhuvan University Cricket Ground",
+      "city": "Kirtipur",
+      "country": "Nepal",
+      "venueClass": "stadium",
+      "aliases": [],
+      "lat": 27.67789388189705,
+      "lng": 85.29032791222754,
+      "zoom": 16,
+      "coordinate_review": {
+        "decision": "apply",
+        "audited_at": "2026-09-27T17:51:25.849Z"
       }
     }
   ]

@@ -16,12 +16,11 @@ Append `?dev` for the dev panel (day navigation, clear state, celebration test).
 ## Manually review venue coordinates
 
 Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
-Choose the live venues queue. It shows the number of records with coordinates
-and the total queue size:
+Choose a review queue. The current queue sizes are:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
-| Live venues | 328 | 328 |
+| Live venues | 357 | 357 |
 
 The audit page opens each available point on satellite imagery with its venue
 name, city, and country. Drag the marker, choose difficulty 1–5, and submit it
