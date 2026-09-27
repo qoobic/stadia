@@ -1,11 +1,5 @@
 [
   {
-    "id": "golf-wikidata-starts",
-    "label": "Golf course rough starts",
-    "type": "candidates",
-    "url": "../data/coordinate-drafts/remaining/golf-wikidata-starts.json"
-  },
-  {
     "id": "live-venues",
     "label": "Live venues",
     "type": "live",

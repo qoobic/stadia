@@ -16,13 +16,11 @@ Append `?dev` for the dev panel (day navigation, clear state, celebration test).
 ## Manually review venue coordinates
 
 Start the local server above and open `http://127.0.0.1:8000/tools/audit.html`.
-Choose a queue from the selector. It lists rough golf course starts and all
-current live venues. Each option shows how many records have a starting point,
-plus the total queue size. Current queue sizes are:
+Choose the live venues queue. It shows the number of records with coordinates
+and the total queue size:
 
 | Queue | Points to review | Total records |
 |---|---:|---:|
-| Golf course rough starts | 0 | 11 |
 | Live venues | 328 | 328 |
 
 The audit page opens each available point on satellite imagery with its venue
@@ -31,11 +29,6 @@ to immediately add or update the venue in `data/live-venues.json`. Choose
 **Don't know** to skip it for now. The page shows whether the venue is already
 live. Progress through each queue is saved in this browser; previously staged
 coordinate changes appear as pending submissions when you revisit the queue.
-OSM candidate coordinates are provisional venue-feature points; check and move
-each marker to the playing surface. OpenStreetMap data is © OpenStreetMap
-contributors under the ODbL; each candidate includes its source feature link.
-Golf course rough starts use Wikidata's course location, not the 18th green;
-move the marker to the 18th green before submitting.
 
 ## Tests
 
