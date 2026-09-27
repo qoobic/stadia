@@ -1,6 +1,6 @@
 const TILE_URL = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
 const TILE_ATTRIBUTION = 'Imagery © Esri';
-const ZOOM_OUT_ALLOWANCE = 3;
+const ZOOM_OUT_ALLOWANCE = 5;
 
 let map = null;
 let truthMarker = null;
